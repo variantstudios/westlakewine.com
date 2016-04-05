@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]><html class="no-js lte-ie8" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en" {% if page.permalink == "/online-specials/" %}data-ng-app="specialsApp"{% endif %}><!--<![endif]-->
+  {% include head.html %}
+  <body {% if page.permalink == "/online-specials/" %}data-ng-controller="specialsCtrl"{% endif %}>
+  {% include browserupgrade.html %}
+  {% include hours.html %}
+  <div class="site-wrap">
+    {% include header.html %}
+    {{ content }}
+    {% include footer.html %}
+  </div>
+
+  {% include scripts.html %}
+  </body>
+</html>

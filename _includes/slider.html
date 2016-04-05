@@ -1,0 +1,15 @@
+<div class="my-slider">
+  <ul>
+    {% for item in site.slider %}
+    {% if item.show_slide == true %}
+      <li>
+        <img src="{{ item.image }}" />
+        <div class="caption">
+        <h3>{{ item.title }}</h3>
+        <a href="{{ item.link }}">{{ item.link_label }}</a>
+      </div>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

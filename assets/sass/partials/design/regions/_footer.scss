@@ -1,0 +1,68 @@
+footer {
+  padding: 1em 0 2em;
+  @include clearfix;
+  font-size: 110%;
+  background:$footer-bg;
+  position: relative;
+  z-index: 3;
+  h5 {
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 1.75em;
+  }
+  .hours-section {
+    .days {
+      font-weight: 700;
+      display: block;
+      @include breakpoint($desktop, $no-query: '.no-mq') {
+        width: 150px;
+        display: inline-block;
+      }
+    }
+    @include breakpoint($tablet, $no-query: '.no-mq') {
+      @include grid-span(4,1);
+    }
+  }
+
+  .location-section {
+    @include breakpoint($tablet, $no-query: '.no-mq') {
+      @include grid-span(4,5);
+    }
+  }
+  .facebook-section {
+    margin-top: 1em;
+    @include breakpoint($tablet, $no-query: '.no-mq') {
+      @include grid-span(4,9);
+    }
+    a {
+      text-decoration: none;
+    }
+    img {
+      float: left;
+      margin-right: 1em;
+    }
+    h5 {
+      overflow: hidden;
+      color: #3D5E96;
+      margin: 0;
+    }
+  }
+  .left {
+    clear: both;
+    padding-top: 3em;
+    text-transform: uppercase;
+    font-size: .9em;
+    @include breakpoint($tablet, $no-query: '.no-mq') {
+      float: left;
+    }
+  }
+  .right {
+    padding-top: 1em;
+    text-transform: uppercase;
+    font-size: .9em;
+    @include breakpoint($tablet, $no-query: '.no-mq') {
+      padding-top: 3em;
+      float: right;
+    }
+  }
+}

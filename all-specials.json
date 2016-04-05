@@ -1,0 +1,20 @@
+---
+layout: null
+sitemap:
+  exclude: 'yes'
+---
+[
+{% for specials in site.specials %}
+    {    
+    "title": {{ specials.title | jsonify }},
+    "image": "{{ specials.image }}",
+    "size": "{{ specials.size }}",
+    "expiration_date": "{{ specials.expiration_date | date_to_xmlschema }}",
+    "reg_price": "{{ specials.reg_price }}",
+    "special_price": "{{ specials.special_price }}",
+    "show_special": "{{ specials.show_special }}",
+    "relative_path": "{{ specials.relative_path }}"
+    }
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

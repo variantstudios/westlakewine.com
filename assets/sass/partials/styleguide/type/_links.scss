@@ -1,0 +1,26 @@
+a {
+  color: $link;
+  text-decoration: none;
+  &:hover {
+    color: $hover;
+    text-decoration: underline;
+  }
+  &:visited {
+    color: $visited;
+  }
+}
+
+.btn {
+  a {
+    display: inline-block;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 1.25em;
+    background: $color-two;
+    @include border-radius(40px);
+    color: #fff;
+    padding: .2em 1.75em;
+    box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.50);
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.30);
+  }
+}
