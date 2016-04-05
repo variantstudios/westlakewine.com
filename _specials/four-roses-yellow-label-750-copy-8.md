@@ -5,7 +5,7 @@ image: /assets/images/specials/tomatin-last.jpg
 reg_price: $32.99
 special_price: $24.99
 expiration_date: 2016-04-06T00:00:00.000Z
-show_special: true
+show_special: false
 ---
 
 
