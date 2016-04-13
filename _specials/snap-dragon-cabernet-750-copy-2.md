@@ -1,9 +1,9 @@
 ---
-title: COLUMBIA WINERY red blend
+title: TRIPLE CROWN butter scotch
 size: 750mL
-image: /assets/images/wines/columbia-winery (2).png
-reg_price: $14.99
-special_price: $9.99
+image: /assets/images/wines/triple-crown-butterscotch-whis (2).jpg
+reg_price: $17.99
+special_price: $14.99
 expiration_date: 2016-04-13T00:00:00.000Z
 show_special: true
 ---
