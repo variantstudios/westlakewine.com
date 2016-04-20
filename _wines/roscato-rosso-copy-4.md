@@ -1,5 +1,5 @@
 ---
-title: TUSCAN SUN pinot frigio
+title: TUSCAN SUN pinot grigio
 size: 750ML
 image: /assets/images/wines/tuscan-sun (2).jpg
 reg_price: $12.99
