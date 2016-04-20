@@ -1,11 +1,11 @@
 ---
-title: TRIPLE CROWN butter scotch
+title: "TIM SMITH'S Climax Moonshine original"
 size: 750mL
-image: /assets/images/wines/triple-crown-butterscotch-whis (2).jpg
-reg_price: $17.99
-special_price: $14.99
-expiration_date: 2016-04-20T00:00:00.000Z
-show_special: false
+image: /assets/images/wines/tim-smith (2).jpg
+reg_price: $32.99
+special_price: $27.99
+expiration_date: 2016-04-27T00:00:00.000Z
+show_special: true
 ---
 
 
