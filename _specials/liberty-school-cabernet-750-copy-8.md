@@ -1,6 +1,6 @@
 ---
 title: CAPTAIN MORGAN white rum
-size: 750mL
+size: 1.75L
 image: /assets/images/specials/captain-morgan (2).jpg
 reg_price: $27.99
 special_price: $17.99
