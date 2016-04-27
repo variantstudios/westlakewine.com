@@ -1,9 +1,9 @@
 ---
 title: LIBERATED pinot noir
 size: 750ML
-image: /assets/images/wines/vinos-de-los-muertos (2).png
-reg_price: $10.99
-special_price: $8.99
+image: /assets/images/wines/liberated (2).jpg
+reg_price: $14.99
+special_price: $11.99
 expiration_date: 2016-05-04T00:00:00.000Z
 show_wine: true
 ---
