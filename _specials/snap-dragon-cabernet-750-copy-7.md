@@ -1,11 +1,11 @@
 ---
-title: "TIM SMITH'S Climax Moonshine original"
+title: 'REPLICA CELLARS chardonnay & pinot noir'
 size: 750mL
-image: /assets/images/wines/tim-smith (2).jpg
-reg_price: $32.99
-special_price: $27.99
-expiration_date: 2016-04-27T00:00:00.000Z
-show_special: false
+image: /assets/images/wines/replica-cellars (2).jpg
+reg_price: $9.99-$14.99
+special_price: $7.49-10.99
+expiration_date: 2016-05-04T00:00:00.000Z
+show_special: true
 ---
 
 
