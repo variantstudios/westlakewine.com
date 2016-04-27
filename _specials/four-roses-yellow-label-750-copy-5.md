@@ -1,5 +1,5 @@
 ---
-title: "MAKERS MARK 'whiskey' orange & blue wax dip bottle"
+title: 'MAKERS MARK "whiskey" orange & blue wax dip bottle'
 size: 750ML
 image: /assets/images/specials/makers (2).jpg
 reg_price: $39.99
