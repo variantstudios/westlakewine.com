@@ -1,6 +1,6 @@
 ---
 title: LIBERTY SCHOOL cabernet sauvignon
-size: 1.75L
+size: 750mL
 image: /assets/images/specials/liberty school cab 750.jpg
 reg_price: $14.99
 special_price: $11.99
