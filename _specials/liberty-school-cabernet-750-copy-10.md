@@ -1,11 +1,11 @@
 ---
-title: CAPTAIN MORGAN white rum
+title: LIBERTY SCHOOL cabernet sauvignon
 size: 1.75L
-image: /assets/images/specials/captain-morgan (2).jpg
-reg_price: $27.99
-special_price: $17.99
-expiration_date: 2016-04-27T00:00:00.000Z
-show_special: false
+image: /assets/images/specials/liberty school cab 750.jpg
+reg_price: $14.99
+special_price: $11.99
+expiration_date: 2016-05-04T00:00:00.000Z
+show_special: true
 ---
 
 
