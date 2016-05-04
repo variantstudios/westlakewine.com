@@ -1,5 +1,5 @@
 ---
-title: GRAM PASSIONE rosso
+title: GRAN PASSIONE rosso
 size: 750ML
 image: /assets/images/wines/gran_passione_rosso_veneto_750 (2).png
 reg_price: $16.99
