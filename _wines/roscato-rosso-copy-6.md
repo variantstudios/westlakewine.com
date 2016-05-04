@@ -1,5 +1,5 @@
 ---
-title: ROSTELLO sparkling rose
+title: ROSATELLO sparkling rose
 size: 750ML
 image: /assets/images/wines/rosatello (2).jpg
 reg_price: $14.99
