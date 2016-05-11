@@ -1,6 +1,6 @@
 ---
 title: BRECKENRIDGE spice rum
-size: 750mL
+size: 750ML
 image: /assets/images/wines/breckenridge-spiced-run (2).jpg
 reg_price: $29.99
 special_price: $24.99
