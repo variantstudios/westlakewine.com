@@ -5,7 +5,7 @@ image: /assets/images/specials/stranahan_s_diamond_peak_color (2).jpg
 reg_price: $74.99
 special_price: $62.99
 expiration_date: 2016-05-25T00:00:00.000Z
-show_special: true
+show_special: false
 ---
 
 
