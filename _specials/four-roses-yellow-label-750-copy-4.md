@@ -1,10 +1,10 @@
 ---
-title: "STRANAHAN'S Diamond Peak 94 proof"
+title: KUNG FU GIRL riesling
 size: 750ML
-image: /assets/images/specials/stranahan_s_diamond_peak_color (2).jpg
-reg_price: $74.99
-special_price: $62.99
-expiration_date: 2016-05-25T00:00:00.000Z
+image: /assets/images/specials/kungfugirlriesling2012_base_4 (2).jpg
+reg_price: $11.99
+special_price: $8.99
+expiration_date: 2016-06-01T00:00:00.000Z
 show_special: true
 ---
 
