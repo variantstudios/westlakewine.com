@@ -1,6 +1,6 @@
 ---
-title: BELVEDERE VODKA cold activated gift set
-size: 750ML
+title: 'BUD, BUD LIGHT'
+size: 12 pk cans
 image: /assets/images/specials/belvedere-gift-set (2).jpg
 reg_price: $29.99
 special_price: $23.99
