@@ -1,5 +1,5 @@
 ---
-title: 'BUD, BUD LIGHT'
+title: 'BUD & BUD LIGHT'
 size: 12 pk cans
 image: /assets/images/specials/budw (2).jpg
 reg_price: $13.99
