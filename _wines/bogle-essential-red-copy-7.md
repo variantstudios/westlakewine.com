@@ -1,5 +1,5 @@
 ---
-title: GNARLY HEAD 1924 BLACKS
+title: GNARLY HEAD 1924 BLACK
 size: 750ML
 image: /assets/images/wines/gnarly_head_1924__ (2).jpg
 reg_price: $10.99
