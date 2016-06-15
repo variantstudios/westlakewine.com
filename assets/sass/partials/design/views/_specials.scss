@@ -8,7 +8,7 @@
    }
     @include breakpoint($desktop, $no-query: '.no-mq') {
      display: inline-block;
-     vertical-align: top; 
+     vertical-align: top;
      width: 49%;
    }
    .special-thumbnail {
@@ -40,7 +40,7 @@
     display: block;
     width: auto;
     margin: 0 auto;
-    //max-width: none;
+    max-height: 280px;
    }
    .expires {
     color: #D01818;
