@@ -1,5 +1,5 @@
 ---
-title: R COLLECTION
+title: R COLLECTION cabernet sauvignon
 size: 750ML
 image: /assets/images/wines/rcollection (2).jpg
 reg_price: $11.99
