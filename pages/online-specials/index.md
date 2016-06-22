@@ -6,5 +6,3 @@ permalink: /online-specials/
 ---
 
 Check out our latest Specials on sale today at Westlake Wine & Spirits.
-
-{% include online-specials.html %}
