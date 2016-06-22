@@ -1,5 +1,5 @@
 ---
-title: "TREE OLIVE'S Vodka"
+title: "THREE OLIVE'S Vodka"
 size: 1.75L
 image: /assets/images/specials/three-olives-vodka (2).png
 reg_price: $23.99
