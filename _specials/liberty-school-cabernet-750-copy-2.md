@@ -1,5 +1,5 @@
 ---
-title: SOUTHERN TIER
+title: SOUTHERN TIER - Salted Carmel
 size: 4pk
 image: /assets/images/specials/souther-tier (2).png
 reg_price: $19.49
@@ -9,4 +9,3 @@ show_special: true
 ---
 
 
-Salted Carmel
