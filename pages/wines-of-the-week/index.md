@@ -7,6 +7,6 @@ permalink: /wines-of-the-week/
 ---
 
 
-These wines are selected specifically for our free weekly wine tasting, every Friday from 4pm-7pm. &nbsp;This week's features–**4th of July wines**. Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help!
+These wines are selected specifically for our free weekly wine tasting, every Friday from 4pm-7pm. &nbsp;This week's features–**Hot Summer Wine**. Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help!
 
-Wine pricing good through 07/05/2016
+Wine pricing good through 07/12/2016
