@@ -1,5 +1,5 @@
 ---
-title: KUNG FU GIRL
+title: KUNG FU GIRL - Riesling
 size: 750ML
 image: /assets/images/specials/kung-fu (2).jpg
 reg_price: $11.99
