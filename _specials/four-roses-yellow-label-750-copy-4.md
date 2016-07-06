@@ -1,6 +1,6 @@
 ---
 title: EFFEN VODKA
-size: 375ML
+size: 750ML
 image: /assets/images/specials/effen-vodka-unflavored-23 (2).jpg
 reg_price: $24.99
 special_price: $19.99
