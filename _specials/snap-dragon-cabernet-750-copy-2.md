@@ -1,5 +1,5 @@
 ---
-title: YELLOWTAIL
+title: YELLOWTAIL - all types
 size: 1.5L
 image: /assets/images/wines/yellow-tail (2).jpg
 reg_price: $12.99
