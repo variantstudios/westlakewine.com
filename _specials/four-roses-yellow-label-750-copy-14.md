@@ -1,5 +1,5 @@
 ---
-title: FIREBALL - Cinnamon Shiskey
+title: FIREBALL - Cinnamon Whiskey
 size: 750ML
 image: /assets/images/specials/fireball_cinnamon_whiskey_750_ (2).jpg
 reg_price: $14.99
