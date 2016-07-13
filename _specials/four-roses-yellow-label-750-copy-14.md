@@ -9,4 +9,3 @@ show_special: true
 ---
 
 
-Riesling
