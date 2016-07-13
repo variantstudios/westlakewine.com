@@ -1,11 +1,11 @@
 ---
-title: "L'OSTAL CAZES - rose"
+title: TOAD HOLLOW - risque
 size: 750ML
-image: /assets/images/wines/l_ostal-cazes-rose (2).png
-reg_price: $12.99
-special_price: $10.99
-expiration_date: 2016-07-13T00:00:00.000Z
-show_wine: false
+image: /assets/images/wines/toad (2).jpg
+reg_price: $19.99
+special_price: $17.99
+expiration_date: 2016-07-20T00:00:00.000Z
+show_wine: true
 ---
 
 
