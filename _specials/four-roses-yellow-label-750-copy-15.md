@@ -1,11 +1,11 @@
 ---
-title: SUTTERHOME - white zinfandel
+title: MONOPOLOWA Vodka
 size: 750ML
-image: /assets/images/specials/sutterhomewhitezinfandel750ml_ (2).png
-reg_price: $5.99
-special_price: $4.49
-expiration_date: 2016-07-20T00:00:00.000Z
-show_special: false
+image: /assets/images/specials/mono (2).jpg
+reg_price: $13.99
+special_price: $10.49
+expiration_date: 2016-07-27T00:00:00.000Z
+show_special: true
 ---
 
 
