@@ -1,11 +1,11 @@
 ---
-title: 'A to Z - riesling & rose'
-size: 750ML
-image: /assets/images/wines/atozrose11-w-2 (2).jpg
-reg_price: $19.99
-special_price: $13.99
-expiration_date: 2016-07-27T00:00:00.000Z
-show_special: false
+title: HEINEKEN Light
+size: 12PK cans
+image: /assets/images/wines/heineken (2).jpg
+reg_price: $15.99
+special_price: $11.99
+expiration_date: 2016-08-03T00:00:00.000Z
+show_special: true
 ---
 
 
