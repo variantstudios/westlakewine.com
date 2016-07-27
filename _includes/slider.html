@@ -1,6 +1,7 @@
 <div class="my-slider">
   <ul>
-    {% for item in site.slider %}
+    {% assign sliders = site.slider | sort: 'weight' %}  
+    {% for item in sliders %}
     {% if item.show_slide == true %}
       <li>
         <img src="{{ item.image }}" />
