@@ -1,5 +1,5 @@
 ---
-title: RUM CHATA
+title: "AVERY Double D's, exdletus sour"
 size: 22oz Bottles
 image: /assets/images/specials/avery-brewing-double-ds-barrel (2).jpg
 reg_price: $12.99
