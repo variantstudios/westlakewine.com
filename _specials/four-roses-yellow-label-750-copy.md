@@ -5,7 +5,7 @@ image: /assets/images/specials/our-daily (2).png
 reg_price: $8.99
 special_price: $6.99
 expiration_date: 2016-08-10T00:00:00.000Z
-show_special: true
+show_special: false
 ---
 
 
