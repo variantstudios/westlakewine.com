@@ -5,7 +5,7 @@ image: /assets/images/specials/rumchata (2).jpg
 reg_price: $19.99
 special_price: $16.99
 expiration_date: 2016-08-10T00:00:00.000Z
-show_special: true
+show_special: false
 ---
 
 
