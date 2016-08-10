@@ -1,11 +1,11 @@
 ---
-title: ROCKY MOUNTAIN VINEYARDS - spiced mead
+title: PROPHECY - red blend
 size: 750ML
-image: /assets/images/wines/rkymtn.jpg
-reg_price: $14.99
-special_price: $12.99
-expiration_date: 2016-08-09T00:00:00.000Z
-show_wine: false
+image: /assets/images/wines/prophecy (2).jpg
+reg_price: $10.99
+special_price: $8.99
+expiration_date: 2016-08-16T00:00:00.000Z
+show_wine: true
 ---
 
 
