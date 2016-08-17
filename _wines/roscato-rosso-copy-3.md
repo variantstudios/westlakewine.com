@@ -1,5 +1,5 @@
 ---
-title: SALMON RUN - chardonnay-riesling
+title: BUENAS - viura
 size: 750ML
 image: /assets/images/wines/sr-2013-chardonnay-riesling (2).jpg
 reg_price: $10.99
