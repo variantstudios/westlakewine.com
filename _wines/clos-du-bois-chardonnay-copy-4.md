@@ -1,11 +1,11 @@
 ---
-title: PROPHECY - red blend
+title: YALUMBA - shiraz-viognier
 size: 750ML
-image: /assets/images/wines/prophecya.jpg
-reg_price: $10.99
-special_price: $8.99
-expiration_date: 2016-08-16T00:00:00.000Z
-show_wine: false
+image: /assets/images/wines/yalumba (2).jpg
+reg_price: $11.99
+special_price: $9.99
+expiration_date: 2016-08-24T00:00:00.000Z
+show_wine: true
 ---
 
 
