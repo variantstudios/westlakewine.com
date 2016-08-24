@@ -1,11 +1,11 @@
 ---
-title: RUM HAVEN - coconut rum
-size: 750ML
-image: /assets/images/specials/rumhaven3 (2).png
-reg_price: $16.99
-special_price: $12.99
-expiration_date: 2016-08-24T00:00:00.000Z
-show_special: false
+title: Crabtree double IPA
+size: 12oz 4pk
+image: /assets/images/specials/crabtree (2).jpg
+reg_price: $9.99
+special_price: $8.99
+expiration_date: 2016-08-31T00:00:00.000Z
+show_special: true
 ---
 
 
