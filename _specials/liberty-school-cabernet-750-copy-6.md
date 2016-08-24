@@ -1,5 +1,5 @@
 ---
-title: 'ROOT:1 - all types'
+title: 'ROOT:1 - all type'
 size: 750ML
 image: /assets/images/specials/root1 (2).png
 reg_price: $10.99
