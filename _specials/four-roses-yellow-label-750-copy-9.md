@@ -1,5 +1,5 @@
 ---
-title: ENCHANTED ROCK vodka
+title: ISABELA - malbec
 size: 1.75L
 image: /assets/images/specials/isabela (2).jpg
 reg_price: $12.99
