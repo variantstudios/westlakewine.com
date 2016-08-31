@@ -4,7 +4,7 @@ title: Beer Specials
 description: 'Best beer selection in Greeley, including an eclectic  selection of micro brews and imports.'
 subtitle:
 permalink: /beer-specials/
-pdf_path: /assets/pdf/website beer ad 8.24.16.pdf
+pdf_path:
 ---
 
 
