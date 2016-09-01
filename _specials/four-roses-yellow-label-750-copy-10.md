@@ -1,5 +1,5 @@
 ---
-title: 'Three Olives Vodka - coconut water & strawberry'
+title: 'THREE OLIVES Vodka - coconut water & strawberry'
 size: 1.75L
 image: /assets/images/specials/three olives.jpg
 reg_price: $27.99
