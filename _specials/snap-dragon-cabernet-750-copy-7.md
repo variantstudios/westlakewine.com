@@ -1,5 +1,5 @@
 ---
-title: SONIN MOSCATO
+title: ZONIN MOSCATO
 size: 750ML
 image: /uploads/zonin-2.jpg
 reg_price: $9.99
