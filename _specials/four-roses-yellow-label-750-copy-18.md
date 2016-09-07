@@ -1,5 +1,5 @@
 ---
-title: "WILLIAM HILL 'CENTRAL COAST' - merlot, pinot noir"
+title: 'WILLIAM HILL "CENTRAL COAST" - merlot, pinot noir'
 size: 750ML
 image: /uploads/central-coast-merlot-0-2.png
 reg_price: $14.99
