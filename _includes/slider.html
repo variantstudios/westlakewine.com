@@ -1,6 +1,6 @@
 <div class="my-slider">
   <ul>
-    {% assign sliders = site.slider | sort: 'weight' %}  
+    {% assign sliders = site.slider | sort: 'weight' %}
     {% for item in sliders %}
     {% if item.show_slide == true %}
       <li>
