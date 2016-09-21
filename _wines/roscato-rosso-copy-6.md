@@ -1,5 +1,5 @@
 ---
-title: VELVET DEVIL - merlot
+title: RED AUTUMN - chardonnay
 size: 750ML
 image: /uploads/red-autumn-2.jpg
 reg_price: $8.99
