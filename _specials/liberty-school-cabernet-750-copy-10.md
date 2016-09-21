@@ -1,5 +1,5 @@
 ---
-title: FAMOUS GROUSE - blended schothe
+title: FAMOUS GROUSE - blended scotch
 size: 1.75L
 image: /uploads/famous-grouse-blended-scotch-2.jpg
 reg_price: $37.99
