@@ -6,6 +6,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://www.westlakewine.com" # the base hostname & protocol for your site
 timezone: America/Denver
 site_id: 16760
+_path: "/assets/"
 
 # Site Author(s)
 author:
