@@ -42,17 +42,14 @@ defaults:
       type: "slider"
     values:
       layout: "default"
-      _path: "/assets/"
   - scope:
       type: "specials"
     values:
       layout: "default"
-      _path: "/assets/"
   - scope:
       type: "wines of the week"
     values:
       layout: "default"
-      _path: "/assets/"
 
 # Reading Time Feature
 reading_time:     true
