@@ -4,7 +4,7 @@ title: Coupon
 description:
 subtitle:
 permalink: /coupon/
-pdf_path: /pages/coupon/september 2016 coupon.pdf
+pdf_path: /uploads/12353692r6.pdf
 ---
 
 
