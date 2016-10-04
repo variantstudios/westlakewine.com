@@ -6,6 +6,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://www.westlakewine.com" # the base hostname & protocol for your site
 timezone: America/Denver
 site_id: 16760
+uploads_dir: '/assets/images/'
 
 
 # Site Author(s)
@@ -64,7 +65,7 @@ typekit: nhb8pcr
 
 # Social Media
 facebook: "https://www.facebook.com/WestlakeWine"
-twitter: 
+twitter:
 
 # Google Analytics
 google_analytics_tracking_id: "UA-72460600-1"
