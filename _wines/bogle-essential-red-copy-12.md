@@ -1,11 +1,11 @@
 ---
-title: FRISK - riesling
+title: TRIVENTO amato sur - malbec
 size: 750ML
-image: /uploads/frisk-2.png
-reg_price: $10.99
-special_price: $8.99
-expiration_date: 2016-10-05 00:00:00
-show_wine: false
+image: /assets/images/malbec.png
+reg_price: $11.99
+special_price: $9.99
+expiration_date: 2016-10-12 00:00:00
+show_wine: true
 ---
 
 
