@@ -1,5 +1,5 @@
 ---
-title: TRIVENTO amato sur - malbec
+title: TRIVENTO amado sur - malbec
 size: 750ML
 image: /assets/images/malbec.png
 reg_price: $11.99
