@@ -1,10 +1,10 @@
 ---
-title: HEALDSBERG RANCHES - cabernet sauvignonve chardonnay
+title: BRANCOTT - sauvignon blanc
 size: 750ML
-image: /uploads/healdsberg-2.png
-reg_price: $14.99
-special_price: $8.49-$11.99
-expiration_date: 2016-10-05 00:00:00
+image: /assets/images/brancott-sauvignon-blanc-2.jpg
+reg_price: $10.99
+special_price: $9.99
+expiration_date: 2016-10-12 00:00:00
 show_special: true
 ---
 
