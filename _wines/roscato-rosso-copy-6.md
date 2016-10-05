@@ -1,11 +1,11 @@
 ---
-title: WOOP WOOP - shiraz
+title: R COLLECTION - cabernet sauvignon
 size: 750ML
-image: /uploads/woop-woop-2.jpg
-reg_price: $12.99
-special_price: $10.99
-expiration_date: 2016-10-05 00:00:00
-show_wine: false
+image: /assets/images/rcollection-2.jpg
+reg_price: $11.99
+special_price: $9.99
+expiration_date: 2016-10-12 00:00:00
+show_wine: true
 ---
 
 
