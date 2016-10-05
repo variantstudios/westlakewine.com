@@ -1,11 +1,11 @@
 ---
-title: 19 CRIMES - red
+title: BRANCOTT - sauvignon blanc
 size: 750ML
-image: /uploads/19-crimes-2.png
+image: /assets/images/brancott-sauvignon-blanc-2.jpg
 reg_price: $10.99
-special_price: $9.49
-expiration_date: 2016-10-05 00:00:00
-show_wine: false
+special_price: $9.99
+expiration_date: 2016-10-12 00:00:00
+show_wine: true
 ---
 
 
