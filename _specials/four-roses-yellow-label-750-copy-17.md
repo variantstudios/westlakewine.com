@@ -1,9 +1,9 @@
 ---
-title: BRANCOTT - sauvignon blanc
+title: CAPTAIN MORGAN - cannon blast rum
 size: 750ML
-image: /assets/images/brancott-sauvignon-blanc-2.jpg
-reg_price: $10.99
-special_price: $9.99
+image: /assets/images/cap-morgan-2.jpg
+reg_price: $19.99
+special_price: $14.99
 expiration_date: 2016-10-12 00:00:00
 show_special: true
 ---
