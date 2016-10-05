@@ -1,10 +1,10 @@
 ---
-title: "WILLIAM HILL 'coast wines' - all types"
-size: 750ML
-image: /uploads/william-2.jpg
-reg_price: $14.99
-special_price: $11.99
-expiration_date: 2016-10-05T00:00:00.000Z
+title: CAVIT - all types
+size: 1.75L
+image: /assets/images/cavit-2.jpg
+reg_price: $13.99
+special_price: $10.99
+expiration_date: 2016-10-12 00:00:00
 show_special: true
 ---
 
