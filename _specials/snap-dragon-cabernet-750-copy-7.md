@@ -1,10 +1,10 @@
 ---
-title: CAVIT - all types
-size: 1.75L
-image: /assets/images/cavit-2.jpg
-reg_price: $13.99
-special_price: $10.99
-expiration_date: 2016-10-12 00:00:00
+title: "JACK DANIEL'S 150th Anniversary Bottle"
+size: 750ML
+image: /assets/images/jack-daniels-150th-anniversary-2.jpg
+reg_price: $29.99
+special_price: $24.49
+expiration_date: 2016-10-19 00:00:00
 show_special: true
 ---
 
