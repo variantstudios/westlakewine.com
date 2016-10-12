@@ -1,5 +1,5 @@
 ---
-title: MATUA - sauvigon blan
+title: MATUA - sauvigon blanc
 size: 750ML
 image: /assets/images/matua-2.jpg
 reg_price: $12.99
