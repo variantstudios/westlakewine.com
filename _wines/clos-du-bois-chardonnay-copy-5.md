@@ -1,5 +1,5 @@
 ---
-title: BANFI CENTINE - rosso
+title: BANFI CENTINE - ross
 size: 750ML
 image: /assets/images/bt-centine-168x450-2.jpg
 reg_price: $11.99
