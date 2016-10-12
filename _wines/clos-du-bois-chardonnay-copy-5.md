@@ -1,5 +1,5 @@
 ---
-title: PEZAT - bordeaus blanc
+title: PEZAT - bordeaux blanc
 size: 750ML
 image: /assets/images/pezat-2.png
 reg_price: $12.99
