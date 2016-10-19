@@ -1,10 +1,10 @@
 ---
-title: LOUIS MARTINI - sonoma cabernet
+title: "POGGIO ANIMA - asmodeus nero d'avola"
 size: 750ML
-image: /assets/images/louis-martini-son-2.jpg
-reg_price: $15.99
+image: /assets/images/nero-dvola-2.png
+reg_price: $14.99
 special_price: $12.99
-expiration_date: 2016-10-19 00:00:00
+expiration_date: 2016-10-26 00:00:00
 show_wine: true
 ---
 
