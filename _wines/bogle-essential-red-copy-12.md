@@ -1,10 +1,10 @@
 ---
-title: St. FRANCIS - chardonnay
+title: RAVENSWOOD - lodi zinfandel
 size: 750ML
-image: /assets/images/wine-usa-st--francis-chardonna-2.jpg
-reg_price: $14.99
-special_price: $12.99
-expiration_date: 2016-10-19 00:00:00
+image: /assets/images/ravenswood-lodi-zin-500x500-2.jpg
+reg_price: $13.99
+special_price: $11.99
+expiration_date: 2016-10-26 00:00:00
 show_wine: true
 ---
 
