@@ -1,10 +1,10 @@
 ---
-title: "BURNETT'S Vodka - all types"
+title: OLD CAMP - Peach Pecan Whiskey
 size: 750ML
-image: /assets/images/burnettsvodka175--94474--59178-2.jpg
-reg_price: $7.99
-special_price: $6.49
-expiration_date: 2016-10-26 00:00:00
+image: /assets/images/old-camp-peach-pecan-whiskey-2.jpg
+reg_price: $19.99
+special_price: $16.49
+expiration_date: 2016-11-02 00:00:00
 show_special: true
 ---
 
