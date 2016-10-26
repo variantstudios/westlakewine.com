@@ -1,10 +1,10 @@
 ---
-title: COLOME Torrontes
-size: 750ML
-image: /assets/images/colome-2.jpg
+title: AVERY - Pumkyn
+size: 12oz Bottle
+image: /assets/images/avery-2.png
 reg_price: $11.99
-special_price: $8.49
-expiration_date: 2016-10-26 00:00:00
+special_price: $9.49
+expiration_date: 2016-11-02 00:00:00
 show_special: true
 ---
 
