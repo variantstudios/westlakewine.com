@@ -1,5 +1,5 @@
 ---
-title: JOHNNIE WALKER - Select cask 10yr
+title: JOHNNIE WALKER - Select Cask 10yr
 size: 750ML
 image: /assets/images/johnnie-2.jpg
 reg_price: $45.99
