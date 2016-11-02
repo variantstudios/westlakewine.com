@@ -7,6 +7,6 @@ permalink: /wines-of-the-week/
 ---
 
 
-These wines are selected specifically for our free weekly wine tasting, every Friday from 4pm-7pm. &nbsp;This week's features–**Hallowine II**. Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help!
+These wines are selected specifically for our free weekly wine tasting, every Friday from 4pm-7pm. &nbsp;This week's features–**Curtis's Wine Picks**. Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help!
 
-Wine pricing good through 11/01/2016
+Wine pricing good through 11/08/2016
