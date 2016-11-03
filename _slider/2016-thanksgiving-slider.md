@@ -1,10 +1,10 @@
 ---
-title: "Hurry in, they won't last long!"
+title: Thanksgiving Season
 image: /assets/images/slider/02-fall-seasonal-2016.jpg
-link_path: /beer-specials/
-link_label: 'Fall is here, and so are the Seasonal Beers, Ales & Lagers!'
-show_slide: false
-weight: 1
+link_path: /wine-spirits-specials/
+link_label: See us for all your beverage needs this Thanksgiving Season.
+show_slide: true
+weight: 0
 ---
 
 
