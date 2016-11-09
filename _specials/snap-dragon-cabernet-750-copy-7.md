@@ -1,10 +1,10 @@
 ---
-title: MILLER HIGH LIFE
-size: 30pk
-image: /assets/images/miller-2.jpg
-reg_price: $22.99
-special_price: $15.49
-expiration_date: 2016-11-09 00:00:00
+title: JOHNNIE WALKER Blue
+size: 200ML
+image: /assets/images/johnnie-wlaker-blue.jpg
+reg_price: $79.99
+special_price: $64.49
+expiration_date: 2016-11-16 00:00:00
 show_special: true
 ---
 
