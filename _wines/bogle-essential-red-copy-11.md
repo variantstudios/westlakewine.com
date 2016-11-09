@@ -1,5 +1,5 @@
 ---
-title: WILLAMETTE - riesline
+title: WILLAMETTE - riesling
 size: 750ML
 image: /assets/images/willamette-valley-vineyards-20-2.jpg
 reg_price: $12.99
