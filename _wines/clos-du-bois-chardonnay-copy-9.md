@@ -1,10 +1,10 @@
 ---
-title: E. GUIGEL - rouge
+title: 7 DEADLY ZINS - zinfandel
 size: 750ML
-image: /assets/images/e-guigel-2.jpg
-reg_price: $14.99
+image: /assets/images/7-zins-v653-2.png
+reg_price: $16.99
 special_price: $12.99
-expiration_date: 2016-11-09 00:00:00
+expiration_date: 2016-11-16 00:00:00
 show_wine: true
 ---
 
