@@ -1,10 +1,10 @@
 ---
-title: LOUIS JADOT - beaujolais
+title: FRANCIS COPPOLA DIAMOND - chardonnay
 size: 750ML
-image: /assets/images/louis-2.jpg
-reg_price: $12.99
+image: /assets/images/francis-ford-coppola-diamond-c-2.jpg
+reg_price: $13.99
 special_price: $10.99
-expiration_date: 2016-11-23 00:00:00
+expiration_date: 2016-12-07 00:00:00
 show_wine: true
 ---
 
