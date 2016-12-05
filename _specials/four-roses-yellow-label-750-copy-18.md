@@ -1,10 +1,10 @@
 ---
-title: GOLDEN EYE - pinot noir
+title: "ST. BRENDAN'S Irish cream"
 size: 750ML
-image: /assets/images/golden-2.jpg
-reg_price: $64.99
-special_price: $42.49
-expiration_date: 2016-11-23 00:00:00
+image: /assets/images/st-brendans-irish-cream-750ml--2.jpg
+reg_price: $14.99
+special_price: $11.99
+expiration_date: 2016-12-07 00:00:00
 show_special: true
 ---
 
