@@ -1,5 +1,5 @@
 ---
-title: BUD/BUD LIGHT/MICHELOB ULTRA
+title: BUD / BUD LIGHT / MICHELOB ULTRA
 size: '12pk Bottles & Cans'
 image: /assets/images/bud-michelob-2.jpg
 reg_price: $14.99
