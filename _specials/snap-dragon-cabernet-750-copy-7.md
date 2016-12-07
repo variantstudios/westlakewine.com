@@ -1,6 +1,6 @@
 ---
 title: BRECKENRIDGE DISTILLERY - Colorado vodka
-size: 1.75LL
+size: 1.75L
 image: /assets/images/breckenridge-vodka-2.jpg
 reg_price: $32.99
 special_price: $27.49
