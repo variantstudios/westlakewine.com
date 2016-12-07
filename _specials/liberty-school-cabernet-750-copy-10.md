@@ -1,6 +1,6 @@
 ---
 title: 'SANTA CRISTINA - pinot grigio * rosso'
-size: 1.75L
+size: 750ML
 image: /assets/images/santna-pino-2.jpg
 reg_price: $11.99
 special_price: $8.49
