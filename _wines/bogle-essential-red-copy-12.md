@@ -1,10 +1,10 @@
 ---
-title: FREI BROTHERS - zinfandel
+title: SCHILD ESTATE - shiraz
 size: 750ML
-image: /assets/images/frei-brothers-2013-zinfandel-d-2.jpg
-reg_price: $17.99
-special_price: $14.99
-expiration_date: 2016-12-14 00:00:00
+image: /assets/images/schild-2.jpg
+reg_price: $19.99
+special_price: $17.99
+expiration_date: 2016-12-21 00:00:00
 show_wine: true
 ---
 
