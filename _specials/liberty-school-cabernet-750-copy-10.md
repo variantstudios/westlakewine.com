@@ -1,10 +1,10 @@
 ---
-title: 'SANTA CRISTINA - pinot grigio * rosso'
+title: "GRAHAM'S SIX GRAVE - porto"
 size: 750ML
-image: /assets/images/santa-christina-pg-bottle-2.jpg
-reg_price: $11.99
-special_price: $8.49
-expiration_date: 2016-12-14 00:00:00
+image: /assets/images/grahams-2.png
+reg_price: $19.99
+special_price: $14.49
+expiration_date: 2016-12-21 00:00:00
 show_special: true
 ---
 
