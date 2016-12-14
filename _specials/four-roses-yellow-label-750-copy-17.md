@@ -1,10 +1,10 @@
 ---
-title: "CRAWFORD'S scotch"
-size: 1.75L
-image: /assets/images/crawfod-scotch-2.jpg
-reg_price: $29.99
-special_price: $20.49
-expiration_date: 2016-12-14 00:00:00
+title: "WEIHNACHT'S GLUHWEIN"
+size: LTR
+image: /assets/images/weihnachts-2.jpg
+reg_price: $6.99
+special_price: $5.49
+expiration_date: 2016-12-21 00:00:00
 show_special: true
 ---
 
