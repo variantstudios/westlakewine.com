@@ -2,7 +2,7 @@
 layout: page
 title: Sam Adams Promo
 description: Sam Adams Promo.
-subtitle:
+subtitle: 'Enter to Win!'
 permalink: /sam-adams-promo/
 ---
 
