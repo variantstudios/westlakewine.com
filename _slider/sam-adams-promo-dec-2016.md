@@ -1,5 +1,5 @@
 ---
-title: Sam Adams Promo Ends 01/04/207
+title: Sam Adams Promo
 image: /assets/images/slider/sam-adams-promo--dec-2016.jpg
 link_path: /beer-specials/
 link_label: 'Stop by and register today! Ends Jan 4th 2017.'
