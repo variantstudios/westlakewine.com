@@ -14,4 +14,4 @@ Promo Details:
 * Must be 21 to enter.
 * Greeley, Colorado charities only.
 
-![](/assets/images/versions/sam-adams-promo-card---x----650-975x---.jpg)
+![Sam Adams Promo](/assets/images/versions/sam-adams-promo-card---x----650-975x---.jpg)
