@@ -1,8 +1,10 @@
 ---
 title: Happy New Year 2017
-image: /assets/images/slider/00-fall-seasonal-2016.jpg
-link_path: /beer-specials/
-link_label: 'Fall is here, and so are the Seasonal Beers, Ales & Lagers!'
-show_slide: false
-weight: 2
+image: /assets/images/slider/happy-new-year-2017_01.jpg
+link_path:
+link_label:
+show_slide: true
+weight: 0
 ---
+
+
