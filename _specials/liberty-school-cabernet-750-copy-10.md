@@ -1,5 +1,5 @@
 ---
-title: BALVENIE doublewood 12 yr single malt
+title: BALVENIE doublewood 12 yr single malt scotch whiskey
 size: 750ML
 image: /assets/images/balvenie-doublewood-single-mal-2.jpg
 reg_price: $59.99
