@@ -1,10 +1,10 @@
 ---
-title: DR. LOOSEN - riesling
-size: 750ML
-image: /assets/images/drlriesling-bottle-2.jpg
-reg_price: $11.99
-special_price: $9.99
-expiration_date: 2016-12-21 00:00:00
+title: Merry Christmas
+size:
+image: /assets/images/merry-christmas.jpg
+reg_price:
+special_price:
+expiration_date: 2016-12-28 00:00:00
 show_wine: true
 ---
 
