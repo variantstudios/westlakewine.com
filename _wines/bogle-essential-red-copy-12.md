@@ -1,10 +1,10 @@
 ---
-title: Merry Christmas
-size:
-image: /assets/images/merry-christmas.jpg
-reg_price:
+title: TOSO PASCUEL - brut
+size: 750ML
+image: /assets/images/pascual-toso-sparkling-brut-bo-2.jpg
+reg_price: '11.99'
 special_price:
-expiration_date: 2016-12-28 00:00:00
+expiration_date: 2017-01-04 00:00:00
 show_wine: true
 ---
 
