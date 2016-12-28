@@ -1,10 +1,10 @@
 ---
-title: CASTLE ROCK California - pinot noir
+title: "BUSCHMILL'S BLACK BUSH IRISH WHISKEY"
 size: 750ML
-image: /assets/images/castle-2.jpg
-reg_price: $9.99
-special_price: $7.49
-expiration_date: 2016-12-28 00:00:00
+image: /assets/images/bushmills-black-bush1-2.jpg
+reg_price: $39.99
+special_price: $27.49
+expiration_date: 2017-01-04 00:00:00
 show_special: true
 ---
 
