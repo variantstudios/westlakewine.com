@@ -1,10 +1,10 @@
 ---
-title: DOM PERIGNON
+title: CHANDON - rose
 size: 750ML
-image: /assets/images/domperi-2.jpg
-reg_price: $219.99
-special_price: $169.49
-expiration_date: 2016-12-28 00:00:00
+image: /assets/images/chandon-rose-5-2.jpg
+reg_price: $22.99
+special_price: $17.49
+expiration_date: 2017-01-04 00:00:00
 show_special: true
 ---
 
