@@ -1,5 +1,5 @@
 ---
-title: 'MARTINI & ROSSI - austi spumante'
+title: 'MARTINI & ROSSI - asti spumante'
 size: 750ML
 image: /assets/images/martini-2.jpg
 reg_price: $22.99
