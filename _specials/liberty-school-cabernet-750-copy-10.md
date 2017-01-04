@@ -1,10 +1,10 @@
 ---
-title: MENAGE A TROIS - red blend
+title: JOSEPH DROUHIN - beaujolais nouveau
 size: 750ML
-image: /assets/images/menage-2.jpg
-reg_price: $9.99
-special_price: $7.49
-expiration_date: 2017-01-04 00:00:00
+image: /assets/images/drouhinbeaujolaisnouveau16-w-2-2.jpg
+reg_price: $16.99
+special_price: $13.49
+expiration_date: 2017-01-11 00:00:00
 show_special: true
 ---
 
