@@ -1,10 +1,10 @@
 ---
-title: STELLA ROSA -rosso
+title: PACIFIC RIM - sweet riesling
 size: 750ML
-image: /assets/images/sr-rosso-2.png
-reg_price: $12.99
-special_price: $10.99
-expiration_date: 2017-01-04 00:00:00
+image: /assets/images/pacific-2.jpg
+reg_price: $11.99
+special_price: $8.99
+expiration_date: 2017-01-11 00:00:00
 show_wine: true
 ---
 
