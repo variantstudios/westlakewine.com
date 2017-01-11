@@ -1,10 +1,10 @@
 ---
-title: J LOHR - cabernet sauvignon
+title: CONCHA Y TORO  Frontere - pinot noir
 size: 750ML
-image: /assets/images/j-lohr-estates-seven-oaks-cabe-2.jpg
-reg_price: $15.99
-special_price: $12.99
-expiration_date: 2017-01-11 00:00:00
+image: /assets/images/pinot-noir-chile-10474551-2.jpg
+reg_price:
+special_price: Bottle $3.99 Case $47.99
+expiration_date: 2017-01-18 00:00:00
 show_wine: true
 ---
 
