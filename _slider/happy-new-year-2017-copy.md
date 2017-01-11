@@ -1,8 +1,8 @@
 ---
 title: "Valentine's Day is near!"
-image: /assets/images/vday-2.jpg
+image: /assets/images/800-valentine-roses-champagne-2.jpg
 link_path: /wine-spirits-specials/
-link_label:
+link_label: 'Westlake Wine & Spirits has what you need!'
 show_slide: true
 weight: 2
 ---
