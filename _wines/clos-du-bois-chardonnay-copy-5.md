@@ -1,5 +1,5 @@
 ---
-title: CONCHA Y TORO  Frontere - pinot noir
+title: CONCHA Y TORO  Frontera - pinot noir
 size: 750ML
 image: /assets/images/pinot-noir-chile-10474551-2.jpg
 reg_price:
