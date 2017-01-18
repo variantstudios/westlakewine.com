@@ -4,10 +4,10 @@ title: Beer Specials
 description: 'Best beer selection in Greeley, including an eclectic  selection of micro brews and imports.'
 subtitle:
 permalink: /beer-specials/
-pdf_path: /assets/images/website-beer-ad-1-11-17.pdf
+pdf_path: /assets/images/website-beer-ad-1-18-17.pdf
 ---
 
 
 The best Beer Selection in Greeley, including an eclectic selection of micro brews. &nbsp;The latest Beer Specials on sale today at Westlake Wine & Spirits.
 
-All sales while supplies last–Sale prices good through Tuesday, January 17, 2017.
+All sales while supplies last–Sale prices good through Tuesday, January 24, 2017.
