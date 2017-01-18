@@ -1,10 +1,10 @@
 ---
-title: CONCHA Y TORO Frontera - cabernet sauvignon
+title: SANTA RITA - reserva carmenere
 size: 750ML
-image: /assets/images/cab-2.jpg
-reg_price: Bottle $5.99 Case $71.99
-special_price: Bottle $3.99 Case $47.99
-expiration_date: 2017-01-18 00:00:00
+image: /assets/images/santa-rita-reserva-carmenere-2015-bottle-1478542332-2.jpg
+reg_price: $12.99
+special_price: $10.99
+expiration_date: 2017-01-25 00:00:00
 show_wine: true
 ---
 
