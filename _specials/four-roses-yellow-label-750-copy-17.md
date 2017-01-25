@@ -1,10 +1,10 @@
 ---
-title: CALYPSO - spiced rum
-size: 1.75L
-image: /assets/images/calypso-spiced-rum-1-75l-16-2.jpg
-reg_price: $12.99
-special_price: $10.49
-expiration_date: 2017-01-25 00:00:00
+title: FIREBALL - cinnamon whiskey
+size: 750ML
+image: /assets/images/fireball-cinnamon-whiskey-750--2.jpg
+reg_price: $14.49
+special_price: $12.49
+expiration_date: 2017-02-01 00:00:00
 show_special: true
 ---
 
