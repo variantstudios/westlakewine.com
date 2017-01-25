@@ -1,10 +1,10 @@
 ---
-title: SANTA RITA - reserva carmenere
+title: OUR DAILY RED - red
 size: 750ML
-image: /assets/images/santa-rita-reserva-carmenere-2015-bottle-1478542332-2.jpg
-reg_price: $12.99
-special_price: $10.99
-expiration_date: 2017-01-25 00:00:00
+image: /assets/images/our-daily-2.png
+reg_price: $8.99
+special_price: $7.99
+expiration_date: 2017-02-01 00:00:00
 show_wine: true
 ---
 
