@@ -1,10 +1,10 @@
 ---
-title: GIRASOLE - chardonnay
+title: RAVENSWOOD - old vine zinfandel
 size: 750ML
-image: /assets/images/girasole-2010-chardonnay-2.jpg
-reg_price: $12.99
-special_price: $10.99
-expiration_date: 2017-02-01 00:00:00
+image: /assets/images/rwd-2013-oldvinezinfandel-sono-2.png
+reg_price: $13.99
+special_price: $11.99
+expiration_date: 2017-02-08 00:00:00
 show_wine: true
 ---
 
