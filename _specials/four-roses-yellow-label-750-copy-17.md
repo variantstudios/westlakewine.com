@@ -1,5 +1,5 @@
 ---
-title: LIGHTHORSE - pinot Noir
+title: 'LIGHTHORSE - pinot noir, chardonnay'
 size: 750ML
 image: /assets/images/lighthorse-pinot-2.png
 reg_price: $12.99
