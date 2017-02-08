@@ -1,10 +1,10 @@
 ---
-title: WILLAMETTE - riesling
+title: ADESSO - red
 size: 750ML
-image: /assets/images/wvv-riesling1-2.png
-reg_price: $12.99
-special_price: $10.99
-expiration_date: 2017-02-08 00:00:00
+image: /assets/images/adesso-red-2.jpg
+reg_price: $11.99
+special_price: $8.99
+expiration_date: 2017-02-15 00:00:00
 show_wine: true
 ---
 
