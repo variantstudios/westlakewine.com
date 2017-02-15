@@ -1,10 +1,10 @@
 ---
-title: PRISONER - red blend
+title: R COLLECTION - all types
 size: 750ML
-image: /assets/images/prisoner-red-blend-2.png
-reg_price: $44.99
-special_price: $36.49
-expiration_date: 2017-02-15 00:00:00
+image: /assets/images/r-collection-2.jpg
+reg_price: $11.99
+special_price: $8.49
+expiration_date: 2017-02-22 00:00:00
 show_special: true
 ---
 
