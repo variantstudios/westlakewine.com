@@ -1,10 +1,10 @@
 ---
-title: ROSCATO - most types
+title: 'NOBILO - chardonnay & sauvignon blanc'
 size: 750ML
-image: /assets/images/roscato-wines-2.jpg
-reg_price: 'Most Types $12.99, Sparkling $14.99'
-special_price: 'Most Types $9.49, Sparkling $10.49'
-expiration_date: 2017-02-15 00:00:00
+image: /assets/images/nobilo-2.png
+reg_price: $12.99
+special_price: $8.49
+expiration_date: 2017-02-22 00:00:00
 show_special: true
 ---
 
