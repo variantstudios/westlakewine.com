@@ -1,10 +1,10 @@
 ---
-title: BASIL HAYDENS
+title: REDEMPTION Rye Whiskey
 size: 750ML
-image: /assets/images/basil-haydens-2.png
-reg_price: $47.99
-special_price: $37.49
-expiration_date: 2017-02-15 00:00:00
+image: /assets/images/redemption-2.jpg
+reg_price: $29.99
+special_price: $22.49
+expiration_date: 2017-02-22 00:00:00
 show_special: true
 ---
 
