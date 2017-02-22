@@ -1,10 +1,10 @@
 ---
-title: SAILOR JERRY Spiced Rum
-size: 750ML
-image: /assets/images/sailor-jerry-spiced-rum-2.png
-reg_price: $15.99
-special_price: $11.49
-expiration_date: 2017-02-22 00:00:00
+title: "CRAWFORD'S Scotch"
+size: 1.75L
+image: /assets/images/crawford-s-special-reserve-ble-2.jpg
+reg_price: $24.99
+special_price: $18.49
+expiration_date: 2017-03-01 00:00:00
 show_special: true
 ---
 
