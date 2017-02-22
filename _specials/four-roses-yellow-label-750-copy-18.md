@@ -1,6 +1,6 @@
 ---
 title: FINLANDIA Vodka
-size: 750ML
+size: 1.75L
 image: /assets/images/finlandia175-2.jpg
 reg_price: $19.99
 special_price: $16.49
