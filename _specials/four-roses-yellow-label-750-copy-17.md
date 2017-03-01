@@ -1,10 +1,10 @@
 ---
-title: 'CUERVO ESPECIAL Tequila - gold & silver max pack'
+title: "CA' MOMI Rosso di Napa"
 size: 750ML
-image: /assets/images/jose-2.jpg
-reg_price: $17.99
-special_price: $13.49
-expiration_date: 2017-03-01 00:00:00
+image: /assets/images/ca-momi-rosso-di-napa-napa-val-2.jpg
+reg_price: $11.99
+special_price: $7.49
+expiration_date: 2017-03-08 00:00:00
 show_special: true
 ---
 
