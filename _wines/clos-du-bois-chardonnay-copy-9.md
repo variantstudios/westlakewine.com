@@ -1,10 +1,10 @@
 ---
-title: DREAMING TREE - chardonnay
+title: SEBASTIANI - cabernet sauvignon
 size: 750ML
-image: /assets/images/dreaming-tree-chardonnay-2.png
-reg_price: $12.99
-special_price: $10.99
-expiration_date: 2017-03-01 00:00:00
+image: /assets/images/sebastiani-sonoma-cab-2.jpg
+reg_price: $16.99
+special_price: $14.99
+expiration_date: 2017-03-08 00:00:00
 show_wine: true
 ---
 
