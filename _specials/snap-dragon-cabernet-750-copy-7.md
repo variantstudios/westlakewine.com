@@ -1,10 +1,10 @@
 ---
-title: WILD HORSE - pinot  noir
+title: EFFEN Vodka - all types
 size: 750ML
-image: /assets/images/wild-horsepn-2.jpg
-reg_price: $17.99
-special_price: $12.49
-expiration_date: 2017-03-01 00:00:00
+image: /assets/images/effen-v-2.jpg
+reg_price: $24.99
+special_price: $19.49
+expiration_date: 2017-03-08 00:00:00
 show_special: true
 ---
 
