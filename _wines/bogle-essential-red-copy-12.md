@@ -1,10 +1,10 @@
 ---
 title: FERRARI CARANO - sauvignon blanc
 size: 750ML
-image: /assets/images/cupcake-angel-white-2.jpg
-reg_price: $9.99
-special_price: $7.99
-expiration_date: 2017-03-01 00:00:00
+image: /assets/images/ferrari-sb-2.png
+reg_price: $14.99
+special_price: $12.99
+expiration_date: 2017-03-08 00:00:00
 show_wine: true
 ---
 
