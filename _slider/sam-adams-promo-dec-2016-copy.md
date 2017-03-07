@@ -1,9 +1,9 @@
 ---
-title: Sam Adams Promo
-image: /assets/images/slider/sam-adams-promo--dec-2016.jpg
+title: Finlandia Jeremy Jones Snowboard Giveaway
+image: /assets/images/untitled-2.jpg
 link_path: /sam-adams-promo/
-link_label: 'Stop by and register today! Ends February 14th, 2017.'
-show_slide: false
+link_label: 'Stop by and register today! Ends March 24th, 2017.'
+show_slide: true
 weight: 1
 ---
 
