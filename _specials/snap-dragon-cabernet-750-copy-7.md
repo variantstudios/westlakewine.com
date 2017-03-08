@@ -1,5 +1,5 @@
 ---
-title: 'MILAGRO TEQUILA - repasodo & silver'
+title: 'MILAGRO TEQUILA - repasodo, silver'
 size: 750ML
 image: /assets/images/milagro-tequila-2.jpg
 reg_price: $24.99
