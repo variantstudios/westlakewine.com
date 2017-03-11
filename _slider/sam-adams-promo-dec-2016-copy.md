@@ -1,7 +1,7 @@
 ---
 title: Finlandia Jeremy Jones Snowboard Giveaway
 image: /assets/images/snowboard3.jpg
-link_path: /sam-adams-promo/
+link_path: /finlandia-snow-board-giveaway/
 link_label: 'Stop by and register today! Ends March 24th, 2017.'
 show_slide: true
 weight: 1
