@@ -1,6 +1,6 @@
 ---
 layout: page
-title:Finlandia Snow Board giveaway
+title: Finlandia Snow Board giveaway
 description: Finlandia Snow Board giveaway.
 subtitle: 'Enter to Win!'
 permalink: /finlandia-snow-board-giveaway/
