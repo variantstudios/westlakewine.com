@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Sam Adams Promo
-description: Sam Adams Promo.
+title:Finlandia Snow Board giveaway
+description: Finlandia Snow Board giveaway.
 subtitle: 'Enter to Win!'
-permalink: /sam-adams-promo/
+permalink: /finlandia-snow-board-giveaway/
 ---
 
 
 Promo Details:
 
-* Promo runs December 15th 2016 through January 4th 2017.
-* Register at in-store only.
-* Must be 21 to enter.
-* Greeley, Colorado charities only.
+* Promo Runs through March 24th
+* Register to win in-store only
+* Must be 21 to enter
+* No purchase necessary
 
-![Sam Adams Promo](/assets/images/versions/sam-adams-promo-card---x----650-975x---.jpg)
+![Finlandia Snow Board giveaway](/assets/images/slider/pow.jpg)
