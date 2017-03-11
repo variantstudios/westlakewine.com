@@ -3,7 +3,7 @@ layout: page
 title:Finlandia Snow Board giveaway
 description: Finlandia Snow Board giveaway.
 subtitle: 'Enter to Win!'
-permalink: /finlandia-snow-board-giveaway/
+# permalink: /finlandia-snow-board-giveaway/
 ---
 
 
