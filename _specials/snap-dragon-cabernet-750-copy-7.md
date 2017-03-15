@@ -1,5 +1,5 @@
 ---
-title: POWERS gold label Irish Whiskey
+title: POWERS Irish Whiskey - gold label
 size: 750ML
 image: /assets/images/powers-2.jpg
 reg_price: $27.99
