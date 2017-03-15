@@ -1,10 +1,10 @@
 ---
-title: 'MILAGRO TEQUILA - repasodo, silver'
+title: POWERS gold label Irish Whiskey
 size: 750ML
-image: /assets/images/milagro-tequila-2.jpg
-reg_price: $24.99
-special_price: $18.49
-expiration_date: 2017-03-15 00:00:00
+image: /assets/images/powers-2.jpg
+reg_price: $27.99
+special_price: $23.49
+expiration_date: 2017-03-22 00:00:00
 show_special: true
 ---
 
