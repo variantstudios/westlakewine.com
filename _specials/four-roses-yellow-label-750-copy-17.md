@@ -1,10 +1,10 @@
 ---
-title: PENDLETON Canadian Whiskey
+title: La CREMA Sonoma - pinot noir
 size: 750ML
-image: /assets/images/pendleton-bottle-ml-2.jpg
-reg_price: $23.99
-special_price: $20.49
-expiration_date: 2017-03-15 00:00:00
+image: /assets/images/la-crema-pinot-noir-2.jpg
+reg_price: $22.99
+special_price: $17.49
+expiration_date: 2017-03-22 00:00:00
 show_special: true
 ---
 
