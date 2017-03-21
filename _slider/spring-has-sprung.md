@@ -1,8 +1,10 @@
 ---
 title: Spring has Sprung
-image: /assets/images/slider/00-fall-seasonal-2016.jpg
-link_path: /beer-specials/
-link_label: 'Fall is here, and so are the Seasonal Beers, Ales & Lagers!'
-show_slide: false
+image: /assets/images/slider/spring.jpg
+link_path: /wine-spirits-specials/
+link_label: 'Check out this weeks specials!'
+show_slide: true
 weight: 2
 ---
+
+
