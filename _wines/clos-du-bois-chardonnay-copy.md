@@ -1,11 +1,11 @@
 ---
-title: NOBILO - sauvignon blanc
+title: NATURA - chardonnay
 size: 750ML
-image: /assets/images/parket-station-pn-2.jpg
-reg_price: $12.99
+image: /assets/images/natura-chardonnay-un-oaked-2.jpg
+reg_price: $10.99
 special_price: $8.99
-expiration_date: 2017-03-29 00:00:00
-show_wine: true
+expiration_date: 2017-04-04 00:00:00
+show_wine: false
 ---
 
 
