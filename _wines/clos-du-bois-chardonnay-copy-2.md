@@ -1,11 +1,11 @@
 ---
-title: 'ROOT:1 - pinot noir'
+title: NEW HARBOR - sauvignon blanc
 size: 750ML
-image: /assets/images/root-2.jpg
+image: /assets/images/new-harbor-sauvignon-blanc-2.png
 reg_price: $10.99
 special_price: $8.99
-expiration_date: 2017-03-22 00:00:00
-show_wine: true
+expiration_date: 2017-04-04 00:00:00
+show_wine: false
 ---
 
 
