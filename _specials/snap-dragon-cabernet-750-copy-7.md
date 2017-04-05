@@ -1,10 +1,10 @@
 ---
-title: GENTLEMAN JACK
+title: 'SANTA CRISTINA - pinot grigio, rosso'
 size: 750ML
-image: /assets/images/gentlmans-jack-2.jpg
-reg_price: $32.99
-special_price: $25.49
-expiration_date: 2017-04-04 00:00:00
+image: /assets/images/santa-christina-pg-bottle-2.jpg
+reg_price: $11.99
+special_price: $8.49
+expiration_date: 2017-04-11 00:00:00
 show_special: true
 ---
 
