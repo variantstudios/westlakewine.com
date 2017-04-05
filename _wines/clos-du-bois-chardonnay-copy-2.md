@@ -1,10 +1,10 @@
 ---
-title: NEW HARBOR - sauvignon blanc
+title: MEIOMI - pinot noir
 size: 750ML
-image: /assets/images/new-harbor-sauvignon-blanc-2.png
-reg_price: $10.99
-special_price: $8.99
-expiration_date: 2017-04-04 00:00:00
+image: /assets/images/meiomi-pinot-noir-2.jpg
+reg_price: $19.99
+special_price: $17.99
+expiration_date: 2017-04-11 00:00:00
 show_wine: true
 ---
 
