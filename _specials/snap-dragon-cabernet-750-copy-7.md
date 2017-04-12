@@ -1,6 +1,6 @@
 ---
 title: CK MONDAVI - all types
-size: 1.75L
+size: 1.5L
 image: /assets/images/ck-mondavi-pinot-grigio-1-5ltr-2.jpg
 reg_price: $11.99
 special_price: $8.49
