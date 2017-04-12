@@ -1,5 +1,5 @@
 ---
-title: 'ESTANICIA - cabernet sauvignon, pinot noir, cahrdonnay, pinot grigio, merlot'
+title: 'ESTANICIA - cabernet sauvignon, pinot noir, chardonnay, pinot grigio, merlot'
 size: 750ML
 image: /assets/images/estancia.jpg
 reg_price: $12.49-$14.99
