@@ -1,10 +1,10 @@
 ---
-title: PEZAT - bordeaux rouge
+title: KENWOOD - sonoma cabernet sauvignon
 size: 750ML
-image: /assets/images/pezat-bourd-rouge-2.png
+image: /assets/images/kenwood-sonoma-cab-2.jpg
 reg_price: $14.99
 special_price: $12.99
-expiration_date: 2017-04-11 00:00:00
+expiration_date: 2017-04-18 00:00:00
 show_wine: true
 ---
 
