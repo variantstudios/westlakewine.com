@@ -1,10 +1,10 @@
 ---
-title: E.GUIGAL - rouge
+title: HOGUE - riesling
 size: 750ML
-image: /assets/images/e-guigal-cotes-du-rhone-rouge--2.jpg
-reg_price: $14.99
-special_price: $12.99
-expiration_date: 2017-04-18 00:00:00
+image: /assets/images/hogue-riesling-2.png
+reg_price: $8.99
+special_price: $7.99
+expiration_date: 2017-04-26 00:00:00
 show_wine: true
 ---
 
