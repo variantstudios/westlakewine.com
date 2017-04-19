@@ -1,10 +1,10 @@
 ---
-title: RUFFINO - orvieto
+title: SOUVERAIN - merlot
 size: 750ML
-image: /assets/images/ruffino-orvieto-2.png
+image: /assets/images/souverain-merlot-2.jpg
 reg_price: $10.99
 special_price: $8.99
-expiration_date: 2017-04-18 00:00:00
+expiration_date: 2017-04-26 00:00:00
 show_wine: true
 ---
 
