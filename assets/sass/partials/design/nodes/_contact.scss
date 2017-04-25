@@ -38,3 +38,27 @@
     margin: 1em 0;
   }
 }
+
+div#form-message {
+    background: #eaeaea;
+    padding: 1em;
+    margin: 0 0 1em 0;
+    font-weight: 700;
+    border-radius: 3px;
+    display: none;
+}
+div#fail {
+    font-weight: 700;
+    color: red;
+    margin-top: 1em;
+    display: none;
+    p {
+        margin:0;
+    }
+}
+.webform-component {
+    margin-bottom: 1em;
+}
+.g-recaptcha {
+  margin-bottom: 2em;
+}

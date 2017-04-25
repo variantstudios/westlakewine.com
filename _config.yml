@@ -7,12 +7,12 @@ url: "http://www.westlakewine.com" # the base hostname & protocol for your site
 timezone: America/Denver
 site_id: 16760
 uploads_dir: '/assets/images/'
+version: "3.2.1" # the version of jekyll
 
+# Gems for plugins
+gems:
+  - jekyll-sitemap # Simple jekyll plugin that creates a sitemap.xml file and you can exclude files by adding 'sitemap:false' to the frontmatter of any file(s).
 
-# Site Author(s)
-author:
-  name: Variant Studios
-  email: team@variantstudios.com
 
 # Build settings
 highlighter: pygments
@@ -27,8 +27,8 @@ kramdown:
 include: ['_pages']
 
 # Blog Settings
-paginate: 10
-paginate_path: "/news/page:num/"
+# paginate: 10
+# paginate_path: "/news/page:num/"
 
 # Collections
 collections:
