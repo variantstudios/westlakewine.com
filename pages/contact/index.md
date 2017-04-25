@@ -4,6 +4,7 @@ title: "Contact Us"
 description:
 form_response_message: 'Thanks for your message! We will be in touch soon.'
 form_failed: 'Your submission has failed. Please try again.'
+class:form
 permalink: /contact/
 ---
 
