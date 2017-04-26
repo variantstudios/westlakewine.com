@@ -1,10 +1,10 @@
 ---
-title: ZENATO - pinot
+title: ZARDETTO - brut sparkling
 size: 750ML
-image: /assets/images/zenato-pg-bottle-2.jpg
-reg_price: $11.99
-special_price: $9.99
-expiration_date: 2017-04-26 00:00:00
+image: /assets/images/zardetto-brut-2.jpg
+reg_price: $10.99
+special_price: $8.99
+expiration_date: 2017-05-03 00:00:00
 show_wine: true
 ---
 
