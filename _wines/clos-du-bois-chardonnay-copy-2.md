@@ -1,5 +1,5 @@
 ---
-title: INSURECTION - shiraz-cabernet sauvignon
+title: INSURRECTION - shiraz-cabernet sauvignon
 size: 750ML
 image: /assets/images/insurrection-2.jpg
 reg_price: $14.99
