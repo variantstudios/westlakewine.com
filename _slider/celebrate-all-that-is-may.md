@@ -1,8 +1,10 @@
 ---
-title: celebrate-all-that-is-may
-image: /assets/images/slider/00-fall-seasonal-2016.jpg
-link_path: /beer-specials/
-link_label: 'Fall is here, and so are the Seasonal Beers, Ales & Lagers!'
-show_slide: false
+title: We Celebrate all that is May
+image: /assets/images/slider/we-celebrate-all-that-is-may.jpg
+link_path: /wine-spirits-specials/
+link_label: 'Click here for Savings!'
+show_slide: true
 weight: 2
 ---
+
+
