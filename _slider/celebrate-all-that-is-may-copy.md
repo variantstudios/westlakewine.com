@@ -1,10 +1,10 @@
 ---
-title: We Celebrate all that is May
-image: /assets/images/slider/we-celebrate-all-that-is-may.jpg
-link_path: /wine-spirits-specials/
-link_label: 'Click here for Savings!'
+title: Come in to Westlake
+image: /assets/images/slider/come-in-we-are-hiring.jpg
+link_path: /contact/
+link_label: We are Hiring.
 show_slide: true
-weight: 2
+weight: 3
 ---
 
 
