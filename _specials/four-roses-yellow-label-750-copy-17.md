@@ -1,6 +1,6 @@
 ---
 title: ARBOR MIST - all types
-size: 1.5LTR
+size: 1.5L
 image: /assets/images/arbor-mist-2.jpg
 reg_price: $7.99
 special_price: $5.49
