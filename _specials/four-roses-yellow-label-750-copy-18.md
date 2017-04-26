@@ -1,10 +1,10 @@
 ---
-title: "CASTELLO DEL POGGIO - moscato d' asti"
+title: LIBERTY SCHOOL - cabernet sauvignon
 size: 750ML
-image: /assets/images/castello-del-poggio-moascato-2.jpg
-reg_price: $15.99
-special_price: $12.49
-expiration_date: 2017-04-26 00:00:00
+image: /assets/images/liberty-school-2.jpg
+reg_price: $14.99
+special_price: $10.49
+expiration_date: 2017-05-03 00:00:00
 show_special: true
 ---
 
