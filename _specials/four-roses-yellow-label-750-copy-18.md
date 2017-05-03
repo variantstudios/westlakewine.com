@@ -1,10 +1,10 @@
 ---
-title: LIBERTY SCHOOL - cabernet sauvignon
+title: BERINGER - white zinfandel
 size: 750ML
-image: /assets/images/liberty-school-2.jpg
-reg_price: $14.99
-special_price: $10.49
-expiration_date: 2017-05-03 00:00:00
+image: /assets/images/beringer-white-zin-2.png
+reg_price: $6.99
+special_price: $4.49
+expiration_date: 2017-05-10 00:00:00
 show_special: true
 ---
 
