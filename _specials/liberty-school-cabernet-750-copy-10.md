@@ -1,10 +1,10 @@
 ---
-title: BIRD DOG WHISKEY
-size: 750ML
-image: /assets/images/birddog-whiskeyinner-2.png
-reg_price: $19.99
-special_price: $13.49
-expiration_date: 2017-05-10 00:00:00
+title: 'MALIBU Cocktails - fizzy mango, fizzy pink lemonade, Rum & Pinapple'
+size: 4PK
+image: /assets/images/malibu-fizzy-pink-jpg2.jpg
+reg_price: $7.99
+special_price: $6.49
+expiration_date: 2017-05-17 00:00:00
 show_special: true
 ---
 
