@@ -1,10 +1,10 @@
 ---
-title: KONO - sauvignon blanc
-size: 750ML
-image: /assets/images/kono-sauvignon-blanc.png
-reg_price: $14.99
-special_price: '11.49'
-expiration_date: 2017-05-17 00:00:00
+title: 'NEW AMSTERDAM - gin & vodka'
+size: 1.75L
+image: /assets/images/new-amsterdam-gin--vodka.jpg
+reg_price: $19.99
+special_price: $16.49
+expiration_date: 2017-05-24 00:00:00
 show_special: true
 ---
 
