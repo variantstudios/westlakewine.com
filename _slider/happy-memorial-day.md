@@ -1,8 +1,10 @@
 ---
 title: Happy Memorial Day
-image: /assets/images/slider/00-fall-seasonal-2016.jpg
-link_path: /beer-specials/
-link_label: 'Fall is here, and so are the Seasonal Beers, Ales & Lagers!'
-show_slide: false
+image: /assets/images/slider/memorial-day.jpg
+link_path: /wine-spirits-specials/
+link_label: "Let's Celebrate"
+show_slide: true
 weight: 2
 ---
+
+
