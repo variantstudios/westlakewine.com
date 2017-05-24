@@ -7,7 +7,7 @@ permalink: /wines-of-the-week/
 ---
 
 
-These wines are selected specifically for our free weekly wine tasting, every Friday from 4pm-7pm. &nbsp;This week's features–**$12.99 Memorial Day Weekend Wine.**&nbsp;Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help!
+These wines are selected specifically for our free weekly wine tasting, every Friday from 4pm-7pm. &nbsp;This week's features–**Memorial Weekend Wine.**&nbsp;Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help!
 
 Sale prices good through Tuesday, May 23, 2017
 
