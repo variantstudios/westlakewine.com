@@ -1,10 +1,10 @@
 ---
-title: CHARLES KRUG - sauvignon blanc
+title: BRIDLEWOOD - pinot noir
 size: 750ML
-image: /assets/images/charles-krug-2.jpg
-reg_price: $14.99
-special_price: $12.99
-expiration_date: 2017-05-24 00:00:00
+image: /assets/images/bridlewood-pinot-noir.jpg
+reg_price: $13.99
+special_price: $11.99
+expiration_date: 2017-05-31 00:00:00
 show_wine: true
 ---
 
