@@ -4,7 +4,7 @@ title: 'Wine & Spirit Specials'
 description: "Greeley's most eclectic wine selection! We have a huge inventory to choose from, both foreign and domestic."
 subtitle:
 permalink: /wine-spirits-specials/
-pdf_path: /assets/images/5-26-17.pdf
+pdf_path: /assets/images/06-02-17.pdf
 ---
 
 
