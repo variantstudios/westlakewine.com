@@ -1,10 +1,10 @@
 ---
-title: MARQUES de CACERES - white
+title: MATUA - sauvignon blanc
 size: 750ML
-image: /assets/images/marques-de-caceres-white.jpg
-reg_price: $9.99
-special_price: $7.99
-expiration_date: 2017-05-31 00:00:00
+image: /assets/images/matua-hawkes-bay-sauvignon-bla-2.png
+reg_price: $12.99
+special_price: $8.99
+expiration_date: 2017-06-07 00:00:00
 show_wine: true
 ---
 
