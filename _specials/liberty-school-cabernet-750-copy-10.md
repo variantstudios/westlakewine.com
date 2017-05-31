@@ -1,5 +1,5 @@
 ---
-title: 'DON JULIA - anejo, blanco, & reposado'
+title: 'DON JULIO - anejo, blanco, & reposado'
 size: 750ML
 image: /assets/images/don-julio.jpg
 reg_price:
