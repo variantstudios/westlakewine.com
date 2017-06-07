@@ -1,5 +1,5 @@
 ---
-title: 'ROBERT MONDAVI Private Select - cabernet sauvignon, chardonnay, pinot noir, merlot'
+title: 'ROBERT MONDAVI Private Selection - cabernet sauvignon, chardonnay, pinot noir, merlot'
 size: 750ML
 image: /assets/images/robert-mondavi-winery-merlot-n-2.png
 reg_price: $9.99
