@@ -1,10 +1,10 @@
 ---
-title: CASTLE ROCK California Cuvee - pinot noir
+title: 'OLMECA Tequila - plata, reporasito'
 size: 750ML
-image: /assets/images/castle-rock-2012-pinot-noir-california-cuvee.jpg
-reg_price: $9.99
-special_price: $7.49
-expiration_date: 2017-06-07 00:00:00
+image: /assets/images/olmeca-2.jpg
+reg_price: $21.99
+special_price: $17.49
+expiration_date: 2017-06-14 00:00:00
 show_special: true
 ---
 
