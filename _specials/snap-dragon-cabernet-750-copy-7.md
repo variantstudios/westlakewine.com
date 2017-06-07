@@ -1,5 +1,5 @@
 ---
-title: 'OLMECA Tequila - plata, reporasito'
+title: 'OLMECA ALTOS Tequila - plata, reporasito'
 size: 750ML
 image: /assets/images/olmeca-2.jpg
 reg_price: $21.99
