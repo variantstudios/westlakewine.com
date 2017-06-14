@@ -1,10 +1,10 @@
 ---
-title: WINES THAT ROCK - merlot
+title: ST. FRANCIS - cabernet sauvighon
 size: 750ML
-image: /assets/images/wines-that-rock-merlot.png
-reg_price: $14.99
-special_price: $12.99
-expiration_date: 2017-06-14 00:00:00
+image: /assets/images/st--francis-cab.png
+reg_price: $19.99
+special_price: $14.99
+expiration_date: 2017-06-21 00:00:00
 show_wine: true
 ---
 
