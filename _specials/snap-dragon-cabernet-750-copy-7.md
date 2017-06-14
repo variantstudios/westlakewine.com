@@ -1,5 +1,5 @@
 ---
-title: LEINENKUGEL
+title: LEINENKUGEL - all types
 size: 6PKS
 image: /assets/images/leinenkugel.jpg
 reg_price: $9.99
