@@ -1,10 +1,10 @@
 ---
-title: CK MONDAVI - most types
-size: 1.5LTR
-image: /assets/images/ck-mondavi-sauv-blanc.jpg
-reg_price: $11.99
-special_price: $8.49
-expiration_date: 2017-06-14 00:00:00
+title: RUM CHATA
+size: 750ML
+image: /assets/images/rumchata-cream-liqueur-2.jpg
+reg_price: $19.99
+special_price: $17.49
+expiration_date: 2017-06-21 00:00:00
 show_special: true
 ---
 
