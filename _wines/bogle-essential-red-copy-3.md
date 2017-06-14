@@ -1,6 +1,6 @@
 ---
 title: DECOY - Sonoma - chardonnay
-size: 750ML
+size: 750mL
 image: /assets/images/dreaming-tree-sb-500x500.png
 reg_price: $19.99
 special_price: $15.99
