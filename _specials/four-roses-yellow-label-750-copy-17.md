@@ -1,6 +1,6 @@
 ---
 title: RUM CHATA
-size: 750ML
+size: 750mL
 image: /assets/images/rumchata-cream-liqueur-2.jpg
 reg_price: $19.99
 special_price: $17.49
