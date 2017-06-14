@@ -1,5 +1,5 @@
 ---
-title: DREAMING TREE - sauvignon blanc
+title: DECOY - Sonoma chardonnay
 size: 750ML
 image: /assets/images/dreaming-tree-sb-500x500.png
 reg_price: $12.99
