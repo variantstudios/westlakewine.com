@@ -1,10 +1,10 @@
 ---
-title: 'ROBERT MONDAVI Private Selection - cabernet sauvignon, chardonnay, pinot noir, merlot'
-size: 750ML
-image: /assets/images/robert-mondavi-winery-merlot-n-2.png
+title: "SALVADOR'S Pre Mix Margarita"
+size: 1.75LTR
+image: /assets/images/salvadors-premix-margarita.png
 reg_price: $9.99
 special_price: $7.49
-expiration_date: 2017-06-14 00:00:00
+expiration_date: 2017-06-21 00:00:00
 show_special: true
 ---
 
