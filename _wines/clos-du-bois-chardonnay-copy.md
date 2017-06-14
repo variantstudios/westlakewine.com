@@ -1,5 +1,5 @@
 ---
-title: ST. FRANCIS - cabernet sauvighon
+title: ST. FRANCIS - cabernet sauvignon
 size: 750ML
 image: /assets/images/st--francis-cab.png
 reg_price: $19.99
