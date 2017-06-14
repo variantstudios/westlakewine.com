@@ -1,5 +1,5 @@
 ---
-title: MOUTON CADET
+title: 'MOUTON CADET - blanc, rouge, rose'
 size: 750ML
 image: /assets/images/mouton-cadet.jpeg
 reg_price: $9.99
