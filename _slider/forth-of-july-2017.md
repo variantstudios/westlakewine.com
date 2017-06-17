@@ -1,8 +1,10 @@
 ---
-title: Forth of July 2017
-image: /assets/images/slider/00-fall-seasonal-2016.jpg
+title: FOOD FAMILY FUN
+image: /assets/images/slider/4th-of-july-2017.jpg
 link_path: /beer-specials/
 link_label: 'Fall is here, and so are the Seasonal Beers, Ales & Lagers!'
-show_slide: false
-weight: 2
+show_slide: true
+weight: 1
 ---
+
+
