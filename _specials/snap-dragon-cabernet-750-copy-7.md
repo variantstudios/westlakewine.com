@@ -1,9 +1,9 @@
 ---
-title: LEINENKUGEL - all types
-size: 6PKS
-image: /assets/images/leinenkugel.jpg
-reg_price: $9.99
-special_price: $8.49
+title: STOLICHNAYA
+size: 1.75L
+image: /assets/images/stoli-vodka-2.jpg
+reg_price: $31.99
+special_price: $27.49 plus 1 FREE Stolichnaya 4pk
 expiration_date: 2017-06-21 00:00:00
 show_special: true
 ---
