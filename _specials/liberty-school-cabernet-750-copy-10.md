@@ -1,6 +1,6 @@
 ---
 title: "SEAGRAM'S 7"
-size: 1.75Ltr
+size: 1.75L
 image: /assets/images/seagrams-7-1-75.png
 reg_price: $19.99
 special_price: $15.49 plus FREE 2.0Ltr bottle of 7up free
