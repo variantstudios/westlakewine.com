@@ -1,5 +1,5 @@
 ---
-title: WANUT BLOCK - sauvignon blanc
+title: WALNUT BLOCK - sauvignon blanc
 size: 750ML
 image: /assets/images/walnut-block-sauvignon-blanc.png
 reg_price: $14.99
