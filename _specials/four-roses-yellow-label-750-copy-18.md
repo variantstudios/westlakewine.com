@@ -1,5 +1,5 @@
 ---
-title: BRANCOTT - suavignon blanc
+title: BRANCOTT - sauvignon blanc
 size: 750mL
 image: /assets/images/brancott-sauvignon-blanc-2.jpg
 reg_price: $10.99
