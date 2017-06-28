@@ -1,5 +1,5 @@
 ---
-title: 'WELDWERKS BREWING - hefeweizan & puesta del sol'
+title: 'WELDWERKS BREWING - hefeweizen & puesta del sol'
 size: 6pk
 image: /assets/images/weldwerks-hefeweizan--puesta-del-sol.jpg
 reg_price: $8.99
