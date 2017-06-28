@@ -1,10 +1,10 @@
 ---
-title: WILLAMETTE - whole cluster pinot noir
+title: FEDERALIST - honest abe red blend
 size: 750ML
-image: /assets/images/willamette-whole-cluster-pinot.png
-reg_price: $19.99
-special_price: $17.99
-expiration_date: 2017-06-28 00:00:00
+image: /assets/images/the-federalist-honest-red-blend-1.jpg
+reg_price: $17.99
+special_price: $14.99
+expiration_date: 2017-07-05 00:00:00
 show_wine: true
 ---
 
