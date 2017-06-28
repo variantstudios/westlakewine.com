@@ -1,10 +1,10 @@
 ---
-title: ROLLING ROCK bottles
-size: 18 pk
-image: /assets/images/rolling-rock-18pk-bottles.jpg
-reg_price: $12.99
-special_price: $10.49
-expiration_date: 2017-06-28 00:00:00
+title: COYOTE GOLD - frozen margarita tube
+size: 100mL (3oz)
+image: /assets/images/coyote-frozen-tubes.png
+reg_price: $1.99
+special_price: $1.19
+expiration_date: 2017-07-05 00:00:00
 show_special: true
 ---
 
