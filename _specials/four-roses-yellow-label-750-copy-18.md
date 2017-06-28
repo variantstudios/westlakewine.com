@@ -1,5 +1,5 @@
 ---
-title: CAMPANILLE - pinot grigio
+title: CAMPANILE - pinot grigio
 size: 750mL
 image: /assets/images/campanille-pinot-grigio.jpg
 reg_price: $8.99
