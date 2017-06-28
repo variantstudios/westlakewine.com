@@ -1,10 +1,10 @@
 ---
-title: GAZELA - vinho verde
+title: CLINE - mourvedre rose
 size: 750mL
-image: /assets/images/gazela-vinho-verde.png
-reg_price: $9.99
-special_price: $8.99
-expiration_date: 2017-06-28 00:00:00
+image: /assets/images/cline-mourvedre-rose--13906-14-2.jpg
+reg_price: $14.99
+special_price: $12.99
+expiration_date: 2017-07-05 00:00:00
 show_wine: true
 ---
 
