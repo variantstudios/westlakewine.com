@@ -1,10 +1,10 @@
 ---
-title: "SEAGRAM'S 7"
-size: 1.75L
-image: /assets/images/seagrams-7-1-75.png
-reg_price: $19.99
-special_price: $15.49 - Buy one bottle 1.75L Seagrams 7 get one bottle 7up 2 liter FREE
-expiration_date: 2017-06-28 00:00:00
+title: 'WELDWERKS BREWING - hefeweizan & puesta del sol'
+size: 6pk
+image: /assets/images/weldwerks-hefeweizan--puesta-del-sol.jpg
+reg_price: $8.99
+special_price: $7.49
+expiration_date: 2017-07-05 00:00:00
 show_special: true
 ---
 
