@@ -1,10 +1,10 @@
 ---
-title: CAMPANILE - pinot grigio
+title: KENWOOD WINERY - most types
 size: 750mL
-image: /assets/images/campanille-pinot-grigio.jpg
-reg_price: $8.99
-special_price: $4.49
-expiration_date: 2017-07-05 00:00:00
+image: /assets/images/kenwood-pn-2.jpg
+reg_price: $14.99
+special_price: $12.49
+expiration_date: 2017-07-12 00:00:00
 show_special: true
 ---
 
