@@ -1,5 +1,5 @@
 ---
-title: GLENMORANGIE 10yr Pioneer Set
+title: GLENMORANGIE 10yr Single Malt Scotch - Pioneer Set
 size: 750mL
 image: /assets/images/glenmorangie-pioneer-pack-.jpg
 reg_price: $39.99
