@@ -1,5 +1,5 @@
 ---
-title: RIUNITE Lambrusco
+title: RIUNITE - Lambrusco
 size: 750mL
 image: /assets/images/riunite-lambrusco.png
 reg_price: $6.99
