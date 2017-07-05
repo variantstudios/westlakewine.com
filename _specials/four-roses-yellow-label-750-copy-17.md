@@ -1,10 +1,10 @@
 ---
-title: COYOTE GOLD - frozen margarita tube
-size: 100mL (3oz)
-image: /assets/images/coyote-frozen-tubes.png
-reg_price: $1.99
-special_price: $1.19
-expiration_date: 2017-07-05 00:00:00
+title: SKYY vodka - excludes flavors
+size: 750mL
+image: /assets/images/skyy-vodka-2.png
+reg_price: $17.99
+special_price: $12.49
+expiration_date: 2017-07-12 00:00:00
 show_special: true
 ---
 
