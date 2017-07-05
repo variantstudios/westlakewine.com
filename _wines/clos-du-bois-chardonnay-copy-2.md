@@ -1,10 +1,10 @@
 ---
-title: GLORIA FERRER - sonoma brut
+title: MANAGE A TROIS - rose
 size: 750ML
-image: /assets/images/gloria-ferrer-sonoma-brut.jpg
-reg_price: $19.99
-special_price: $17.99
-expiration_date: 2017-07-05 00:00:00
+image: /assets/images/menage-a-trois-rose.png
+reg_price: $9.99
+special_price: $8.99
+expiration_date: 2017-07-12 00:00:00
 show_wine: true
 ---
 
