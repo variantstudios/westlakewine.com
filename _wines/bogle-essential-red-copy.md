@@ -1,10 +1,10 @@
 ---
-title: FEDERALIST - honest abe red blend
+title: DREAMING TREE - pinot noir
 size: 750ML
-image: /assets/images/the-federalist-honest-red-blend-1.jpg
-reg_price: $17.99
-special_price: $14.99
-expiration_date: 2017-07-05 00:00:00
+image: /assets/images/dreaming-tree-pinot-noir.png
+reg_price: $14.99
+special_price: $10.99
+expiration_date: 2017-07-12 00:00:00
 show_wine: true
 ---
 
