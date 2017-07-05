@@ -1,9 +1,9 @@
 ---
-title: FOOD FAMILY FUN
-image: /assets/images/slider/4th-of-july-2017.jpg
+title: Summer....Frozen or on the rocks
+image: /assets/images/slider/summer-frozen-drink.jpg
 link_path: /wine-spirits-specials/
-link_label: '& the Fourth of July the 4 best "f" words ever!'
-show_slide: false
+link_label: 'Checkout our Wine & Spirit Specials'
+show_slide: true
 weight: 1
 ---
 
