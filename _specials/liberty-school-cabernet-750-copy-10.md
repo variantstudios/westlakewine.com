@@ -1,10 +1,10 @@
 ---
-title: 'WELDWERKS BREWING - hefeweizen & puesta del sol'
-size: 6pk
-image: /assets/images/weldwerks-hefeweizan--puesta-del-sol.jpg
-reg_price: $8.99
-special_price: $7.49
-expiration_date: 2017-07-05 00:00:00
+title: GLENMORANGIE 10yr Pioneer Set
+size: 750mL
+image: /assets/images/glenmorangie-pioneer-pack-.jpg
+reg_price: $39.99
+special_price: $34.49
+expiration_date: 2017-07-12 00:00:00
 show_special: true
 ---
 
