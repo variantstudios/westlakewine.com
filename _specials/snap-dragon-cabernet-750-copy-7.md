@@ -1,10 +1,10 @@
 ---
-title: RIUNITE - Lambrusco
+title: ROSATELLO - all types
 size: 750mL
-image: /assets/images/riunite-lambrusco.png
-reg_price: $6.99
-special_price: $5.49
-expiration_date: 2017-07-12 00:00:00
+image: /assets/images/rosatello-rose-bottle.png
+reg_price: $11.99
+special_price: $8.49
+expiration_date: 2017-07-19 00:00:00
 show_special: true
 ---
 
