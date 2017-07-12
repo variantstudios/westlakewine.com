@@ -1,5 +1,5 @@
 ---
-title: 'GOOSE ISLAND, STELLA, STELLA CIDRE, & SHOCK TOP'
+title: 'GOOSE ISLAND, STELLA ARTOIS, STELLA ARTOIS CIDRE, & SHOCK TOP'
 size: 6pk
 image: /assets/images/collage-2017-07-12-08-59-17-2.jpg
 reg_price:
