@@ -1,11 +1,11 @@
 ---
-title: GLENMORANGIE 10yr Single Malt Scotch - Pioneer Set
-size: 750mL
-image: /assets/images/glenmorangie-pioneer-pack-.jpg
-reg_price: $39.99
-special_price: $34.49
-expiration_date: 2017-07-12 00:00:00
-show_special: false
+title: 'GOOSE ISLAND, STELLA, STELLA CIDRE, & SHOCK TOP'
+size: 6pk
+image: /assets/images/collage-2017-07-12-08-59-17-2.jpg
+reg_price:
+special_price: 'Buy two 6 packs, get one 6 pack FREE'
+expiration_date: 2017-07-19 00:00:00
+show_special: true
 ---
 
 
