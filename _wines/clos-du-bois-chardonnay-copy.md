@@ -1,5 +1,5 @@
 ---
-title: J VINEYARDS - pinot noir
+title: J VINEYARDS appalachian - pinot noir
 size: 750ML
 image: /assets/images/j-vineyards-pinot-noir.png
 reg_price: $19.99
