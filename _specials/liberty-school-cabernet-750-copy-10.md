@@ -1,5 +1,5 @@
 ---
-title: DON JULIA - anejo
+title: DON JULIO - anejo
 size: 750mL
 image: /assets/images/don-julio-anejo.png
 reg_price: $59.99
