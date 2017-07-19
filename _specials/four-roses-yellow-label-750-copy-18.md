@@ -1,10 +1,10 @@
 ---
-title: 'WOLF BLASS yellow label - cabernet sauvignon, chardonnay, shiraz'
+title: DISENO - malbec
 size: 750mL
-image: /assets/images/wolf-blass-yellow-label-sa-cabernet-sauvignon-new.png
-reg_price: $8.99
-special_price: $5.49
-expiration_date: 2017-07-19 00:00:00
+image: /assets/images/diseno-malbec-2.png
+reg_price: $9.99
+special_price: $7.49
+expiration_date: 2017-07-26 00:00:00
 show_special: true
 ---
 
