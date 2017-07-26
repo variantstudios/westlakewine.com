@@ -1,10 +1,10 @@
 ---
-title: RUSTENBERG - rose
+title: KING ESTATE - pinot gris
 size: 750ML
-image: /assets/images/rustenberg-rose.png
-reg_price: $14.99
-special_price: $12.99
-expiration_date: 2017-07-26 00:00:00
+image: /assets/images/king-estate-pinot-gris-bottleshot.png
+reg_price: $17.99
+special_price: $14.99
+expiration_date: 2017-08-02 00:00:00
 show_wine: true
 ---
 
