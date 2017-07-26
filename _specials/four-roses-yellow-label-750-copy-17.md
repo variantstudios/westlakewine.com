@@ -1,10 +1,10 @@
 ---
-title: DECADENT SAINT - sangria
+title: CAPTAIN MORGAN - Parrot Bay - rum - most types
 size: 750mL
-image: /assets/images/decadent-saint-sangria.jpg
-reg_price: $18.99
-special_price: $15.49
-expiration_date: 2017-07-26 00:00:00
+image: /assets/images/captain-morgan-parrot-bay.jpg
+reg_price: $12.99
+special_price: $10.49
+expiration_date: 2017-08-02 00:00:00
 show_special: true
 ---
 
