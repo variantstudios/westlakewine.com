@@ -1,10 +1,10 @@
 ---
-title: DISENO - malbec
-size: 750mL
-image: /assets/images/diseno-malbec-2.png
-reg_price: $9.99
-special_price: $7.49
-expiration_date: 2017-07-26 00:00:00
+title: CK MONDAVI
+size: 1.5L
+image: /assets/images/ck-mondavi-pinot-grigio-1-5ltr-2.jpg
+reg_price: $8.99
+special_price: $11.49
+expiration_date: 2017-08-02 00:00:00
 show_special: true
 ---
 
