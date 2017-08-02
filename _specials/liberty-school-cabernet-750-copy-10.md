@@ -1,10 +1,10 @@
 ---
-title: MONOPOLOWA - vodka
-size: 750mL
-image: /assets/images/mono-2.jpg
-reg_price: $13.99
-special_price: $10.49
-expiration_date: 2017-08-02 00:00:00
+title: "NOT YOUR FATHER'S / MOM'S - all types"
+size: 6pk
+image: /assets/images/not-your-fathers.png
+reg_price: $10.99
+special_price: $9.49
+expiration_date: 2017-08-09 00:00:00
 show_special: true
 ---
 
