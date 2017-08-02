@@ -1,10 +1,10 @@
 ---
-title: KING ESTATE - pinot gris
+title: LAMARCA - prosecco
 size: 750ML
-image: /assets/images/king-estate-pinot-gris-bottleshot.png
-reg_price: $17.99
-special_price: $14.99
-expiration_date: 2017-08-02 00:00:00
+image: /assets/images/lamarca-prosecco.png
+reg_price: $14.99
+special_price: $11.99
+expiration_date: 2017-08-09 00:00:00
 show_wine: true
 ---
 
