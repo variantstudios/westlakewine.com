@@ -1,5 +1,5 @@
 ---
-title: CAYMAN JACK - pre mix margarita
+title: CAYMAN JACK - pre mix margarita & mojito
 size: 6pk
 image: /assets/images/cayman-jack-1.jpeg
 reg_price: $9.99
