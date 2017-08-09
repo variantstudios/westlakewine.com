@@ -1,6 +1,6 @@
 ---
 title: CAYMAN JACK - pre mix margarita
-size: 750mL
+size: 6pk
 image: /assets/images/cayman-jack-1.jpeg
 reg_price: $9.99
 special_price: $7.49
