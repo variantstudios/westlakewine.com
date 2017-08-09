@@ -1,5 +1,5 @@
 ---
-title: BERINGER - founders merlot
+title: BERINGER - founders estate merlot
 size: 750mL
 image: /assets/images/beringer-founders-estate-merlot.jpg
 reg_price: $12.99
