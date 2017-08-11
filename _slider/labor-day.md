@@ -1,8 +1,10 @@
 ---
 title: Labor Day
-image: /assets/images/slider/00-fall-seasonal-2016.jpg
+image: /assets/images/slider/westlake-labor-day-2017.jpg
 link_path: /beer-specials/
-link_label: 'Fall is here, and so are the Seasonal Beers, Ales & Lagers!'
+link_label: Add a bottom sub title here.
 show_slide: false
-weight: 2
+weight: 1
 ---
+
+
