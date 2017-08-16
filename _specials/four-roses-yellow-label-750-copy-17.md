@@ -1,5 +1,5 @@
 ---
-title: 'PICCINI - chiant, rosso, pinot grigio'
+title: 'PICCINI - chianti, rosso, pinot grigio'
 size: 750mL
 image: /assets/images/piccini-rosso.jpg
 reg_price: $10.99
