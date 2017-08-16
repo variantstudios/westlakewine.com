@@ -1,10 +1,10 @@
 ---
-title: CAYMAN JACK - pre mix margarita & mojito
-size: 6pk
-image: /assets/images/hero-desktop.jpg
-reg_price: $9.99
-special_price: $7.49
-expiration_date: 2017-08-16 00:00:00
+title: FRANCISCAN - chardonnay
+size: 750mL
+image: /assets/images/franciscan-chardonnay.png
+reg_price: $16.99
+special_price: $12.49
+expiration_date: 2017-08-23 00:00:00
 show_special: true
 ---
 
