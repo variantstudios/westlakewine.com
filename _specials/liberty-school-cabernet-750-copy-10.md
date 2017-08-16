@@ -1,5 +1,5 @@
 ---
-title: TWISTED TEA
+title: 'TWISTED TEA - original, half & half, and raspberry'
 size: 6pk
 image: /assets/images/twisted-tea-cans-2-1.jpg
 reg_price: $9.99
