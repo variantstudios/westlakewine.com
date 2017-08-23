@@ -1,10 +1,10 @@
 ---
-title: FRANCISCAN - chardonnay
-size: 750mL
-image: /assets/images/franciscan-chardonnay.png
-reg_price: $16.99
-special_price: $12.49
-expiration_date: 2017-08-23 00:00:00
+title: KRAKEN - spiced black rum
+size: 1.75L
+image: /assets/images/kraken-2-1.jpg
+reg_price: $29.99
+special_price: $23.49
+expiration_date: 2017-08-30 00:00:00
 show_special: true
 ---
 
