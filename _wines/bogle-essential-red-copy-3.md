@@ -1,5 +1,5 @@
 ---
-title: LEONE DE CASTRIS - salice salintino
+title: LEONE DE CASTRIS - salice salentino
 size: 750mL
 image: /assets/images/leone-de-castris-salice-sal.jpg
 reg_price: $16.99
