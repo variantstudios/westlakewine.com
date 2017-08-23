@@ -1,10 +1,10 @@
 ---
-title: BAREFOOT - pinot grigio
+title: SANTA CRISTINA 0 rosso
 size: 750ML
-image: /assets/images/barefoot-pinot-grigio.png
-reg_price: $7.99
-special_price: $5.99
-expiration_date: 2017-08-23 00:00:00
+image: /assets/images/santa-cristina-rosso-toscana-igt-2012-it-bl-0067-12a.jpg
+reg_price: $11.99
+special_price: $9.99
+expiration_date: 2017-08-30 00:00:00
 show_wine: true
 ---
 
