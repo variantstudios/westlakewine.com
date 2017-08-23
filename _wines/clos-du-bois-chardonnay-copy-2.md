@@ -1,5 +1,5 @@
 ---
-title: SANTA CRISTINA 0 rosso
+title: SANTA CRISTINA - rosso
 size: 750ML
 image: /assets/images/santa-cristina-rosso-toscana-igt-2012-it-bl-0067-12a.jpg
 reg_price: $11.99
