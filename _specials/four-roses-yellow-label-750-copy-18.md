@@ -1,10 +1,10 @@
 ---
-title: REMY MARTIN VSOP
+title: DARK HORSE Winery - all types
 size: 750mL
-image: /assets/images/remy-martin-vsop-2-3-16.jpg
-reg_price: $49.99
-special_price: $37.49
-expiration_date: 2017-08-23 00:00:00
+image: /assets/images/dark-horse-wines.png
+reg_price: $9.99
+special_price: $7.49
+expiration_date: 2017-08-30 00:00:00
 show_special: true
 ---
 
