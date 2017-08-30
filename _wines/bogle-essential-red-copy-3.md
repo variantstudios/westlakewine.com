@@ -1,5 +1,5 @@
 ---
-title: COLUMBIA - grand estate syrah
+title: COLUMBIA CREST - grand estate syrah
 size: 750mL
 image: /assets/images/columbia-crest-grand-estates-syrah-2015.jpg
 reg_price: $11.99
