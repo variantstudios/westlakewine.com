@@ -1,10 +1,10 @@
 ---
-title: DARK HORSE Winery - all types
-size: 750mL
-image: /assets/images/dark-horse-wines.png
-reg_price: $9.99
-special_price: $7.49
-expiration_date: 2017-08-30 00:00:00
+title: FETZER
+size: 1.5L
+image: /assets/images/fetzer-2-1.jpg
+reg_price: $11.99
+special_price: $9.49
+expiration_date: 2017-09-06 00:00:00
 show_special: true
 ---
 
