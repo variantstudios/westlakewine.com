@@ -1,5 +1,5 @@
 ---
-title: LITTLE BALCK DRESS - all types
+title: LITTLE BLACK DRESS - all types
 size: 750mL
 image: /assets/images/little-black-dress.png
 reg_price: $9.99
