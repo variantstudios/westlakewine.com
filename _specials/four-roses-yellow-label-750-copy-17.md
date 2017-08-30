@@ -1,5 +1,5 @@
 ---
-title: BUD & BUD LIGHT
+title: 'BUD, BUD LIGHT, MICHELOB ULTRA, & BUD LIGHT LIME A RITA'
 size: 12pk bottles & cans
 image: /assets/images/budw-2.jpg
 reg_price:
