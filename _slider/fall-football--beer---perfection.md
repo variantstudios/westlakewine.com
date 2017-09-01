@@ -1,8 +1,10 @@
 ---
 title: 'Fall, Football & Beer...perfection!'
-image: /assets/images/slider/00-fall-seasonal-2016.jpg
+image: /assets/images/fall-beer-slider-2017.jpg
 link_path: /beer-specials/
-link_label: 'Fall is here, and so are the Seasonal Beers, Ales & Lagers!'
-show_slide: false
-weight: 2
+link_label: Check out our beer specials!
+show_slide: true
+weight: 1
 ---
+
+
