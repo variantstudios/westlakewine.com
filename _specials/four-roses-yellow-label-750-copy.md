@@ -1,11 +1,11 @@
 ---
-title: 'BUD, BUD LIGHT, MICHELOB ULTRA, & BUD LIGHT LIME A RITA'
-size: 12pk bottles & cans
-image: /assets/images/budw-2.jpg
-reg_price:
-special_price: Buy 2 get 1 FREE
-expiration_date: 2017-09-06 00:00:00
-show_special: true
+title: CHIVAS REGAL - 12 yr scotch
+size: 750mL
+image: /assets/images/chivas.jpg
+reg_price: $34.99
+special_price: $27.49
+expiration_date: 2017-09-13 00:00:00
+show_special: false
 ---
 
 
