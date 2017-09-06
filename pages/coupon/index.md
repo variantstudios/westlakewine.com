@@ -5,7 +5,7 @@ description:
 subtitle:
 permalink: /coupon/
 pdf_path: /assets/images/labor-day-coupon-pdf.pdf
-pdf_image_path: /assets/images/labor-day-coupon.jpg
+pdf_image_path: /assets/images/september-17-coupon.jpg
 ---
 
 
