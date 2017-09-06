@@ -1,5 +1,5 @@
 ---
-title: 'ROSEMOUNT DIAMOND - chardonnay, cabernet sauvignon merlot'
+title: 'ROSEMOUNT DIAMOND - chardonnay, cabernet merlot'
 size: 750mL
 image: /assets/images/rosemount-diamond-label-chardonnay-2016-sea-211x763.png
 reg_price: $8.99
