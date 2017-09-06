@@ -1,5 +1,5 @@
 ---
-title: CHIVAS REGAL - 12 yr scotch
+title: CHIVAS REGAL - 12 yr blended scotch
 size: 750mL
 image: /assets/images/chivas.jpg
 reg_price: $34.99
