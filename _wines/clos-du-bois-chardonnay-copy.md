@@ -1,10 +1,10 @@
 ---
-title: STARBOROUGH - sauvignon blanc
+title: CARLSON VINEYARDS - riesling
 size: 750mL
-image: /assets/images/starborough-sauvignon-blanc-2-1.jpg
-reg_price: $12.99
-special_price: $10.99
-expiration_date: 2017-09-13 00:00:00
+image: /assets/images/carlson-vineyards-riesling.jpg
+reg_price: $
+special_price: $12.99
+expiration_date: 2017-09-20 00:00:00
 show_wine: true
 ---
 
