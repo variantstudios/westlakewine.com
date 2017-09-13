@@ -1,10 +1,10 @@
 ---
-title: HONORO VERA - garnacha
+title: BLUE MOUNTAIN - cabernet sauvignon
 size: 750mL
-image: /assets/images/honoro-vera-garnacha.png
-reg_price: $10.99
-special_price: $7.99
-expiration_date: 2017-09-13 00:00:00
+image: /assets/images/blue-mountain-cab-sauv.jpeg
+reg_price: $
+special_price: $14.99
+expiration_date: 2017-09-20 00:00:00
 show_wine: true
 ---
 
