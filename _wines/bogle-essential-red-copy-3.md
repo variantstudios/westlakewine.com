@@ -1,10 +1,10 @@
 ---
-title: BLUE MOUNTAIN - cabernet sauvignon
+title: NEW AGE - rose
 size: 750mL
-image: /assets/images/blue-mountain-cab-sauv.jpeg
-reg_price: $17.99
-special_price: $14.99
-expiration_date: 2017-09-20 00:00:00
+image: /assets/images/new-age-rose-1.jpg
+reg_price: $11.99
+special_price: $8.99
+expiration_date: 2017-09-27 00:00:00
 show_wine: true
 ---
 
