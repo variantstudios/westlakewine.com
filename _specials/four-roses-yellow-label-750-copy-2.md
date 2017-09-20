@@ -1,10 +1,10 @@
 ---
-title: SOUTHERN COMFORT 70 pf
-size: 1.75L
-image: /assets/images/southern-comfort-resized.jpg
-reg_price: $24.99
-special_price: $18.49
-expiration_date: 2017-09-20 00:00:00
+title: WOLFSCHMIDT Vodka
+size: Liters
+image: /assets/images/wolfschmidt-vodka-bottle-500x500.jpg
+reg_price: $9.99
+special_price: $5.49
+expiration_date: 2017-09-27 00:00:00
 show_special: true
 ---
 
