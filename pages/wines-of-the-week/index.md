@@ -9,8 +9,8 @@ permalink: /wines-of-the-week/
 ---
 
 
-These wines are selected specifically for our free weekly wine tasting, every Friday from 4pm-7pm. &nbsp;This week's features–**Colorado Wine.&nbsp;**Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help!
+These wines are selected specifically for our free weekly wine tasting, every Friday from 4pm-7pm. &nbsp;This week's features–**Last Wines of Summer.&nbsp;**Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help!
 
-Sale prices good through Tuesday, September 19, 2017
+Sale prices good through Tuesday, September 26, 2017
 
 &nbsp;
