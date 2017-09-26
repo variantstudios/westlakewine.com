@@ -1,8 +1,11 @@
 ---
-title: House Beer Built Benefit Concert
-image: /assets/images/slider/00-fall-seasonal-2016.jpg
-link_path: /beer-specials/
-link_label: 'Fall is here, and so are the Seasonal Beers, Ales & Lagers!'
-show_slide: false
-weight: 2
+title: Greeley Area Habitat for Humanity
+image: /assets/images/slider/greeley-habitat.jpg
+link_path: >-
+  https://www.greeleyhabitat.org/house-beer-built-benefit-concert-featuring-burroughs/
+link_label: House Beer Built Benefit Concert
+show_slide: true
+weight: 1
 ---
+
+
