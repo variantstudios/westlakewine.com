@@ -1,5 +1,5 @@
 ---
-title: Greeley Area Habitat for Humanity
+title: Greeley Habitat for Humanity
 image: /assets/images/slider/greeley-habitat.jpg
 link_path: >-
   https://www.greeleyhabitat.org/house-beer-built-benefit-concert-featuring-burroughs/
