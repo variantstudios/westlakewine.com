@@ -1,10 +1,10 @@
 ---
-title: JULIA JAMES - pinot noir
+title: KENDALL JACKSON - vintner's reserve riesling
 size: 750ML
-image: /assets/images/julia-james-pinot-noir-california-2013-bottle-900x900.jpg
-reg_price: $11.99
-special_price: $9.99
-expiration_date: 2017-09-27 00:00:00
+image: /assets/images/kendall-jackson-vintners-reserve-riesling.jpg
+reg_price: $13.99
+special_price: $10.99
+expiration_date: 2017-10-04 00:00:00
 show_wine: true
 ---
 
