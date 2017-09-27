@@ -1,10 +1,10 @@
 ---
-title: KIM CRAWFORD - sauvignon blanc
+title: NOBLE VINES - all types
 size: 750mL
-image: /assets/images/kim-crawford-sauvignon-blanc-m-2-1.jpg
-reg_price: $17.99
-special_price: $13.49
-expiration_date: 2017-09-27 00:00:00
+image: /assets/images/nobel-vines.png
+reg_price: $12.99
+special_price: $10.49
+expiration_date: 2017-10-04 00:00:00
 show_special: true
 ---
 
