@@ -1,10 +1,10 @@
 ---
-title: GLENFIDDICH Single Malt IPA
+title: ROSCATO Sparkling Wines - all types
 size: 750mL
-image: /assets/images/glenfiddich-single-malt-ipa.jpg
-reg_price: $72.99
-special_price: $57.49
-expiration_date: 2017-09-27 00:00:00
+image: /assets/images/roscato-wines-2-1.jpg
+reg_price: $12.99
+special_price: $9.49
+expiration_date: 2017-10-04 00:00:00
 show_special: true
 ---
 
