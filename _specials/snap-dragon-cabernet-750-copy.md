@@ -1,5 +1,5 @@
 ---
-title: ROSCATO Sparkling Wines - all types
+title: 'ROSCATO Sparkling Wines - prosecco, sparkling moscato, sparkling sweet red'
 size: 750mL
 image: /assets/images/roscato-wines-2-1.jpg
 reg_price: $12.99
