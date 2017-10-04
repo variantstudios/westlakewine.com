@@ -6,7 +6,7 @@ description: >-
   one lucky winner!
 subtitle:
 permalink: /new-belgium-bike-giveaway-2017/
-image_path: /assets/images/slider/new-belgium-bike-giveaway.jpg
+image_path: /assets/images/slider/new-belgium-bike-giveaway-graphic.jpg
 ---
 
 
