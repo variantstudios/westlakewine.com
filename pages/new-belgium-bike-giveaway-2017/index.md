@@ -1,9 +1,9 @@
 ---
 layout: pp
-title: Fat Tire Bike Giveaway 2016
-description: 'Westlake Wine will be giving away a “Fat Tire” cruiser, to one lucky winner, courtesy of High Country Beverage.'
+title: New Belgium Bike Giveaway 2017
+description: ''
 subtitle:
-permalink: /fat-tire-bike-giveaway-2016/
+permalink: /new-belgium-bike-giveaway-2017/
 image_path: /assets/images/2016-fat-tire-bike-giveaway_sm.jpg
 ---
 
