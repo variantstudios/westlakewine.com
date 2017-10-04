@@ -1,10 +1,10 @@
 ---
-title: CHIVAS REGAL Scotch
+title: KETEL ONE Vodka - exlcudes flavors
 size: 750mL
-image: /assets/images/chivas-1.jpg
-reg_price: $34.99
-special_price: $26.49
-expiration_date: 2017-10-04 00:00:00
+image: /assets/images/ketal-one-vodka-2-1.png
+reg_price: $24.99
+special_price: $19.49
+expiration_date: 2017-10-11 00:00:00
 show_special: true
 ---
 
