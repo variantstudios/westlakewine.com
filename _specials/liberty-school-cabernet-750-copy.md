@@ -1,5 +1,5 @@
 ---
-title: '1899 TEQUILA - coconut, reposado, silver'
+title: '1800 TEQUILA - coconut, reposado, silver'
 size: 750mL
 image: /assets/images/1800-mainproductphotos-silver-new.png
 reg_price: $27.99
