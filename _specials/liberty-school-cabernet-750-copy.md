@@ -1,10 +1,10 @@
 ---
-title: NOBLE VINES - all types
+title: '1899 TEQUILA - coconut, reposado, silver'
 size: 750mL
-image: /assets/images/nobel-vines.png
-reg_price: $12.99
-special_price: $10.49
-expiration_date: 2017-10-04 00:00:00
+image: /assets/images/1800-mainproductphotos-silver-new.png
+reg_price: $27.99
+special_price: $22.49
+expiration_date: 2017-10-11 00:00:00
 show_special: true
 ---
 
