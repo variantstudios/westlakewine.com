@@ -1,8 +1,10 @@
 ---
-title: New Belgium Bike Giveway
-image: /assets/images/slider/00-fall-seasonal-2016.jpg
+title: BIKE GIVEAWAY!
+image: /assets/images/slider/new-belgium-bike-giveaway.jpg
 link_path: /beer-specials/
-link_label: 'Fall is here, and so are the Seasonal Beers, Ales & Lagers!'
+link_label: enter to win a New Belgium Bike
 show_slide: false
-weight: 2
+weight: 1
 ---
+
+
