@@ -1,6 +1,6 @@
 ---
 title: BOGLE WINERY - essential red
-size: 750mL
+size: 750ML
 image: /assets/images/bogle-essential-red.jpg
 reg_price: $10.99
 special_price: $8.49
