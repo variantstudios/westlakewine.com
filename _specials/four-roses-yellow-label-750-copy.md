@@ -1,10 +1,10 @@
 ---
-title: HEINEKEN - bottles
-size: 18pk
-image: /assets/images/heineken-18pk-bottles.jpeg
-reg_price: $23.99
-special_price: $19.49
-expiration_date: 2017-10-11 00:00:00
+title: WILD TURKEY 101pf
+size: 1.75ltr
+image: /assets/images/wild-turkey-101-1.jpg
+reg_price: $39.99
+special_price: $32.49
+expiration_date: 2017-10-18 00:00:00
 show_special: true
 ---
 
