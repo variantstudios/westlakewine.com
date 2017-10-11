@@ -1,5 +1,5 @@
 ---
-title: WILD TURKEY 101pf
+title: WILD TURKEY 101
 size: 1.75L
 image: /assets/images/wild-turkey-101-1.jpg
 reg_price: $39.99
