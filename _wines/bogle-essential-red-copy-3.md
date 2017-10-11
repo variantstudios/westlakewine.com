@@ -1,5 +1,5 @@
 ---
-title: JOEL GOTT - red blend
+title: JOEL GOTT - washington red
 size: 750mL
 image: /assets/images/joel-gott-2015-washington-red-blend-bottle-shot-sidebar.png
 reg_price: $16.99
