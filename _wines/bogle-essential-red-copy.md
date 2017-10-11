@@ -1,5 +1,5 @@
 ---
-title: COLUMBIA - chardonnay
+title: COLUMBIA WINERY - chardonnay
 size: 750ML
 image: /assets/images/columbia-chardonnay.png
 reg_price: $9.99
