@@ -1,6 +1,6 @@
 ---
 title: LIVINGSTON CELLARS - all types
-size: 3.0ltr
+size: 3.0Ltr
 image: /assets/images/livingston-cellars.jpg
 reg_price: $11.99
 special_price: $9.49
