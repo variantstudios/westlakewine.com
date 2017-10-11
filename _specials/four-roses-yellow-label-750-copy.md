@@ -1,6 +1,6 @@
 ---
 title: WILD TURKEY 101pf
-size: 1.75ltr
+size: 1.75Ltr
 image: /assets/images/wild-turkey-101-1.jpg
 reg_price: $39.99
 special_price: $32.49
