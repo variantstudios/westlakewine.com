@@ -1,5 +1,5 @@
 ---
-title: COLUMBIA CREST - grand estate grigio
+title: COLUMBIA CREST - grand estate pinot grigio
 size: 750mL
 image: /assets/images/columbia-crest-grand-estate-pinot-grigio.jpg
 reg_price: $11.99
