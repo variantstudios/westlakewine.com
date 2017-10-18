@@ -1,10 +1,10 @@
 ---
-title: WILD TURKEY 101
-size: 1.75L
-image: /assets/images/wild-turkey-101-1.jpg
-reg_price: $39.99
-special_price: $32.49
-expiration_date: 2017-10-18 00:00:00
+title: DARK HORSE - double down red blend
+size: 750mL
+image: /assets/images/dark-horse-limited-release-double-down-red-blend-1.jpg
+reg_price: $9.99
+special_price: $6.49
+expiration_date: 2017-10-25 00:00:00
 show_special: true
 ---
 
