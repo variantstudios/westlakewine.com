@@ -7,7 +7,7 @@ description: >-
 subtitle:
 permalink: /wine-spirits-specials/
 pdf_path: /assets/images/10x10-10-18-17.pdf
-pdf_image_path: /assets/images/10-13-17-2.jpg
+pdf_image_path: /assets/images/10x10-10-18-17-2.jpg
 ---
 
 
