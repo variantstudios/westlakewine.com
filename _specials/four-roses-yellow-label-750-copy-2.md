@@ -1,5 +1,5 @@
 ---
-title: JOSE CUERVO Tradicional Plata
+title: JOSE CUERVO TRADICional - plata
 size: 1.75L
 image: /assets/images/jose-cuervo-tradicional-plata.jpg
 reg_price: $32.99
