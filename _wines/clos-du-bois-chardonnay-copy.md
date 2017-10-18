@@ -1,5 +1,5 @@
 ---
-title: VINOS DE LOS MUERTOS - rojo dulce orange
+title: VINOS de los MUERTOS - rojo dulce orange
 size: 750mL
 image: /assets/images/rojo-dulce-wine-2.png
 reg_price: $10.99
