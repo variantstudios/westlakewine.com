@@ -1,10 +1,10 @@
 ---
-title: BOGLE WINERY - essential red
-size: 750ML
-image: /assets/images/bogle-essential-red.jpg
-reg_price: $10.99
-special_price: $8.49
-expiration_date: 2017-10-18 00:00:00
+title: JOSE CUERVO Tradicional Plata
+size: 1.75L
+image: /assets/images/jose-cuervo-tradicional-1-1-1resized.jpg
+reg_price: $32.99
+special_price: $24.49
+expiration_date: 2017-10-25 00:00:00
 show_special: true
 ---
 
