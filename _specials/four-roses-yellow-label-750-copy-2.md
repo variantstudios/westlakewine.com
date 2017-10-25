@@ -1,10 +1,10 @@
 ---
-title: JOSE CUERVO TRADICional - plata
-size: 1.75L
-image: /assets/images/jose-cuervo-tradicional-plata.jpg
-reg_price: $32.99
-special_price: $24.49
-expiration_date: 2017-10-25 00:00:00
+title: TITO'S - vodka
+size: 75ML
+image: /assets/images/titos-vodka.jpg
+reg_price: $19.99
+special_price: $16.49
+expiration_date: 2017-11-01 00:00:00
 show_special: true
 ---
 
