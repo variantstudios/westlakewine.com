@@ -1,10 +1,10 @@
 ---
-title: POIZIN - zinfandel
+title: BOGLE - phantom red
 size: 750ML
-image: /assets/images/poizin-california-bottle-2.png
-reg_price: $12.99
-special_price: $8.99
-expiration_date: 2017-10-25 00:00:00
+image: /assets/images/bogle-phantom-red.png
+reg_price: $19.99
+special_price: $17.99
+expiration_date: 2017-11-01 00:00:00
 show_wine: true
 ---
 
