@@ -1,6 +1,6 @@
 ---
 title: TITO'S - vodka
-size: 75ML
+size: 750ML
 image: /assets/images/titos-vodka.jpg
 reg_price: $19.99
 special_price: $16.49
