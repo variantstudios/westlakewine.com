@@ -1,5 +1,5 @@
 ---
-title: LOUS JADOT - beaujolais village
+title: LOUIS JADOT - beaujolais village
 size: 750mL
 image: /assets/images/louis-jadot-beaujolais-village-use.png
 reg_price: $12.99
