@@ -5,7 +5,7 @@ description:
 subtitle:
 permalink: /coupon/
 pdf_path: /assets/images/november-coupon.pdf
-pdf_image_path: /assets/images/october-coupon-jpeg.jpg
+pdf_image_path: /assets/images/november-coupon.jpg
 ---
 
 
