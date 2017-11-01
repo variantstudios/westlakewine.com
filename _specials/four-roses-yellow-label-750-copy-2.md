@@ -1,5 +1,5 @@
 ---
-title: BUSHMILLS BLACK BUSH Whiskey
+title: BUSHMILLS Black Bush Whiskey
 size: 750ML
 image: /assets/images/bushmills-black-bush-2-1.jpg
 reg_price: $29.99
