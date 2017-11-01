@@ -1,8 +1,8 @@
 ---
-title: Check out our Specials for Thanksgiving
+title: Check out our
 image: /assets/images/2017-thanksgiving.jpg
 link_path: /wine-spirits-specials/
-link_label: 'Fall is here, and so are the Seasonal Beers, Ales & Lagers!'
+link_label: Specials for Thanksgiving
 show_slide: true
 weight: 1
 ---
