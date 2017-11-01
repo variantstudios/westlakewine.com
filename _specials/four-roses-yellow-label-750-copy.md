@@ -1,5 +1,5 @@
 ---
-title: KRAKEN BLACK Spiced Rum
+title: KRAKEN Black Spiced Rum
 size: 750mL
 image: /assets/images/kraken-2-2.jpg
 reg_price: $19.99
