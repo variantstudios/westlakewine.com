@@ -1,5 +1,5 @@
 ---
-title: CHI - CHI'S Ready to Drink - all types
+title: CHI - CHI'S - ready to drink - all types
 size: 1.75L
 image: /assets/images/chi-chis-pina-colada-175-grande.jpg
 reg_price: $9.99
