@@ -1,5 +1,5 @@
 ---
-title: FONSECA BIN 27 - porto
+title: FONSECA - bin 27 porto
 size: 750ML
 image: /assets/images/fonseca-bin-27-port.jpg
 reg_price: $17.99
