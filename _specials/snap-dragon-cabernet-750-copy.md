@@ -1,10 +1,10 @@
 ---
-title: WOODCHUCK - variety pack
-size: 12pk
-image: /assets/images/woodchuck-variety-12-pk.jpg
+title: FONSECA BIN 27 - port
+size: 750ML
+image: /assets/images/fonseca-bin-27-port.jpg
 reg_price: $17.99
 special_price: $15.49
-expiration_date: 2017-11-08 00:00:00
+expiration_date: 2017-11-15 00:00:00
 show_special: true
 ---
 
