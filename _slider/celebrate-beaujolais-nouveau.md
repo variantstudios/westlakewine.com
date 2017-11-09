@@ -1,8 +1,10 @@
 ---
-title: Celebrate Beaujolais Nouveau
-image: /assets/images/slider/00-fall-seasonal-2016.jpg
-link_path: /beer-specials/
-link_label: 'Fall is here, and so are the Seasonal Beers, Ales & Lagers!'
-show_slide: false
-weight: 2
+title: November 16
+image: /assets/images/slider/nov-wine-slider.jpg
+link_path: 'https://weldfoodbank.org/wine/'
+link_label: Celebrate Beaujolais Nouveau & help the Weld Food Bank
+show_slide: true
+weight: 1
 ---
+
+
