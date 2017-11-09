@@ -1,8 +1,8 @@
 ---
-title: November 16
+title: On November 16th Celebrate
 image: /assets/images/slider/nov-wine-slider.jpg
 link_path: 'https://weldfoodbank.org/wine/'
-link_label: Celebrate Beaujolais Nouveau & help the Weld Food Bank
+link_label: Beaujolais Nouveau & help the Weld Food Bank
 show_slide: true
 weight: 1
 ---
