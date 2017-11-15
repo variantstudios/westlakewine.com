@@ -1,10 +1,10 @@
 ---
-title: JOSE CUERVO MARGARITA MIX - classic lime
-size: 1.75L
-image: /assets/images/jose-cuervo-mis-classi-lime-1-75l.jpg
-reg_price: $7.99
-special_price: $5.49
-expiration_date: 2017-11-15 00:00:00
+title: STRANAHAN'S - diamond peak whiskey
+size: 750ML
+image: /assets/images/stranahan-s-diamond-peak-color-2-1.jpg
+reg_price: $74.99
+special_price: $57.49
+expiration_date: 2017-11-22 00:00:00
 show_special: true
 ---
 
