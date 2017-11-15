@@ -1,5 +1,5 @@
 ---
-title: KENDELL JACKSON - vintner's reserve syrah
+title: KENDALL JACKSON - vintner's reserve syrah
 size: 750ML
 image: /assets/images/kendell-jackson-vr-syrah.png
 reg_price: $13.99
