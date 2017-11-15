@@ -1,10 +1,10 @@
 ---
-title: WALNUT BLOCK - sauvignon blanc
+title: CHERRY PIE - 3 vineyard pinot noir
 size: 750mL
-image: /assets/images/walnut-block-sauvignon-blanc-1.png
-reg_price: $14.99
-special_price: $12.99
-expiration_date: 2017-11-15 00:00:00
+image: /assets/images/cherry-pie-pinot-noir-three-vineyards-1.jpg
+reg_price: $19.99
+special_price: $17.99
+expiration_date: 2017-11-22 00:00:00
 show_wine: true
 ---
 
