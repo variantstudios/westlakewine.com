@@ -1,10 +1,10 @@
 ---
-title: CHI - CHI'S - ready to drink - all types
-size: 1.75L
-image: /assets/images/chi-chis-pina-colada-175-grande.jpg
-reg_price: $9.99
-special_price: $7.49
-expiration_date: 2017-11-15 00:00:00
+title: BERINGER - white zinfandel
+size: 750ML
+image: /assets/images/beringer-white-zin-2-1.png
+reg_price: $6.99
+special_price: $4.49
+expiration_date: 2017-11-22 00:00:00
 show_special: true
 ---
 
