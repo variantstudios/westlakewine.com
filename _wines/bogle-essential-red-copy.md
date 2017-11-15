@@ -1,5 +1,5 @@
 ---
-title: FREI BROTHER'S = sauvignon blanc
+title: FREI BROTHER'S - sauvignon blanc
 size: 750ML
 image: /assets/images/frei-brothers-sauvignon-blanc.png
 reg_price: $17.99
