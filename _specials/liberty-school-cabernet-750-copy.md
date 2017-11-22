@@ -1,5 +1,5 @@
 ---
-title: FRANCISCAN MAGNIFICAT
+title: FRANCISCAN - magnificat
 size: 750ML
 image: /assets/images/franciscan-magnificat.png
 reg_price: $39.99
