@@ -9,7 +9,7 @@ permalink: /wines-of-the-week/
 ---
 
 
-These wines are selected specifically for our free weekly wine tasting, every Friday from 4pm-7pm. &nbsp;This week's features–**Thanksgiving Wines III.&nbsp;**Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help!
+This week's features–**Thanksgiving Leftover Wines.&nbsp;**Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help! No wine tasting this week due to the Thanksgiving Holiday Weekend.
 
 Sale prices good through Tuesday, November 21, 2017
 
