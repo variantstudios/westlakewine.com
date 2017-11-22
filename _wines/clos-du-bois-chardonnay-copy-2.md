@@ -1,5 +1,5 @@
 ---
-title: RUSDEN DRIFTSAND - gsm red
+title: RUSDEN DRIFTSAND - gsm red blend
 size: 750ML
 image: /assets/images/rusden-driftsand-gsm-red.png
 reg_price: $22.99
