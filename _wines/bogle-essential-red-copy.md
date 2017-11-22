@@ -1,10 +1,10 @@
 ---
-title: FREI BROTHER'S - sauvignon blanc
+title: GEORGE DUBOEUF - beaujolais nouveau
 size: 750ML
-image: /assets/images/frei-brothers-sauvignon-blanc.png
-reg_price: $17.99
-special_price: $14.99
-expiration_date: 2017-11-22 00:00:00
+image: /assets/images/george-duboeuf-beaujolais-nouveau.png
+reg_price: $11.99
+special_price: $9.99
+expiration_date: 2017-11-29 00:00:00
 show_wine: true
 ---
 
