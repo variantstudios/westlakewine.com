@@ -1,5 +1,5 @@
 ---
-title: STOLICHNAYA Vodka
+title: STOLICHNAYA Russian Vodka
 size: 1.75L
 image: /assets/images/stolichnaya-80-2-1.jpg
 reg_price: $31.99
