@@ -1,10 +1,10 @@
 ---
-title: TEQUILA ROSE - strawberry cream
-size: 750ML
-image: /assets/images/tequila-rose-2-1.jpg
-reg_price: $19.99
-special_price: $15.49
-expiration_date: 2017-11-22 00:00:00
+title: STOLICHNAYA Vodka
+size: 1.75L
+image: /assets/images/stolichnaya-80-2-1.jpg
+reg_price: $31.99
+special_price: $24.49
+expiration_date: 2017-11-29 00:00:00
 show_special: true
 ---
 
