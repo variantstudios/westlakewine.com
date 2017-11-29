@@ -1,10 +1,10 @@
 ---
-title: GEORGE DUBOEUF - beaujolais nouveau
+title: EDGEGASTON - honey shale hill
 size: 750ML
 image: /assets/images/george-duboeuf-beaujolais-nouveau.png
-reg_price: $11.99
-special_price: $9.99
-expiration_date: 2017-11-29 00:00:00
+reg_price: $14.99
+special_price: $12.99
+expiration_date: 2017-12-06 00:00:00
 show_wine: true
 ---
 
