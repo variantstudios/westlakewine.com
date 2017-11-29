@@ -9,8 +9,8 @@ permalink: /wines-of-the-week/
 ---
 
 
-This week's features–**Thanksgiving Leftover Wines.&nbsp;**Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help! No wine tasting this week due to the Thanksgiving Holiday Weekend.
+This week's features–**December Wines.&nbsp;**Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help! No wine tasting this week due to the Thanksgiving Holiday Weekend.
 
-Sale prices good through Tuesday, November 21, 2017
+Sale prices good through Tuesday, December 5, 2017
 
 &nbsp;
