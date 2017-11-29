@@ -1,5 +1,5 @@
 ---
-title: COPPOLA Director's - chardonnay
+title: COPPOLA Director's Cut - chardonnay
 size: 750mL
 image: /assets/images/coppola-directors-chardonnay.png
 reg_price: $19.99
