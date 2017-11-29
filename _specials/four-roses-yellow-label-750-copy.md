@@ -1,10 +1,10 @@
 ---
-title: RELAX WINES - all types
+title: HIGH NOON Vodka - all types
 size: 750ML
-image: /assets/images/relax-wines.png
-reg_price: $8.99
-special_price: $7.49
-expiration_date: 2017-11-29 00:00:00
+image: /assets/images/high-noon-vodka-1.jpg
+reg_price: $17.99
+special_price: $14.49
+expiration_date: 2017-12-06 00:00:00
 show_special: true
 ---
 
