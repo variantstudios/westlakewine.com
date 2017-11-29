@@ -1,10 +1,10 @@
 ---
-title: RUSDEN DRIFTSAND - gsm red blend
+title: SPANISH QUARTER - cabernet sauvignon tempranilla
 size: 750ML
-image: /assets/images/rusden-driftsand-gsm-red.png
-reg_price: $22.99
-special_price: $17.99
-expiration_date: 2017-11-29 00:00:00
+image: /assets/images/spanish-quarter-cabernet-sauvignon-tempranillo-750ml.jpg
+reg_price: $10.99
+special_price: $7.99
+expiration_date: 2017-12-06 00:00:00
 show_wine: true
 ---
 
