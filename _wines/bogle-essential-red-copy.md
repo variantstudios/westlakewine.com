@@ -1,5 +1,5 @@
 ---
-title: EDGEGASTON - honey shale hill
+title: EDGEBASTON - honey shale hill
 size: 750ML
 image: /assets/images/george-duboeuf-beaujolais-nouveau.png
 reg_price: $14.99
