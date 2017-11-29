@@ -1,5 +1,5 @@
 ---
-title: SPANISH QUARTER - cabernet sauvignon tempranill0
+title: SPANISH QUARTER - cabernet sauvignon tempranillo
 size: 750ML
 image: /assets/images/spanish-quarter-cabernet-sauvignon-tempranillo-750ml.jpg
 reg_price: $10.99
