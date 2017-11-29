@@ -1,5 +1,5 @@
 ---
-title: KITCHEN SINK Wines - all types
+title: 'KITCHEN SINK Wines - red, white'
 size: 750ML
 image: /assets/images/kitchen-sink.png
 reg_price: $8.99
