@@ -1,5 +1,5 @@
 ---
-title: VALE do MOMFIM - couro
+title: VALE do MOMFIM - douro
 size: 750mL
 image: /assets/images/vale-do-bomfim-reserva-douro-.jpg
 reg_price: $14.99
