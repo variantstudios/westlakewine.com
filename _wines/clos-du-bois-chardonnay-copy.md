@@ -1,5 +1,5 @@
 ---
-title: SCHMITT SOHNE - liebframich
+title: SCHMITT SOHNE - liebfraumilch
 size: 750mL
 image: /assets/images/schmitt-soehne-liebfrauenmilch-qba.png
 reg_price: $6.99
