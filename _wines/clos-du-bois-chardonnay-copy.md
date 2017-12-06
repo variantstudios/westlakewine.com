@@ -1,10 +1,10 @@
 ---
-title: VALE do BOMFIM - douro
+title: SCHMITT SOHNE - liebframich
 size: 750mL
-image: /assets/images/vale-do-bomfim-reserva-douro-.jpg
-reg_price: $9.99
-special_price: $7.99
-expiration_date: 2017-11-29 00:00:00
+image: /assets/images/schmitt-soehne-liebfrauenmilch-qba.png
+reg_price: $6.99
+special_price: $5.99
+expiration_date: 2017-12-13 00:00:00
 show_wine: true
 ---
 
