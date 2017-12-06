@@ -1,10 +1,10 @@
 ---
-title: EDGEBASTON - honey shale hill
+title: MEIOMI - chardonnay
 size: 750ML
-image: /assets/images/edgebaston-honey-shale-hill-1.jpg
-reg_price: $14.99
-special_price: $12.99
-expiration_date: 2017-12-06 00:00:00
+image: /assets/images/meiomi-chardonnay.png
+reg_price: $15.99
+special_price: $13.99
+expiration_date: 2017-12-13 00:00:00
 show_wine: true
 ---
 
