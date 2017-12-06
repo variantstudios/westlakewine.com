@@ -1,10 +1,10 @@
 ---
-title: VERDI - spumante
+title: PLATINUM Vodka
 size: 1.5L
-image: /assets/images/verdi-spumante-1-5--72869-1347639708.jpg
-reg_price: $8.99
-special_price: $7..49
-expiration_date: 2017-12-06 00:00:00
+image: /assets/images/platinum-vodka-1-75.jpg
+reg_price: $16.99
+special_price: $13..49
+expiration_date: 2017-12-13 00:00:00
 show_special: true
 ---
 
