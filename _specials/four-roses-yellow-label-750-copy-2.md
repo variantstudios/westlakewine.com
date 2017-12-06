@@ -1,5 +1,5 @@
 ---
-title: 'CARNIVOR - cabernet sauvignon, ainfandel'
+title: 'CARNIVOR - cabernet sauvignon, zinfandel'
 size: 750ML
 image: /assets/images/carnivor-2012-ci-california-ca-2.png
 reg_price: $11.99
