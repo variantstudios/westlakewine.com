@@ -1,8 +1,10 @@
 ---
 title: Get into the Holiday Spirits
-image: /assets/images/slider/00-fall-seasonal-2016.jpg
-link_path: /beer-specials/
-link_label: 'Fall is here, and so are the Seasonal Beers, Ales & Lagers!'
-show_slide: false
-weight: 2
+image: /assets/images/dec-2017-header.jpg
+link_path: /wine-spirits-specials/
+link_label: Holiday Specials
+show_slide: true
+weight: 1
 ---
+
+
