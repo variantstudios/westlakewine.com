@@ -1,6 +1,6 @@
 ---
 title: >-
-  STELLA ARTOIS - recieve 1 FREE Stella Artois 11oz chalice glass with 12 pk
+  STELLA ARTOIS - recieve 1 FREE Stella Artois 11oz chalice glass with 12pk
   purchase
 size: 12PK
 image: /assets/images/stella-artois-12pk.jpg
