@@ -1,5 +1,7 @@
 ---
-title: STELLA ARTOIS
+title: >-
+  STELLA ARTOIS - recieve 1 FREE Stella Artois 11oz chalice glass with 12 pk
+  purchase
 size: 12PK
 image: /assets/images/stella-artois-12pk.jpg
 reg_price: $16.99
