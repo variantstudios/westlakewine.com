@@ -1,5 +1,5 @@
 ---
-title: JOHNNIE WALKER Black Label
+title: JOHNNIE WALKER - Black Label
 size: 750ML
 image: /assets/images/johnnie-walker-black-label-750ml.jpg
 reg_price: $254.99
