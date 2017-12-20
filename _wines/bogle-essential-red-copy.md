@@ -1,5 +1,5 @@
 ---
-title: COPPOLA - director's cut pinot noir
+title: COPPOLA DIRECTOR'S CUT -  pinot noir
 size: 750ML
 image: /assets/images/coppola-directors-cut-p-noir.png
 reg_price: $24.99
