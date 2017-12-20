@@ -1,5 +1,5 @@
 ---
-title: LAGAVULIN 8yr old Scotch
+title: LAGAVULIN 8yr islay single malt
 size: 750ML
 image: /assets/images/lagavulin-8yr.jpg
 reg_price: $64.99
