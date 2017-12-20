@@ -1,10 +1,10 @@
 ---
-title: BREAD & BUTTER - pinot noir
+title: CLINE - old vine zinfandel
 size: 750mL
-image: /assets/images/bread--butter-pinot-noir-1.png
-reg_price: $13.99
-special_price: $11.99
-expiration_date: 2017-12-20 00:00:00
+image: /assets/images/cline-old-vine-zinfandel.png
+reg_price: $10.99
+special_price: $8.99
+expiration_date: 2017-12-27 00:00:00
 show_wine: true
 ---
 
