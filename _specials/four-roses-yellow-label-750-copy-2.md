@@ -2,7 +2,7 @@
 title: CIROC Vodka - excludes flavors
 size: 750ML
 image: /assets/images/ciroc-vodka.jpg
-reg_price: $32.49
+reg_price: $32.99
 special_price: $24.49
 expiration_date: 2017-12-27 00:00:00
 show_special: true
