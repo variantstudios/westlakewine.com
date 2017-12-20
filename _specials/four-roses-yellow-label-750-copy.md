@@ -1,10 +1,10 @@
 ---
-title: GNARLY HEAD - old vine zinfandel
+title: LAGAVULIN 8yr Scotch
 size: 750ML
-image: /assets/images/gnarly-head-old-vine-zinfandel.png
-reg_price: $10.99
-special_price: $7.49
-expiration_date: 2017-12-20 00:00:00
+image: /assets/images/lagavulin-8yr.jpg
+reg_price: $64.99
+special_price: $48.49
+expiration_date: 2017-12-27 00:00:00
 show_special: true
 ---
 
