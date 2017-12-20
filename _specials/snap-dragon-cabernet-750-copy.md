@@ -1,10 +1,10 @@
 ---
-title: JOHNNIE WALKER - Blue Label
+title: 'JACK DANIEL''S - black, honey, fire'
 size: 750ML
-image: /assets/images/johnnie-wlaker-blue-2-1.jpg
-reg_price: $254.99
-special_price: $204.49
-expiration_date: 2017-12-20 00:00:00
+image: /assets/images/jack-daniels-honey.jpg
+reg_price: $21.99
+special_price: $17.49
+expiration_date: 2017-12-27 00:00:00
 show_special: true
 ---
 
