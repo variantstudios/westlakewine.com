@@ -1,10 +1,10 @@
 ---
-title: LAGAVULIN 8yr islay single malt
+title: FIREBALL - cinnamon whiskey
 size: 750ML
-image: /assets/images/lagavulin-8yr.jpg
-reg_price: $64.99
-special_price: $48.49
-expiration_date: 2017-12-27 00:00:00
+image: /assets/images/fireball-cinnamon-whiskey-750--2-1.jpg
+reg_price: $14.99
+special_price: $12.49
+expiration_date: 2018-01-03 00:00:00
 show_special: true
 ---
 
