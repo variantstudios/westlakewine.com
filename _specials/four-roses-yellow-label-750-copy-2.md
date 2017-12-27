@@ -1,10 +1,10 @@
 ---
-title: CIROC Vodka - excludes flavors
+title: MASCHIO - prosecco
 size: 750ML
-image: /assets/images/ciroc-vodka.jpg
-reg_price: $32.99
-special_price: $24.49
-expiration_date: 2017-12-27 00:00:00
+image: /assets/images/maschio-prosecco.jpg
+reg_price: $10.99
+special_price: $7.49
+expiration_date: 2018-01-03 00:00:00
 show_special: true
 ---
 
