@@ -1,10 +1,10 @@
 ---
-title: SCHRAMSBERG - cremant
+title: CLIMAX Moonshine & Woodfired whiskey
 size: 750ML
-image: /assets/images/schramsberg-cremant.jpg
-reg_price: $39.99
-special_price: $31.49
-expiration_date: 2018-01-03 00:00:00
+image: /assets/images/climax-moonshine-2-1.jpg
+reg_price: $29.99
+special_price: $24.49
+expiration_date: 2018-01-10 00:00:00
 show_special: true
 ---
 
