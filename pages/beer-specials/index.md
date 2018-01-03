@@ -7,7 +7,7 @@ description: >-
 subtitle:
 permalink: /beer-specials/
 pdf_path: /assets/images/website-beer-ad-01-09-18.pdf
-pdf_image_path: /assets/images/website-beer-ad-01-08-18-2.jpg
+pdf_image_path: /assets/images/website-beer-ad-01-09-18-2.jpg
 ---
 
 
