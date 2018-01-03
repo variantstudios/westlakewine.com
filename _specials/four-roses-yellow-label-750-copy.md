@@ -1,5 +1,5 @@
 ---
-title: ROSCATO - all types
+title: ROSCATO - most types
 size: 750ML
 image: /assets/images/roscato-wines-2-2.jpg
 reg_price: $12.99
