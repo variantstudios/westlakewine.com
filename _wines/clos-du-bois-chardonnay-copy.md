@@ -1,5 +1,5 @@
 ---
-title: WILLIAM HILL
+title: WILLIAM HILL - central coast merlot
 size: 750ML
 image: /assets/images/william-hill-central-coast-merlot-1.jpg
 reg_price:
