@@ -1,5 +1,5 @@
 ---
-title: WHITE HAVEN - sauvignon blanc
+title: WHITEHAVEN - sauvignon blanc
 size: 750ML
 image: /assets/images/whitehave-sauv-blanc-2-3-16-resized.jpg
 reg_price: $17.99
