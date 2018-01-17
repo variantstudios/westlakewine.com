@@ -1,10 +1,10 @@
 ---
-title: WHITEHAVEN - sauvignon blanc
+title: ZONIN Primo Amore - moscato riesling
 size: 750ML
-image: /assets/images/whitehave-sauv-blanc-2-3-16-resized.jpg
-reg_price: $17.99
-special_price: $13.49
-expiration_date: 2018-01-17 00:00:00
+image: /assets/images/zonin-resized.jpg
+reg_price: $12.99
+special_price: $9.49
+expiration_date: 2018-01-24 00:00:00
 show_special: true
 ---
 
