@@ -1,5 +1,5 @@
 ---
-title: ZONIN Primo Amore - moscato riesling
+title: 'ZONIN Primo Amore - moscato, riesling'
 size: 750ML
 image: /assets/images/zonin-resized.jpg
 reg_price: $12.99
