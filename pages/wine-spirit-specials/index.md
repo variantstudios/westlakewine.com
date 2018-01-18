@@ -6,8 +6,8 @@ description: >-
   from, both foreign and domestic.
 subtitle:
 permalink: /wine-spirits-specials/
-pdf_path: /assets/images/01-23-18-1.pdf
-pdf_image_path: /assets/images/01-23-18-2.jpg
+pdf_path: /assets/images/01-23-18-2.pdf
+pdf_image_path: /assets/images/01-23-18-2b.jpg
 ---
 
 
