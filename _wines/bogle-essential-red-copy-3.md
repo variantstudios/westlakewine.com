@@ -1,10 +1,10 @@
 ---
-title: 14 HANDS - moscato
+title: ALAMOS - malbec
 size: 750mL
-image: /assets/images/14-hands-moscato.png
+image: /assets/images/alamos-malbec.png
 reg_price: $10.99
-special_price: $8.99
-expiration_date: 2018-01-24 00:00:00
+special_price: $7.99
+expiration_date: 2018-01-31 00:00:00
 show_wine: true
 ---
 
