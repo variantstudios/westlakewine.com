@@ -1,10 +1,10 @@
 ---
-title: BOMBAY SAPPHIRE - dry gin
+title: PATRON Tequila - silver
 size: 750ML
-image: /assets/images/bombay-sapphire.jpg
-reg_price: $24.99
-special_price: $20.49
-expiration_date: 2018-01-24 00:00:00
+image: /assets/images/patron-2-use.jpg
+reg_price: $49.99
+special_price: $34.49
+expiration_date: 2018-01-31 00:00:00
 show_special: true
 ---
 
