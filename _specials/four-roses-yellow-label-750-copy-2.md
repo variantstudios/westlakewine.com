@@ -1,10 +1,10 @@
 ---
-title: 'ZONIN Primo Amore - moscato, riesling'
+title: KENDALL JACKSON - vintner's reserve pinot noir
 size: 750ML
-image: /assets/images/zonin-primo-amore-moscato.jpg
-reg_price: $12.99
-special_price: $9.49
-expiration_date: 2018-01-24 00:00:00
+image: /assets/images/kendall-jackson-vintners-reserve-pinot-noir.png
+reg_price: $19.99
+special_price: $12.49
+expiration_date: 2018-01-31 00:00:00
 show_special: true
 ---
 
