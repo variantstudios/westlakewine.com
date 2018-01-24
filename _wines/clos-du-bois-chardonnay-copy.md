@@ -1,5 +1,5 @@
 ---
-title: ZONIN - primo amore riesling
+title: ZONIN Primo Amore - riesling
 size: 750ML
 image: /assets/images/zonin-primo-amore-riesling.png
 reg_price: $12.99
