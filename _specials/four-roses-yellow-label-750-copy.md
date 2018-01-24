@@ -1,10 +1,10 @@
 ---
-title: TRIVENTO AMADO SUR - torrontes
+title: 'BULLEIT - bourbon, rye'
 size: 750ML
-image: /assets/images/trivento-amado-sur-trorontes.jpg
-reg_price: $14.99
-special_price: $9.49
-expiration_date: 2018-01-24 00:00:00
+image: /assets/images/bulleit-2.jpg
+reg_price: $27.99
+special_price: $22.49
+expiration_date: 2018-01-31 00:00:00
 show_special: true
 ---
 
