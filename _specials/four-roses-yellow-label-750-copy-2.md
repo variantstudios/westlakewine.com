@@ -5,7 +5,7 @@ image: /assets/images/mono.jpg
 reg_price: $13.99
 special_price: $10.49
 expiration_date: 2018-02-06 00:00:00
-show_special: true
+show_special: false
 ---
 
 
