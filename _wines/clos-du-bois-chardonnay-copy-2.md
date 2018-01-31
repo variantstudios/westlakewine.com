@@ -1,7 +1,7 @@
 ---
-title: LAYER CAKE - chardonnay
+title: MENAGE A TROIS - white
 size: 750ML
-image: /assets/images/layer-cake-chardonnay.png
+image: /assets/images/menage-a-trois-white.png
 reg_price: $11.99
 special_price: $9.99
 expiration_date: 2018-01-31 00:00:00
