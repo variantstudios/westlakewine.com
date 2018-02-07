@@ -1,10 +1,10 @@
 ---
-title: ROCCA delle MACIE - chianti
+title: St. KATHRYN - cranberry kiss
 size: 750ML
-image: /assets/images/chianti-classico-rocca-delle-macie.jpg
-reg_price: $14.99
-special_price: $12.99
-expiration_date: 2018-02-07 00:00:00
+image: /assets/images/st-kathryn-cellars-cranberry-kiss22.jpg
+reg_price: $16.99
+special_price: $14.99
+expiration_date: 2018-02-14 00:00:00
 show_wine: true
 ---
 
