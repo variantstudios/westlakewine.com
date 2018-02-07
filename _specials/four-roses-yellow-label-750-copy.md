@@ -1,10 +1,10 @@
 ---
-title: TISDALE Wine select types
+title: NEW AGE - all types
 size: 750ML
-image: /assets/images/tisdale-chardonnay.png
-reg_price: $4.99
-special_price: $3.49
-expiration_date: 2018-02-07 00:00:00
+image: /assets/images/new-age-2-1.jpg
+reg_price: $11.99
+special_price: $8.49
+expiration_date: 2018-02-14 00:00:00
 show_special: true
 ---
 
