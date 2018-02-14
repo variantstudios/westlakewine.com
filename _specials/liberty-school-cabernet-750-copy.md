@@ -1,5 +1,5 @@
 ---
-title: DISARNNO - amaretto
+title: DISARONNO - amaretto
 size: 1.75L
 image: /assets/images/disarnno-amaretto-1-75ltr.jpg
 reg_price: $42.99
