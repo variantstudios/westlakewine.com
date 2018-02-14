@@ -1,5 +1,5 @@
 ---
-title: OBAN Single Malt Scotch Whiskey 14yr
+title: OBAN - Single Malt Scotch Whiskey 14yr
 size: 750ML
 image: /assets/images/oban-single-malt-14yr.jpg
 reg_price: $94.99
