@@ -1,11 +1,10 @@
 ---
-title: NEW AGE - all types
+title: OBAN Single Malt Scotch Whiskey 14yr
 size: 750ML
-image: /assets/images/new-age-2-1.jpg
-reg_price: $11.99
-special_price: $8.49
-expiration_date: 2018-02-14 00:00:00
+image: /assets/images/oban-single-malt-14yr.jpg
+reg_price: $94.99
+special_price: $74.49
+expiration_date: 2018-02-20 00:00:00 -0700
 show_special: true
 ---
-
 
