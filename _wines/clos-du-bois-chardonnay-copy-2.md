@@ -1,5 +1,5 @@
 ---
-title: CASHMERE - white
+title: CASHMERE - white blend
 size: 750ML
 image: /assets/images/cashmere-white.png
 reg_price: $14.99
