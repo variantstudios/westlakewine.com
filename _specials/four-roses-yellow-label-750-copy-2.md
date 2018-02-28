@@ -1,10 +1,10 @@
 ---
-title: FETZER California - all types
+title: JACK DANIELS Whiskey - rye
 size: 750ML
-image: /assets/images/fetzer-2-2.jpg
-reg_price: $7.49
-special_price: $5.49
-expiration_date: 2018-02-27 00:00:00 -0700
+image: /assets/images/jack-daniels-rye-2.jpg
+reg_price: $24.99
+special_price: $18.49
+expiration_date: 2018-03-07 00:00:00 -0700
 show_special: true
 ---
 
