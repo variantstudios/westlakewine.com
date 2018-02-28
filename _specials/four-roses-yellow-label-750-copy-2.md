@@ -1,7 +1,7 @@
 ---
 title: JACK DANIELS Whiskey - rye
 size: 750ML
-image: /assets/images/jack-daniels-rye-2.jpg
+image: /assets/images/jackdaniels-ryewhiskey.jpg
 reg_price: $24.99
 special_price: $18.49
 expiration_date: 2018-03-07 00:00:00 -0700
