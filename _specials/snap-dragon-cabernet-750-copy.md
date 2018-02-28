@@ -1,5 +1,5 @@
 ---
-title: 'ROOT:1 - pinot noir'
+title: 'ROOT: 1 - pinot noir'
 size: 750ML
 image: /assets/images/root-1-pinot-noir.png
 reg_price: $10.99
