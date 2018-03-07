@@ -1,10 +1,10 @@
 ---
-title: CASTLE ROCK - rose
+title: CANNONBALL - merlot
 size: 750ML
-image: /assets/images/cast-rock-rose.png
-reg_price: $12.99
-special_price: $8.99
-expiration_date: 2018-03-07 00:00:00 -0700
+image: /assets/images/cannonball-merlot.png
+reg_price: $10.99
+special_price: $12.99
+expiration_date: 2018-03-14 00:00:00 -0600
 show_wine: true
 ---
 
