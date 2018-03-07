@@ -1,9 +1,9 @@
 ---
-title: TRIVENTO AMADO SUR - torrontes
+title: REMY MARTIN 1738 - Champagne Cognac
 size: 750ML
-image: /assets/images/trivento-amado-sur-trorontes-1.jpg
-reg_price: $14.99
-special_price: $8.49
+image: /assets/images/remy-martin-1738-champagne-cognac.jpg
+reg_price: $64.99
+special_price: '52.49'
 expiration_date: 2018-03-07 00:00:00 -0700
 show_special: true
 ---
