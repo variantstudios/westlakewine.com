@@ -1,10 +1,10 @@
 ---
-title: VINA LABRADA - garnacha
+title: SCHMITT SOHNE - spatlese
 size: 750ML
-image: /assets/images/vina-labrada-garnacha.png
-reg_price: $7.99
-special_price: $5.99
-expiration_date: 2018-03-07 00:00:00 -0700
+image: /assets/images/schmitt-sohne-spatlese.png
+reg_price: $11.99
+special_price: $9.99
+expiration_date: 2018-03-14 00:00:00 -0600
 show_wine: true
 ---
 
