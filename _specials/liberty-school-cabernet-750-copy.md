@@ -1,10 +1,10 @@
 ---
-title: VERDI - spumante
+title: 'ROCKY MOUNTAIN VINEYARD - roadkill red, mead'
 size: 750ML
-image: /assets/images/verdi-spumante-1-5--72869-1347639708-1.jpg
-reg_price: $6.99
-special_price: $5.49
-expiration_date: 2018-03-07 00:00:00 -0700
+image: /assets/images/rocky-mountain-vineyards-road-kill-red-750-ml-1.png
+reg_price: $14.99
+special_price: $12.49
+expiration_date: 2018-03-14 00:00:00 -0600
 show_special: true
 ---
 
