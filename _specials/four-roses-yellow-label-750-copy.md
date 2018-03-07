@@ -1,5 +1,5 @@
 ---
-title: REMY MARTIN 1738 - Champagne Cognac
+title: REMY MARTIN 1738 - champagne cognac
 size: 750ML
 image: /assets/images/remy-martin-1738-champagne-cognac.jpg
 reg_price: $64.99
