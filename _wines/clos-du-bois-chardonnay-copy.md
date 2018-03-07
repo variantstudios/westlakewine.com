@@ -1,5 +1,5 @@
 ---
-title: SCHMITT SOHNE - spatlese
+title: SCHMITT SOHNE - spatlese riesling
 size: 750ML
 image: /assets/images/schmitt-sohne-spatlese.png
 reg_price: $11.99
