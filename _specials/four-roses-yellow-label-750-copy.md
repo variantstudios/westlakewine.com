@@ -1,5 +1,7 @@
 ---
-title: 'ROBERT MONDAVI Private Select Bourbon Barrel - cabernet sauvignon, chardonnay'
+title: >-
+  ROBERT MONDAVI Private Selection Bourbon Barrel - cabernet sauvignon,
+  chardonnay
 size: 750ML
 image: /assets/images/robert-mondavi-private-select-bourbon-barrel-cabernet.png
 reg_price: $12.99
