@@ -1,5 +1,5 @@
 ---
-title: KIM CRAWFORD VINEYARDS - un-oaked chardonnay
+title: KIM CRAWFORD - un-oaked chardonnay
 size: 750ML
 image: /assets/images/kim-crawford-unoaked-chardonnay.png
 reg_price: $17.99
