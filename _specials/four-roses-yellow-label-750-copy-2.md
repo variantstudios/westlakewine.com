@@ -1,10 +1,10 @@
 ---
-title: STRANAHAN'S - Colorado Whiskey
-size: 750ML
-image: /assets/images/stranahan-s-diamond-peak-color-2-2.jpg
-reg_price: $54.99
-special_price: $42.49
-expiration_date: 2018-03-14 00:00:00 -0600
+title: 'REX GOLIATH - chardonnay, pinot grigio, free range red'
+size: 1.5L
+image: /assets/images/rex-goliath-freerange-red-mv-15.png
+reg_price: $9.99
+special_price: $5.49
+expiration_date: 2018-03-21 00:00:00 -0600
 show_special: true
 ---
 
