@@ -1,10 +1,10 @@
 ---
-title: REMY MARTIN 1738 - champagne cognac
+title: 'ROBERT MONDAVI Private Select Bourbon Barrel - cabernet sauvignon, chardonnay'
 size: 750ML
-image: /assets/images/remy-martin-1738-champagne-cognac.jpg
-reg_price: $64.99
-special_price: '52.49'
-expiration_date: 2018-03-14 00:00:00 -0600
+image: /assets/images/robert-mondavi-private-select-bourbon-barrel-cabernet.png
+reg_price: $12.99
+special_price: '8.49'
+expiration_date: 2018-03-21 00:00:00 -0600
 show_special: true
 ---
 
