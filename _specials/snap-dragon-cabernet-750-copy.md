@@ -1,5 +1,5 @@
 ---
-title: WOODFORD RESERVE - bourbon whiskey
+title: WOODFORD RESERVE - bourbon whiskey (excludes double oak)
 size: 750ML
 image: /assets/images/woodford-reserve-2016-kentucky-2.jpg
 reg_price: $37.99
