@@ -1,5 +1,5 @@
 ---
-title: GLENLIVET Founder's Reserve Scotch Whiskey
+title: GLENLIVET Founder's Reserve - Scotch whiskey
 size: 750ML
 image: /assets/images/glenlivet-founders-reserve.jpg
 reg_price: $39.99
