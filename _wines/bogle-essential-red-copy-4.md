@@ -1,5 +1,5 @@
 ---
-title: CHATEAU STE. MICHELLE - gewurtzraminer
+title: CHATEAU STE. MICHELLE - gewurztraminer
 size: 750ML
 image: /assets/images/chateau-ste--michelle-gewurtzraminer.png
 reg_price: $9.99
