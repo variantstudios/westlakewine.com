@@ -1,10 +1,10 @@
 ---
-title: TRIMBACH - pinot gris reserve
+title: WOODFORD RESERVE - bourbon whiskey
 size: 750ML
-image: /assets/images/trimbach-pinot-gris-reserve-1.png
-reg_price: $24.99
-special_price: $19.49
-expiration_date: 2018-03-27 00:00:00 -0600
+image: /assets/images/woodford-reserve-2016-kentucky-2.jpg
+reg_price: $37.99
+special_price: $31.49
+expiration_date: 2018-04-03 00:00:00 -0600
 show_special: true
 ---
 
