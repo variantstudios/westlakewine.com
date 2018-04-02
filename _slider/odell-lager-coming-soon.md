@@ -1,8 +1,9 @@
 ---
-title: Odell Lager Coming Soon
-image: /assets/images/slider/00-fall-seasonal-2016.jpg
-link_path: /beer-specials/
-link_label: 'Fall is here, and so are the Seasonal Beers, Ales & Lagers!'
-show_slide: false
-weight: 2
+title: COMING SOON!
+image: /assets/images/slider/odell-colorado-lager.png
+link_path: /odell-colorado-lager/
+link_label: Odell Brewing Co Colorado Lager!
+show_slide: true
+weight: 0
 ---
+
