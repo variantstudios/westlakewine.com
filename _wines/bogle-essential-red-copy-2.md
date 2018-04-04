@@ -1,5 +1,5 @@
 ---
-title: DREAMING TREE - pino noir
+title: DREAMING TREE - pinot noir
 size: 750mL
 image: /assets/images/dreaming-tree-pinot-noir-3.png
 reg_price: $12.99
