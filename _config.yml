@@ -8,6 +8,7 @@ timezone: America/Denver
 site_id: 16760
 uploads_dir: '/assets/images/'
 version: "3.2.1" # the version of jekyll
+collections_dir: "Variant Studios"
 
 # Gems for plugins
 gems:
