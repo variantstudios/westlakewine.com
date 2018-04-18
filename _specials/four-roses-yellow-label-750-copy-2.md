@@ -1,10 +1,10 @@
 ---
-title: FRANCISCAN - Napa chardonnay
+title: E.H. TAYLOR - single barrel whiskey
 size: 750ML
-image: /assets/images/franciscan-chardonnay-1.png
-reg_price: $16.99
-special_price: $11.49
-expiration_date: 2018-04-17 00:00:00 -0600
+image: /assets/images/eh-taylor-single-barrle-whiskey.jpg
+reg_price: $64.99
+special_price: $54.49
+expiration_date: 2018-04-24 00:00:00 -0600
 show_special: true
 ---
 
