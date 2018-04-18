@@ -1,5 +1,5 @@
 ---
-title: MARTELL Cognac VS - single distillery
+title: MARTELL Cognac - vs single distillery
 size: 750ML
 image: /assets/images/martell-cognac-vs-single-distillery.png
 reg_price: $34.99
