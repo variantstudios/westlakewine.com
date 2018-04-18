@@ -1,10 +1,10 @@
 ---
-title: GREY GOOSE Vodka - excludes flavors
+title: MARTELL Cognac VS - single distillery
 size: 750ML
-image: /assets/images/grey-goose-vodka-1.jpg
-reg_price: $32.99
-special_price: $22.49
-expiration_date: 2018-04-17 00:00:00 -0600
+image: /assets/images/martell-cognac-vs-single-distillery.png
+reg_price: $34.99
+special_price: $27.49
+expiration_date: 2018-04-24 00:00:00 -0600
 show_special: true
 ---
 
