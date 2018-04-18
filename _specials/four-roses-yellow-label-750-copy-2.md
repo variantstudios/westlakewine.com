@@ -1,5 +1,5 @@
 ---
-title: E.H. TAYLOR - single barrel whiskey
+title: E.H. TAYLOR - 100pf single barrel whiskey
 size: 750ML
 image: /assets/images/eh-taylor-single-barrle-whiskey.jpg
 reg_price: $64.99
