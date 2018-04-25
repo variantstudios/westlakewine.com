@@ -1,9 +1,9 @@
 ---
-title: AVION Tequila - silver
+title: ANDRE - brut
 size: 750ML
-image: /assets/images/avion-tequila-silver.jpeg
-reg_price: $39.99
-special_price: $32.49
+image: /assets/images/andre-brut-1.png
+reg_price: $5.99
+special_price: $4.49
 expiration_date: 2018-05-02 00:00:00 -0600
 show_special: true
 ---
