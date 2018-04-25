@@ -1,10 +1,10 @@
 ---
-title: FITVINE - rose
+title: FRE - brut
 size: 750ML
-image: /assets/images/fitvine-rose.jpg
-reg_price: $19.99
-special_price: $17.99
-expiration_date: 2018-04-25 00:00:00 -0600
+image: /assets/images/fre-brut.png
+reg_price: $12.99
+special_price: $10.99
+expiration_date: 2018-05-02 00:00:00 -0600
 show_wine: true
 ---
 
