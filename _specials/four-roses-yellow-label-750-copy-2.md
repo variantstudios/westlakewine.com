@@ -1,9 +1,9 @@
 ---
-title: ANDRE - brut
+title: ARDBEG 10 yr - Single Malt Scotch
 size: 750ML
-image: /assets/images/andre-brut.png
-reg_price: $5.99
-special_price: $4.49
+image: /assets/images/ardbeg-10yr-single-malt-scoth-1.jpg
+reg_price: $59.99
+special_price: $42.49
 expiration_date: 2018-05-01 00:00:00 -0600
 show_special: true
 ---
