@@ -1,9 +1,9 @@
 ---
-title: ARDBEG 10yr - Single Malt Scotch
+title: AVIATION - gin
 size: 750ML
-image: /assets/images/ardbeg-10yr-single-malt-scoth.jpg
-reg_price: $59.99
-special_price: $42.49
+image: /assets/images/aviation-gin-1.png
+reg_price: $39.99
+special_price: $32.49
 expiration_date: 2018-05-01 00:00:00 -0600
 show_special: true
 ---
