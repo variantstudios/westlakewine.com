@@ -1,5 +1,5 @@
 ---
-title: ARDBEG 10 yr - Single Malt Scotch
+title: ARDBEG - 10 yr Single Malt Scotch
 size: 750ML
 image: /assets/images/ardbeg-10yr-single-malt-scoth-1.jpg
 reg_price: $59.99
