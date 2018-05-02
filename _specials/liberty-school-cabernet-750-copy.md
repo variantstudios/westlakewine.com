@@ -1,10 +1,10 @@
 ---
-title: AVION TEQUILA - silver
-size: 750ML
-image: /assets/images/avion-tequila-silver-1.jpeg
-reg_price: $39.99
-special_price: $32.49
-expiration_date: 2018-05-01 00:00:00 -0600
+title: OLD FORESTER - mint julep premix
+size: 1LTR
+image: /assets/images/old-forester-mint-julep-premix.jpg
+reg_price: $22.99
+special_price: $18.49
+expiration_date: 2018-05-08 00:00:00 -0600
 show_special: true
 ---
 
