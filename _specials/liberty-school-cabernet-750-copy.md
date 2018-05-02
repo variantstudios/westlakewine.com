@@ -1,6 +1,6 @@
 ---
 title: OLD FORESTER - mint julep premix
-size: 1LTR
+size: LTR
 image: /assets/images/old-forester-mint-julep-premix.jpg
 reg_price: $22.99
 special_price: $18.49
