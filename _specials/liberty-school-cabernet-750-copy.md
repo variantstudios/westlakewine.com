@@ -1,6 +1,6 @@
 ---
-title: OLD FORESTER - mint julep premix
-size: LTR
+title: OLD FORESTER - mint julep bourbon cocktail
+size: 1.0L
 image: /assets/images/old-forester-mint-julep-premix.jpg
 reg_price: $22.99
 special_price: $18.49
