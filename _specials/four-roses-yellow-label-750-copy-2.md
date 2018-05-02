@@ -1,10 +1,10 @@
 ---
-title: ARDBEG - 10 yr Single Malt Scotch
-size: 750ML
-image: /assets/images/ardbeg-10yr-single-malt-scoth-1.jpg
-reg_price: $59.99
-special_price: $42.49
-expiration_date: 2018-05-01 00:00:00 -0600
+title: LEFT HAND Brewing Co. - mountain mixer
+size: 12pk
+image: /assets/images/left-hand-brewing-mountain-mix.jpg
+reg_price: $18.99
+special_price: $14.49
+expiration_date: 2018-05-08 00:00:00 -0600
 show_special: true
 ---
 
