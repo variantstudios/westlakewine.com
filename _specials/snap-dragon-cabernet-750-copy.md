@@ -1,10 +1,10 @@
 ---
-title: 'SAUZA Tequila - silver, gold'
+title: DALMORE 12yr - single malt whisky
 size: 750ML
-image: /assets/images/sauza-silver-tequila-1.png
-reg_price: $14.99
-special_price: $11.49
-expiration_date: 2018-05-08 00:00:00 -0600
+image: /assets/images/dalmore-12-year-old-whisky.jpg
+reg_price: $64.99
+special_price: $54.49
+expiration_date: 2018-05-15 00:00:00 -0600
 show_special: true
 ---
 
