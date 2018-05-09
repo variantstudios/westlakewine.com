@@ -1,5 +1,5 @@
 ---
-title: CRIOS rose of malbec
+title: CRIOS - rose of malbec
 size: 750mL
 image: /assets/images/crios-rose-of-malbec.jpg
 reg_price: $13.99
