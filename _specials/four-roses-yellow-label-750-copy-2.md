@@ -1,10 +1,10 @@
 ---
-title: LANDSHARK - cans
-size: 24pk
-image: /assets/images/landshark-24-pack.png
-reg_price: $23.99
-special_price: $18.49
-expiration_date: 2018-05-15 00:00:00 -0600
+title: FREIXENET -  cordon negro extra dry
+size: 750ML
+image: /assets/images/freixenet-cordon-negro-ex-dry.png
+reg_price: $10.99
+special_price: $7.49
+expiration_date: 2018-05-22 00:00:00 -0600
 show_special: true
 ---
 
