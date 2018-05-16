@@ -1,10 +1,10 @@
 ---
-title: CRIOS - rose of malbec
+title: CAVIT - riesling
 size: 750mL
-image: /assets/images/crios-rose-of-malbec.jpg
-reg_price: $13.99
-special_price: $11.99
-expiration_date: 2018-05-16 00:00:00 -0600
+image: /assets/images/cavit-riesling-13mv-750.png
+reg_price: $6.99
+special_price: $8.99
+expiration_date: 2018-05-23 00:00:00 -0600
 show_wine: true
 ---
 
