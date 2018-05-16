@@ -1,10 +1,10 @@
 ---
-title: LA CREMA - sonoma pinot noir
+title: JACOB'S CREEK - shiraz
 size: 750ML
-image: /assets/images/la-crema-sonoma-pinot-noir.png
-reg_price: $22.99
-special_price: $18.99
-expiration_date: 2018-05-16 00:00:00 -0600
+image: /assets/images/jacobs-creek-shiraz-1.png
+reg_price: $5.99
+special_price: $6.99
+expiration_date: 2018-05-23 00:00:00 -0600
 show_wine: true
 ---
 
