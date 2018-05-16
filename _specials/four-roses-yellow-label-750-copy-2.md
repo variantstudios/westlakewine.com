@@ -1,5 +1,5 @@
 ---
-title: FREIXENET -  cordon negro extra dry
+title: FREIXENET Cordon Negro - extra dry
 size: 750ML
 image: /assets/images/freixenet-cordon-negro-ex-dry.png
 reg_price: $10.99
