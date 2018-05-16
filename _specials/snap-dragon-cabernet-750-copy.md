@@ -1,5 +1,5 @@
 ---
-title: CLIMAX MOONSHINE - two types
+title: 'CLIMAX - moonshine, wood fired whiskey'
 size: 750ML
 image: /assets/images/climax-moonshine.jpg
 reg_price: $29.99
