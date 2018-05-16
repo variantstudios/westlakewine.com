@@ -1,10 +1,10 @@
 ---
-title: DALMORE 12yr - single malt whisky
+title: CLIMAX MOONSHINE - two types
 size: 750ML
-image: /assets/images/dalmore-12-year-old-whisky.jpg
-reg_price: $64.99
-special_price: $54.49
-expiration_date: 2018-05-15 00:00:00 -0600
+image: /assets/images/climax-moonshine.jpg
+reg_price: $29.99
+special_price: $24.49
+expiration_date: 2018-05-22 00:00:00 -0600
 show_special: true
 ---
 
