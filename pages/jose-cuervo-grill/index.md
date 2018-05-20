@@ -17,5 +17,3 @@ Westlake Wine & Spirits, along with Jose Cuervo, are giving away a Grill to one 
 * Drawing May 31
 * Must be 21 to enter
 * No purchase necessary
-
-http://www.westlakewine.com/jose-cuervo-grill/
