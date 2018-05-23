@@ -1,5 +1,5 @@
 ---
-title: FEDERALIST - Mendocino County chardonnay
+title: FEDERALIST - chardonnay
 size: 750ML
 image: /assets/images/federalist-mendocino-county-chardonnay.jpg
 reg_price: $17.99
