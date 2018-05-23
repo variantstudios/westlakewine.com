@@ -1,10 +1,10 @@
 ---
-title: GENTLEMAN JACK - Tennessee whiskey
-size: 1.75L
-image: /assets/images/gentleman-jack-tennesse-whiskey-1-75l.jpg
-reg_price: $59.99
-special_price: $45.49
-expiration_date: 2018-05-22 00:00:00 -0600
-show_special: false
+title: MICHELOB ULTRA
+size: 24pk cans
+image: /assets/images/micholob-ultra-24pk-cans.jpeg
+reg_price: '239.99'
+special_price: '185.49'
+expiration_date: 2018-05-29 00:00:00 -0600
+show_special: true
 ---
 
