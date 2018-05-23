@@ -5,7 +5,7 @@ image: /assets/images/climax-moonshine.jpg
 reg_price: $29.99
 special_price: $24.49
 expiration_date: 2018-05-22 00:00:00 -0600
-show_special: true
+show_special: false
 ---
 
 all types
