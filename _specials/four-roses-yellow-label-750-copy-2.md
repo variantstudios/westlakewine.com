@@ -1,6 +1,6 @@
 ---
 title: 'CASTILLO Puerto Rican Rum - gold, silver'
-size: LTR
+size: 1.0L
 image: /assets/images/castillo-silver-rum.png
 reg_price: $9.99
 special_price: $7.49
