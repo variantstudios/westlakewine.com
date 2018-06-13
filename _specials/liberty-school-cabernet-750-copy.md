@@ -1,5 +1,5 @@
 ---
-title: EH TAYLOR jr - small batch bourbon whiskey
+title: E.H. TAYLOR Jr. - small batch bourbon whiskey
 size: 750ML
 image: /assets/images/eh-taylor-jr-small-batch-bourbon-whiskey.png
 reg_price: $44.99
