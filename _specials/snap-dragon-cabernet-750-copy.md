@@ -1,10 +1,10 @@
 ---
-title: GLENMORANIGIE 10 yr Single Malt Scotch
+title: DON JULIO - 1942 tequila
 size: 750ML
-image: /assets/images/glenmorangie10yr.jpg
-reg_price: $39.99
-special_price: $28.49
-expiration_date: 2018-06-12 00:00:00 -0600
+image: /assets/images/don-julio-1942-tequila.png
+reg_price: $129.99
+special_price: $99.49
+expiration_date: 2018-06-19 00:00:00 -0600
 show_special: true
 ---
 
