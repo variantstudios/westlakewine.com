@@ -1,5 +1,5 @@
 ---
-title: FOUR VIRTUES - zinfancel
+title: FOUR VIRTUES - zinfandel
 size: 750ML
 image: /assets/images/four-virtues-zin-2.png
 reg_price: $19.99
