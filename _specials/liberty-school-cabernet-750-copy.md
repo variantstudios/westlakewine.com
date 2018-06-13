@@ -1,7 +1,7 @@
 ---
 title: EH TAYLOR jr - small batch bourbon whiskey
 size: 750ML
-image: /assets/images/st-supery-estate-sauvignon-blanc-napa-valley-usa-10519167.jpg
+image: /assets/images/eh-taylor-jr-small-batch-bourbon-whiskey.png
 reg_price: $44.99
 special_price: $36.49
 expiration_date: 2018-06-12 00:00:00 -0600
