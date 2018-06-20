@@ -1,10 +1,10 @@
 ---
-title: BALVENIE Doublewood - 12yr single malt scotch
-size: 750ML
-image: /assets/images/balvenie-12doublewood.jpeg
-reg_price: $59.99
-special_price: $42.49
-expiration_date: 2018-06-19 00:00:00 -0600
+title: CUERVO GOLDEN Pre-mix Margarita - all types
+size: 1.75L
+image: /assets/images/josecuervogolden-premix-marg.jpg
+reg_price: $19.99.99
+special_price: $16.49
+expiration_date: 2018-06-26 00:00:00 -0600
 show_special: true
 ---
 
