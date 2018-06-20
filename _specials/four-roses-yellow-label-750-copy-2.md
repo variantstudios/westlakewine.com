@@ -1,5 +1,5 @@
 ---
-title: CUERVO GOLDEN Pre-mix Margarita - all types
+title: JOSE CUERVO GOLDEN Pre-mix Margarita - all types
 size: 1.75L
 image: /assets/images/josecuervogolden-premix-marg.jpg
 reg_price: $19.99.99
