@@ -1,10 +1,10 @@
 ---
-title: DUCKHORN - Napa cabernet sauvignon 2015
+title: 'CUPCAKE - pinot grigio, malbec'
 size: 750ML
-image: /assets/images/duckhorn-napa-cabernet-sauvignon-2015.jpg
-reg_price: $69.99
-special_price: $56.49
-expiration_date: 2018-06-19 00:00:00 -0600
+image: /assets/images/cupcake-vineyards-pinot-grigio.jpg
+reg_price: $9.99
+special_price: $6.49
+expiration_date: 2018-06-26 00:00:00 -0600
 show_special: true
 ---
 
