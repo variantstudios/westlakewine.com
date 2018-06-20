@@ -11,6 +11,11 @@
 <script type="text/javascript" src="/assets/js/prod/scripts.js"></script>
 <script src="/assets/js/dev/jquery.colorbox-min.js"></script>
 
+<script>
+     var currentDate = new Date().toISOString();
+     $('#subject').append(currentDate);
+</script>
+
 {% if site.google_analytics_tracking_id %}
 <!-- google analytics -->
 <script>
