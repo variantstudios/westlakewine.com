@@ -1,8 +1,9 @@
 ---
 title: Get your bottles engraved FREE!
-image: /assets/images/slider/00-fall-seasonal-2016.jpg
-link_path: /beer-specials/
-link_label: 'Fall is here, and so are the Seasonal Beers, Ales & Lagers!'
-show_slide: false
-weight: 2
+image: /assets/images/slider/june-2018-bottles-engraved.jpg
+link_path: /bottles-engraved/
+link_label: click thru to a landing page with the details of the event
+show_slide: true
+weight: 1
 ---
+
