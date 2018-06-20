@@ -2,7 +2,7 @@
 title: Get your bottles engraved FREE!
 image: /assets/images/slider/june-2018-bottles-engraved.jpg
 link_path: /bottles-engraved/
-link_label: click thru to a landing page with the details of the event
+link_label: Click here for details
 show_slide: true
 weight: 1
 ---
