@@ -8,8 +8,6 @@ permalink: /bottles-engraved/
 image_path: /assets/images/CR-engraving-event.jpg
 ---
 
-### Get your bottles engraved FREE!
-
 * Saturday June 30th
 * 3 to 6pm
 * Westlake Wine & Spirits
