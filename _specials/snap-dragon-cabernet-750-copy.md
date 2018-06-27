@@ -1,5 +1,5 @@
 ---
-title: DISENO Argentina - red blend
+title: DISENO - red blend
 size: 750ML
 image: /assets/images/diseno-red-blend.jpg
 reg_price: $9.99
