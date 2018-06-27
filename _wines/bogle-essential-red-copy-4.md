@@ -1,5 +1,5 @@
 ---
-title: COLUMBIA CREST Grand Estate - cabernet sauvignon
+title: COLUMBIA CREST - Grand Estate cabernet sauvignon
 size: 750ML
 image: /assets/images/columbia-crest-grand-estate-cab.png
 reg_price: $11.99
