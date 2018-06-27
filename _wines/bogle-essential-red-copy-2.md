@@ -1,5 +1,5 @@
 ---
-title: BEARITAGE - zinfandel
+title: BEARITAGE - lodi old vine zinfandel
 size: 750mL
 image: /assets/images/bearitage-zinfandel.jpg
 reg_price: $11.99
