@@ -1,6 +1,6 @@
 ---
 title: WHITE CLAW - variety
-size: 12pk
+size: 12PK
 image: /assets/images/white-claw.jpg
 reg_price: $17.99
 special_price: $14.49
