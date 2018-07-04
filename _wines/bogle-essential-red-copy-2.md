@@ -1,10 +1,10 @@
 ---
-title: BEARITAGE - lodi old vine zinfandel
+title: COTE EST - white
 size: 750mL
-image: /assets/images/bearitage-zinfandel.jpg
-reg_price: $11.99
-special_price: $9.99
-expiration_date: 2018-07-04 00:00:00 -0600
+image: /assets/images/cote-est-white.jpg
+reg_price: $12.99
+special_price: $10.99
+expiration_date: 2018-07-11 00:00:00 -0600
 show_wine: true
 ---
 
