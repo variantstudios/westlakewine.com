@@ -1,5 +1,5 @@
 ---
-title: JOHNNIE WALKER Black Label Jane Walker Edition
+title: JOHNNIE WALKER Black Label - Jane Walker Edition
 size: 750ML
 image: /assets/images/johnnie-walker-black-label-the-jane-walker-edition.jpg
 reg_price: $39.99
