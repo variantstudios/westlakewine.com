@@ -1,10 +1,10 @@
 ---
-title: COTE EST - white
+title: CASILLERO del DIABLO
 size: 750mL
-image: /assets/images/cote-est-white.jpg
-reg_price: $12.99
-special_price: $10.99
-expiration_date: 2018-07-11 00:00:00 -0600
+image: /assets/images/casillero-del-diablo-pinot-noir.png
+reg_price: $
+special_price: $7.99
+expiration_date: 2018-07-18 00:00:00 -0600
 show_wine: true
 ---
 
