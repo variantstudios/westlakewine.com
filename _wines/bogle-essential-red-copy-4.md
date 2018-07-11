@@ -1,6 +1,6 @@
 ---
 title: DARK HORSE - rose
-size: 375mL cans
+size: 375mL can
 image: /assets/images/dark-horse-rose-can-1.jpg
 reg_price: $5.99
 special_price: $4.99
