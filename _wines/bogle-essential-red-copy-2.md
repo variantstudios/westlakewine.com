@@ -1,5 +1,5 @@
 ---
-title: CASILLERO del DIABLO
+title: CASILLERO del DIABLO - pinot noir
 size: 750mL
 image: >-
   /assets/images/casillero-del-diablo-reserva-pinot-noir-casablanca-valley-chile-10546893.jpg
