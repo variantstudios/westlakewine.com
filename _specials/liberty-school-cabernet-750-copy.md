@@ -1,5 +1,5 @@
 ---
-title: 'FREESTONE - chardonnay, pinot noir'
+title: 'JOSEPH PHELPS Freestone - chardonnay, pinot noir'
 size: 750ML
 image: /assets/images/freestone-pinot-noir.png
 reg_price: $39.99 / $44.99
