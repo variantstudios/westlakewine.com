@@ -1,6 +1,6 @@
 ---
 title: DEWAR'S Scotch - white label
-size: 1LTR
+size: 1.0LTR
 image: /assets/images/dewar-s-white-label-blended-scotch-1-75l-38.jpg
 reg_price: $29.99
 special_price: $25.49
