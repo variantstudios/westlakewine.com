@@ -1,10 +1,10 @@
 ---
-title: EL CORTIJILLO - tempranillo
+title: TALBOT - pinot noir
 size: 750ML
-image: /assets/images/elcortijillo-tempranillo-bottle.jpg
-reg_price: $7.99
-special_price: $5.99
-expiration_date: 2018-07-18 00:00:00 -0600
+image: /assets/images/talbott-pinot-noir.jpg
+reg_price: $21.99
+special_price: $16.99
+expiration_date: 2018-07-25 00:00:00 -0600
 show_wine: true
 ---
 
