@@ -1,10 +1,10 @@
 ---
-title: 'JOSEPH PHELPS Freestone - chardonnay, pinot noir'
-size: 750ML
-image: /assets/images/freestone-pinot-noir.png
-reg_price: $39.99 / $44.99
-special_price: $34.99
-expiration_date: 2018-07-17 00:00:00 -0600
+title: FRESHIES - bloody mary mix
+size: 1.0L
+image: /assets/images/freshies-bloddy-mary-mix.jpg
+reg_price: $7.99
+special_price: $2.49
+expiration_date: 2018-07-24 00:00:00 -0600
 show_special: true
 ---
 
