@@ -6,8 +6,8 @@ description: >-
   brews and imports.
 subtitle:
 permalink: /beer-specials/
-pdf_path: /assets/images/website-beer-ad-07-31-18.pdf
-pdf_image_path: /assets/images/website-beer-ad-07-31-18-2.jpg
+pdf_path: /assets/images/website-beer-ad-08-07-18-1.pdf
+pdf_image_path: /assets/images/website-beer-ad-08-07-18-2-1.jpg
 ---
 
 The best Beer Selection in Greeley, including an eclectic selection of micro brews. &nbsp;The latest Beer Specials on sale today at Westlake Wine & Spirits.
