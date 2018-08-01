@@ -1,10 +1,10 @@
 ---
-title: A to Z - riesling
+title: ANTINORI - peppoli
 size: 750mL
-image: /assets/images/a-to-z-riesling-2-1.png
-reg_price: $14.99
-special_price: $12.99
-expiration_date: 2018-07-31 00:00:00 -0600
+image: /assets/images/antinori-peppoli.png
+reg_price: $27.99
+special_price: $23.99
+expiration_date: 2018-08-01 00:00:00 -0600
 show_wine: true
 ---
 
