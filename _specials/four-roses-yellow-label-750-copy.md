@@ -1,5 +1,5 @@
 ---
-title: LEINENKUGEL - variety & sampler
+title: LEINENKUGEL'S - variety & sampler
 size: cans & bottles
 image: /assets/images/leinenkugel-1.jpg
 reg_price: $17.99
