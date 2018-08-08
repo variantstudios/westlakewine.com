@@ -1,10 +1,10 @@
 ---
-title: 'DREAMING TREE - cabernet sauvignon, red blend, pinot noir'
-size: 750ML
-image: /assets/images/dreaming-tree-pinot-noir-4.png
-reg_price: $12.99
-special_price: $9.49
-expiration_date: 2018-08-07 00:00:00 -0600
+title: LANDSHARK - 24pk
+size: cans
+image: /assets/images/landshark-24-pk-cans.jpeg
+reg_price: $21.99
+special_price: $14.49
+expiration_date: 2018-08-14 00:00:00 -0600
 show_special: true
 ---
 
