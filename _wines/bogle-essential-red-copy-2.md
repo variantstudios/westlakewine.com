@@ -1,6 +1,6 @@
 ---
 title: APOTHIC - rose
-size: 750mL
+size: 750ML
 image: /assets/images/apothic-rose-750-ml-2.png
 reg_price: $9.99
 special_price: $8.99
