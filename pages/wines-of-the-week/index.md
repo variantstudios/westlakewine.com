@@ -8,8 +8,8 @@ subtitle:
 permalink: /wines-of-the-week/
 ---
 
-These wines are specifically selected for our FREE weekly Wine Tasting, every Friday from 4 - 7pm. This week's features–**Wine for the Dog Days of Summer****.&nbsp;**Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help!&nbsp;
+These wines are specifically selected for our FREE weekly Wine Tasting, every Friday from 4 - 7pm. This week's features–**Cool Wine for Summer****.&nbsp;**Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help!&nbsp;
 
-Sale prices good through Tuesday, August 7, 2018
+Sale prices good through Tuesday, August 14, 2018
 
 &nbsp;
