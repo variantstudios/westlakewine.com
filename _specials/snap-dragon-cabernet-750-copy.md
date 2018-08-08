@@ -1,6 +1,6 @@
 ---
-title: LANDSHARK - 24pk
-size: cans
+title: LANDSHARK - cans
+size: 24PK
 image: /assets/images/landshark-24-pk-cans.jpeg
 reg_price: $21.99
 special_price: $14.49
