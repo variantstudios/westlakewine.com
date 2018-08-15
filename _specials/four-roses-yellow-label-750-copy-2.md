@@ -1,6 +1,6 @@
 ---
 title: 'JOSE CUERVO - gold, silver'
-size: 1L
+size: LTR
 image: /assets/images/jose-cuervo-g-s-1.png
 reg_price: $19.99
 special_price: $14.49
