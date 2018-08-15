@@ -1,5 +1,5 @@
 ---
-title: MONOPOLO WA Vodka
+title: MONOPOLOWA Vodka
 size: 750ML
 image: /assets/images/mono-2-1.jpg
 reg_price: $13.99
