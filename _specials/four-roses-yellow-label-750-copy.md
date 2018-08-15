@@ -1,5 +1,5 @@
 ---
-title: BOOKERS NOE Bourbon
+title: BOOKER'S NOE Bourbon
 size: 750ML
 image: /assets/images/bookers-noe-true-barrel-bourbon-750ml.jpg
 reg_price: $74.99
