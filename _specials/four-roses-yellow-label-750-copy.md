@@ -1,10 +1,10 @@
 ---
-title: PENDLETON Whiskey
+title: BOOKERS NOE Bourbon
 size: 750ML
-image: /assets/images/pendleton-bottle-ml-2-1.jpg
-reg_price: $23.99
-special_price: $19.49
-expiration_date: 2018-08-14 00:00:00 -0600
+image: /assets/images/bookers-noe-true-barrel-bourbon-750ml.jpg
+reg_price: $74.99
+special_price: $57.49
+expiration_date: 2018-08-21 00:00:00 -0600
 show_special: true
 ---
 
