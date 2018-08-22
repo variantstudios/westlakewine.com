@@ -1,10 +1,10 @@
 ---
-title: 'JOSE CUERVO - gold, silver'
-size: 1.0L
-image: /assets/images/jose-cuervo-g-s-1.png
-reg_price: $19.99
-special_price: $14.49
-expiration_date: 2018-08-21 00:00:00 -0600
+title: ARBOR MIST - all types
+size: 1.5L
+image: /assets/images/arbor-mist-strawberry-1-75-1.png
+reg_price: $7.99
+special_price: $5.49
+expiration_date: 2018-08-28 00:00:00 -0600
 show_special: true
 ---
 
