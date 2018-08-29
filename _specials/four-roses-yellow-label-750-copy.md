@@ -1,5 +1,5 @@
 ---
-title: TRULY SPIKED - mix pack
+title: TRULY SPIKED - berry & citrus mix packs
 size: 12pk can
 image: /assets/images/truly-spiked-mix-pack.jpeg
 reg_price: $16.99
