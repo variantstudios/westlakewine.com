@@ -1,5 +1,5 @@
 ---
-title: ALBERTA 154 - malbec
+title: ALBERTI 154 - malbec
 size: 750ML
 image: /assets/images/alberti-154-malbec.jpg
 reg_price: $12.99
