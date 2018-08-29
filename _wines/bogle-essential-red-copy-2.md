@@ -1,10 +1,10 @@
 ---
-title: COLORADO CELLARS - peach
+title: ALBERTA 154 - malbec
 size: 750ML
-image: /assets/images/colorado-cellars-peach-750-ml-1.png
-reg_price: $14.99
-special_price: $12.99
-expiration_date: 2018-08-28 00:00:00 -0600
+image: /assets/images/alberti-154-malbec.jpg
+reg_price: $12.99
+special_price: $9.99
+expiration_date: 2018-09-04 00:00:00 -0600
 show_wine: true
 ---
 
