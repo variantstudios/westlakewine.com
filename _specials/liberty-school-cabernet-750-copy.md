@@ -1,5 +1,5 @@
 ---
-title: JOSE CUERVO AUTHENTIC - pre-mix margarita - all types
+title: JOSE CUERVO AUTHENTIC pre-mix margarita - all types
 size: 1.75L
 image: /assets/images/jose-cuervo-margarita.jpg
 reg_price: $13.99
