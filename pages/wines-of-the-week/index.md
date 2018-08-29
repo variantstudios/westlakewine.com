@@ -8,7 +8,7 @@ subtitle:
 permalink: /wines-of-the-week/
 ---
 
-These wines are specifically selected for our FREE weekly Wine Tasting, every Friday from 4 - 7pm. This week's features–**&nbsp;Taste of Colorado Wine****.&nbsp;**Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help!&nbsp;
+These wines are specifically selected for our FREE weekly Wine Tasting, every Friday from 4 - 7pm. This week's features–**&nbsp;Wine for the Labor Day BBQ****.&nbsp;**Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help!&nbsp;
 
 Sale prices good through Tuesday, August 28, 2018
 
