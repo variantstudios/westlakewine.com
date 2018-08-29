@@ -1,6 +1,6 @@
 ---
 title: 'BACARDI RUM - gold, silver'
-size: LTR
+size: 1.0L
 image: /assets/images/bacardi-rum-silver.jpg
 reg_price: $14.99
 special_price: $12.49
