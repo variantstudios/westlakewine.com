@@ -1,10 +1,10 @@
 ---
-title: ENCHANTED ROCK Vodka
-size: 1.75L
-image: /assets/images/enchanted-rock-vodka-1-75.jpg
-reg_price: $23.99
-special_price: $17.49
-expiration_date: 2018-08-28 00:00:00 -0600
+title: TRULY SPIKED - mix pack
+size: 12pk can
+image: /assets/images/truly-spiked-mix-pack.jpeg
+reg_price: $16.99
+special_price: $14.49
+expiration_date: 2018-09-04 00:00:00 -0600
 show_special: true
 ---
 
