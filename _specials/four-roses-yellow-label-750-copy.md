@@ -1,10 +1,10 @@
 ---
-title: TRULY SPIKED - berry & citrus mix packs
-size: 12pk can
-image: /assets/images/truly-spiked-mix-pack.jpeg
-reg_price: $16.99
-special_price: $14.49
-expiration_date: 2018-09-04 00:00:00 -0600
+title: IMAGERY WINE'S - all types
+size: 750mL
+image: /assets/images/imagery-wine.jpg
+reg_price: $13.99
+special_price: $11.49
+expiration_date: 2018-09-11 00:00:00 -0600
 show_special: true
 ---
 
