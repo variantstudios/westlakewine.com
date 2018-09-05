@@ -1,5 +1,5 @@
 ---
-title: CARNIVOR - zinfandel
+title: CHARLES & CHARLES - rose
 size: 750ML
 image: /assets/images/carnivor-zinfandel.jpg
 reg_price: $11.99
