@@ -1,10 +1,10 @@
 ---
-title: UV VODKA
-size: 1.75L
-image: /assets/images/uv-vodka.png
-reg_price: $12.99
-special_price: $10.49
-expiration_date: 2018-09-11 00:00:00 -0600
+title: TRIVENTO AMADO SUR 'TORRONTES
+size: 750mL
+image: /assets/images/trivento-amado-sur-torrontes.jpg
+reg_price: $14.99
+special_price: $9.49
+expiration_date: 2018-09-18 00:00:00 -0600
 show_special: true
 ---
 
