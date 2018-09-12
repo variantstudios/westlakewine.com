@@ -1,5 +1,5 @@
 ---
-title: DOS EQUIS - amber/ lager
+title: 'DOS EQUIS - amber, lager'
 size: 6pk
 image: /assets/images/dos-equis-amber.jpg
 reg_price: $8.99
