@@ -1,5 +1,5 @@
 ---
-title: TRIVENTO AMADO SUR 'TORRONTES
+title: TRIVENTO AMADO SUR - torrontes
 size: 750mL
 image: /assets/images/trivento-amado-sur-torrontes.jpg
 reg_price: $14.99
