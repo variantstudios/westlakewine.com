@@ -1,5 +1,5 @@
 ---
-title: 1792 Small Batch whiskey
+title: 1792 Small Batch bourbon
 size: 750mL
 image: /assets/images/1792-small-batch.jpg
 reg_price: $29.99
