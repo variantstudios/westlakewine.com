@@ -1,10 +1,10 @@
 ---
-title: FEDERALIST - chardonnay
+title: INFINITE MONKEY - chenin blanc
 size: 750ML
-image: /assets/images/federalist-chardonnay.jpg
-reg_price: $19.99
-special_price: $15.99
-expiration_date: 2018-09-11 00:00:00 -0600
+image: /assets/images/infinite-monkey-chenin.jpg
+reg_price: $17.99
+special_price: $12.99
+expiration_date: 2018-09-18 00:00:00 -0600
 show_wine: true
 ---
 
