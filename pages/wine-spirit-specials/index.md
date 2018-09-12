@@ -7,7 +7,7 @@ description: >-
 subtitle:
 permalink: /wine-spirits-specials/
 pdf_path: /assets/images/09-18-18b.pdf
-pdf_image_path: /assets/images/09-11-18-corrected.jpg
+pdf_image_path: /assets/images/09-18-18b-1.jpg
 ---
 
 Check out our latest Wine & Spirit Specials on sale today, at Westlake Wine & Spirits.  We have the best eclectic wine selection in Greeley.
