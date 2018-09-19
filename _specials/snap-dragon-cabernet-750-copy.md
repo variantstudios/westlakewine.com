@@ -1,5 +1,5 @@
 ---
-title: 'PAITIN - barbera d''alba, nevvioco'
+title: 'PAITIN - serra barbera d''alba, starda nebbiolo'
 size: 6pk
 image: /assets/images/paitin-barbera-dalba-1.jpg
 reg_price: $14.99
