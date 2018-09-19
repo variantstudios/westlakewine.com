@@ -1,5 +1,5 @@
 ---
-title: IMAGERY ESTATE WINERY
+title: IMAGERY ESTATE WINERY sauvignon blanc
 size: 750ML
 image: /assets/images/imagery-wine-sauvignon-blanc.png
 reg_price: $13.99
