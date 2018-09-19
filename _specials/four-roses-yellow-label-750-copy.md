@@ -1,10 +1,10 @@
 ---
-title: CROWN ROYAL - texas mesquite
+title: NUE VODKA
 size: 750mL
-image: /assets/images/crown-royal-texas-mesquite.jpg
-reg_price: $24.99
-special_price: $18.99
-expiration_date: 2018-09-18 00:00:00 -0600
+image: /assets/images/nue-vodka.png
+reg_price: $9.99
+special_price: $6.99
+expiration_date: 2018-09-25 00:00:00 -0600
 show_special: true
 ---
 
