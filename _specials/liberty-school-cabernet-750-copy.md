@@ -1,10 +1,10 @@
 ---
-title: 1792 Small Batch bourbon
+title: ABERLOUR - 12 yr single malt scotch
 size: 750mL
-image: /assets/images/1792-small-batch.jpg
-reg_price: $29.99
-special_price: $24.49
-expiration_date: 2018-09-18 00:00:00 -0600
+image: /assets/images/aberlour-12yr.jpg
+reg_price: $52.99
+special_price: $44.49
+expiration_date: 2018-09-25 00:00:00 -0600
 show_special: true
 ---
 
