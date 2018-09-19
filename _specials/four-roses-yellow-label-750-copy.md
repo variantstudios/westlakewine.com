@@ -1,5 +1,5 @@
 ---
-title: NUE VODKA
+title: NUE VODKA - gluten free
 size: 750mL
 image: /assets/images/nue-vodka.png
 reg_price: $9.99
