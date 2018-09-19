@@ -1,5 +1,5 @@
 ---
-title: MIKE'S HARD - most types
+title: MIKE'S HARD - all types
 size: 6pk
 image: /assets/images/mikes-hard-lemonade.jpg
 reg_price: $8.99
