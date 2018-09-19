@@ -1,9 +1,9 @@
 ---
-title: TRIVENTO AMADO SUR - torrontes
-size: 750mL
-image: /assets/images/trivento-amado-sur-torrontes.jpg
-reg_price: $14.99
-special_price: $9.49
+title: MIKE'S HARD - most types
+size: 6pk
+image: /assets/images/mikes-hard-lemonade.jpg
+reg_price: $8.99
+special_price: $7.49
 expiration_date: 2018-09-18 00:00:00 -0600
 show_special: true
 ---
