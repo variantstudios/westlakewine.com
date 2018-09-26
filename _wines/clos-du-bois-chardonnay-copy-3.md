@@ -1,9 +1,9 @@
 ---
-title: IMAGERY ESTATE WINERY - pinot noir
+title: PRIMUS - carmenere
 size: 750ML
-image: /assets/images/imagery-wine-pinot-noir.jpg
-reg_price: $13.99
-special_price: $11.99
+image: /assets/images/primus-carmenere.png
+reg_price: $17.99
+special_price: $12.99
 expiration_date: 2018-09-18 00:00:00 -0600
 show_wine: true
 ---
