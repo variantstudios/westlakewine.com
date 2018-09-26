@@ -1,10 +1,10 @@
 ---
-title: 'PAITIN - serra barbera d''alba, starda nebbiolo'
-size: 6pk
-image: /assets/images/paitin-barbera-dalba-1.jpg
-reg_price: $14.99
-special_price: $11.49
-expiration_date: 2018-09-25 00:00:00 -0600
+title: SUTTER HOME - all types
+size: 750mL
+image: /assets/images/sutter-home.jpg
+reg_price: $5.99
+special_price: $4.49
+expiration_date: 2018-10-02 00:00:00 -0600
 show_special: true
 ---
 
