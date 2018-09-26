@@ -1,9 +1,9 @@
 ---
-title: IMAGERY ESTATE WINERY - chardonnay
+title: KIM CRAWFORD - sauvignon blanc
 size: 750ML
-image: /assets/images/imagery-wine-chardonnay.jpg
-reg_price: $13.99
-special_price: $11.99
+image: /assets/images/kim-crawford-sauvignon-blanc-2.png
+reg_price: $15.99
+special_price: $12.99
 expiration_date: 2018-09-18 00:00:00 -0600
 show_wine: true
 ---
