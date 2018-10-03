@@ -1,10 +1,10 @@
 ---
-title: 'HORSE AND DRAGON - hop sweeper, sad panda, maracuya passion'
-size: 22oz
-image: /assets/images/horse--dragon-brewing-co-sad-panda.jpg
-reg_price: $11.99
-special_price: $9.49
-expiration_date: 2018-10-02 00:00:00 -0600
+title: BELVEDERE VODKA - excludes flavors
+size: 750mL
+image: /assets/images/belvedere-vodka.jpg
+reg_price: $27.99
+special_price: $23.49
+expiration_date: 2018-10-09 00:00:00 -0600
 show_special: true
 ---
 
