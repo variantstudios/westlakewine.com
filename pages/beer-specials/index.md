@@ -6,7 +6,7 @@ description: >-
   brews and imports.
 subtitle:
 permalink: /beer-specials/
-pdf_path: /assets/images/beer-ad-website-10-02-18.pdf
+pdf_path: /assets/images/beer-ad-website-10-09-18.pdf
 pdf_image_path: /assets/images/beer-ad-website-10-02-18-1.jpg
 ---
 
