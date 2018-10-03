@@ -1,10 +1,10 @@
 ---
-title: KIM CRAWFORD - sauvignon blanc
+title: FRONTERA - chardonnay
 size: 750ML
-image: /assets/images/kim-crawford-sauvignon-blanc-2.png
-reg_price: $15.99
-special_price: $12.99
-expiration_date: 2018-10-02 00:00:00 -0600
+image: /assets/images/frontera-chardonnay.jpg
+reg_price: $5.99
+special_price: $3.99
+expiration_date: 2018-10-09 00:00:00 -0600
 show_wine: true
 ---
 
