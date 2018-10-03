@@ -1,10 +1,10 @@
 ---
-title: SUTTER HOME - all types
+title: GLENMORANGIE - 10 yr single malt
 size: 750mL
-image: /assets/images/sutter-home.jpg
-reg_price: $5.99
-special_price: $4.49
-expiration_date: 2018-10-02 00:00:00 -0600
+image: /assets/images/glenmorangie-10-yr-single-malt.jpg
+reg_price: $34.99
+special_price: $27.49
+expiration_date: 2018-10-09 00:00:00 -0600
 show_special: true
 ---
 
