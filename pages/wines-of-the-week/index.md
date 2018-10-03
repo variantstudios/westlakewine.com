@@ -8,8 +8,8 @@ subtitle:
 permalink: /wines-of-the-week/
 ---
 
-These wines are specifically selected for our FREE weekly Wine Tasting, every Friday from 4 - 7pm. This week's features –**&nbsp;Wine of the New World****.&nbsp;**Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help!&nbsp;
+These wines are specifically selected for our FREE weekly Wine Tasting, every Friday from 4 - 7pm. This week's features –**&nbsp;Affordable Wine for the Home Coming****.&nbsp;**Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help!&nbsp;
 
-Sale prices good through Tuesday, October 2, 2018
+Sale prices good through Tuesday, October 9, 2018
 
 &nbsp;
