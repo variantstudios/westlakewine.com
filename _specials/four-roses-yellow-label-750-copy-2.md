@@ -1,5 +1,5 @@
 ---
-title: BREAD & BUTTER - cabrnet sauvingon
+title: 'BREAD & BUTTER - cabernet sauvingon, chardonnay, pinot noir'
 size: 750 mL
 image: /assets/images/bread--butter-cabernet-sauvingon.png
 reg_price: $13.99
