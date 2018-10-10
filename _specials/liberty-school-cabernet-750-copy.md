@@ -1,5 +1,5 @@
 ---
-title: BUGGALO TRACE - bourbon
+title: BUFFALO TRACE Bourbon
 size: 750mL
 image: /assets/images/buffalo-trace-bourbon.jpg
 reg_price: $24.99
