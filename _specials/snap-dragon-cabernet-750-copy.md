@@ -1,9 +1,9 @@
 ---
-title: WALKING DEAD - cabernet sauvignon
+title: MARTINI & ROSSI - asti spumante
 size: 750mL
-image: /assets/images/walking-dead-cabernet-sauvignon.jpg
-reg_price: $14.99
-special_price: $12.99
+image: /assets/images/martini--rossi-asti-spumante.png
+reg_price: $12.99
+special_price: $9.49
 expiration_date: 2018-10-23 00:00:00 -0600
 show_special: true
 ---
