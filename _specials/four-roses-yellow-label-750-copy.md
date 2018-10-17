@@ -1,5 +1,5 @@
 ---
-title: SERPENT'S BITE
+title: SERPENT'S BITE - apple cider flavored whisky
 size: 750mL
 image: /assets/images/serpents-bite-apple-cider-whiskey.jpg
 reg_price: $11.99
