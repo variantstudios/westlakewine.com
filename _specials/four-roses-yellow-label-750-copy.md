@@ -1,10 +1,10 @@
 ---
-title: 'INFUSE VODKA - lemon, peach'
+title: FAT BASTARD - bloody red
 size: 750mL
-image: /assets/images/infuse-vodka-lemon.jpg
-reg_price: $21.99
-special_price: $18.49
-expiration_date: 2018-10-16 00:00:00 -0600
+image: /assets/images/fat-bastard-bloody-red.jpg
+reg_price: $9.99
+special_price: $7.49
+expiration_date: 2018-10-23 00:00:00 -0600
 show_special: true
 ---
 
