@@ -1,10 +1,10 @@
 ---
-title: MARTINI & ROSSI - asti spumante
+title: PRESIDENTE BRANDY
 size: 750mL
-image: /assets/images/martini--rossi-asti-spumante-1.png
-reg_price: $12.99
-special_price: $9.49
-expiration_date: 2018-10-30 00:00:00 -0600
+image: /assets/images/presidente-brandy.jpg
+reg_price: $14.99
+special_price: $11.49
+expiration_date: 2018-11-06 00:00:00 -0700
 show_special: true
 ---
 
