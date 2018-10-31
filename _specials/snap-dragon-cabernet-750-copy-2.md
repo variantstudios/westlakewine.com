@@ -1,5 +1,5 @@
 ---
-title: PRESIDENTE BRANDY
+title: PRESIDENTE Brandy
 size: 750mL
 image: /assets/images/presidente-brandy.jpg
 reg_price: $14.99
