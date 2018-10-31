@@ -6,7 +6,7 @@ description: >-
   from, both foreign and domestic.
 subtitle:
 permalink: /wine-spirits-specials/
-pdf_path: /assets/images/aimees-beer-template-1-16-1.pdf
+pdf_path: /assets/images/11-6-18-1.pdf
 pdf_image_path: /assets/images/11-6-18.jpg
 ---
 
