@@ -1,7 +1,7 @@
 ---
 title: 'OLIVER WINERY - apple pie, cherry cobbler, cherry moscato'
 size: 750mL
-image: /assets/images/avalon-cabernet-sauvignon.png
+image: /assets/images/olivery-winery-apple-pie.jpg
 reg_price: $9.99
 special_price: $7.49
 expiration_date: 2018-11-06 00:00:00 -0700
