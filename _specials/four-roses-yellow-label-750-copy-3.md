@@ -1,10 +1,10 @@
 ---
-title: UV VODKA
-size: 1.75L
-image: /assets/images/uv-vodka-2.png
-reg_price: $12.99
-special_price: $10.49
-expiration_date: 2018-10-30 00:00:00 -0600
+title: 'OLIVER WINERY - apple pie, cherry cobbler, cherry moscato'
+size: 750mL
+image: /assets/images/avalon-cabernet-sauvignon.png
+reg_price: $9.99
+special_price: $7.49
+expiration_date: 2018-11-06 00:00:00 -0700
 show_special: true
 ---
 
