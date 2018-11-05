@@ -1,5 +1,5 @@
 ---
-title: HOGUE - reislong
+title: HOGUE - reisling
 size: 750mL
 image: /assets/images/hogue-reisling.png
 reg_price: $8.99
