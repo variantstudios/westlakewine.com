@@ -1,5 +1,5 @@
 ---
-title: 'FULTON''S HARVEST LIQUEUR - pumpkin, apple'
+title: FULTON'S HARVEST LIQUEUR - pumpkin
 size: 750mL
 image: /assets/images/fultons-harvest-liquer-pumpkin.jpg
 reg_price: $10.99
