@@ -1,10 +1,10 @@
 ---
-title: RELAX - riesling
+title: NOBLE VINES - chardonnay
 size: 750ML
-image: /assets/images/relax-riesling.jpeg
-reg_price: $8.99
-special_price: $7.99
-expiration_date: 2018-11-06 00:00:00 -0700
+image: /assets/images/noble-vines-chardonnay.png
+reg_price: $11.99
+special_price: $9.99
+expiration_date: 2018-11-13 00:00:00 -0700
 show_wine: true
 ---
 
