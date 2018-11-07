@@ -1,10 +1,10 @@
 ---
-title: JAM CELLARS - butter chardonnay
+title: CHARLES & CHARLES - cabernet and syrah
 size: 750ML
-image: /assets/images/jam-cellars-butter-chardonnay.png
-reg_price: $14.99
-special_price: $12.99
-expiration_date: 2018-11-06 00:00:00 -0700
+image: /assets/images/charles-and-charles-cabernet-and-syrah.jpg
+reg_price: $11.99
+special_price: $9.99
+expiration_date: 2018-11-13 00:00:00 -0700
 show_wine: true
 ---
 
