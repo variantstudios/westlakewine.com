@@ -1,5 +1,5 @@
 ---
-title: CHARLES & CHARLES - cabernet and syrah
+title: 'CHARLES & CHARLES - cabernet sauvignon, syrah'
 size: 750ML
 image: /assets/images/charles-and-charles-cabernet-and-syrah.jpg
 reg_price: $11.99
