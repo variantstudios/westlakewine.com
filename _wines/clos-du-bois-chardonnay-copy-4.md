@@ -1,10 +1,10 @@
 ---
-title: NOBLE VINES - chardonnay
+title: J. VINEYARDS - pinot gris
 size: 750ML
-image: /assets/images/noble-vines-chardonnay-1.png
-reg_price: $11.99
-special_price: $9.99
-expiration_date: 2018-11-13 00:00:00 -0700
+image: /assets/images/j-vineyards-pinot-gris-1.png
+reg_price: $14.99
+special_price: $12.99
+expiration_date: 2018-11-20 00:00:00 -0700
 show_wine: true
 ---
 
