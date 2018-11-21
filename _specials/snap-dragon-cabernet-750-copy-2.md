@@ -1,6 +1,6 @@
 ---
 title: Enchanted Rock Vodka
-size: 750mL
+size: 1.75L
 image: /assets/images/enchanted-rock-vodka-1.png
 reg_price: $23.99
 special_price: $17.49
