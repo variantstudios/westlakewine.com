@@ -1,5 +1,5 @@
 ---
-title: FREE CLIMBER - riesling
+title: FREECLIMBER - riesling
 size: 750ML
 image: /assets/images/freeclimber-riesling.jpg
 reg_price: $14.99
