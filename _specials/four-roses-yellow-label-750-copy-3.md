@@ -1,6 +1,6 @@
 ---
-title: 'MICHELOB ULTRA - bottle, can 24pk'
-size: 750mL
+title: 'MICHELOB ULTRA - bottle, can'
+size: 24pk
 image: /assets/images/michelob-ultra.jpg
 reg_price: $26.99
 special_price: $19.99
