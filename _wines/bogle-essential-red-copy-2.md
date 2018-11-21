@@ -1,5 +1,5 @@
 ---
-title: GEORGE DEBOEUF - beaujolias nouveau
+title: GEORGE DEBOEUF - beaujolais nouveau
 size: 750ML
 image: /assets/images/george-deboeuf-beaujolias-nouveau.jpg
 reg_price: $11.99
