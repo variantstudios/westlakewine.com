@@ -1,10 +1,10 @@
 ---
-title: SIMI - sauvignon blanc
+title: BARTENURA - moscato
 size: 750ML
-image: /assets/images/simi-sauvingnon-blanc.png
-reg_price: $12.99
-special_price: $9.99
-expiration_date: 2018-11-20 00:00:00 -0700
+image: /assets/images/bartenura-moscato.png
+reg_price: $17.99
+special_price: $14.99
+expiration_date: 2018-12-04 00:00:00 -0700
 show_wine: true
 ---
 
