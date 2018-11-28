@@ -1,10 +1,10 @@
 ---
-title: FREECLIMBER - riesling
+title: KING DAVID - sweet red
 size: 750ML
-image: /assets/images/freeclimber-riesling.jpg
-reg_price: $14.99
-special_price: $12.99
-expiration_date: 2018-11-20 00:00:00 -0700
+image: /assets/images/king-david-sweet-red.jpg
+reg_price: $9.99
+special_price: $6.99
+expiration_date: 2018-12-04 00:00:00 -0700
 show_wine: true
 ---
 
