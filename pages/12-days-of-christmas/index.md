@@ -1,21 +1,12 @@
 ---
 layout: pp
-title: New Belgium Bike Giveaway 2018
-description: >-
-  Westlake Wine & Spirits, along with New Belgium, are giving away one bike to
-  one lucky winner!
+title: 12 days of Christmas Giveaways
+description:
 subtitle:
 permalink: /12-days-of-christmas/
-image_path: /assets/images/slider/new-belgium-bike-giveaway-graphic-2018.jpg
+image_path: /assets/images/slider/12days-of-christmas.jpg
 ---
 
-Westlake Wine & Spirits, along with New Belgium, are giving away one bike to one lucky winner!
+December 12 - 24, 2018<br>Must be 21 to enter<br>Prize will be available for pickup at Westlake Wine & Spirits<br>2024 35th Ave,&nbsp;<br>Greeley, CO 80634
 
-Register at Westlake Wine & Spirits 2024 35th Ave Greeley, CO
-
-**Terms & Conditions**
-
-* Must be 21+ to enter. A valid email or phone number is required.
-* Must be able to pick up prize at store location in Greeley, CO.
-
-Visit [newbelgium.com](https://www.newbelgium.com/rules/rules/){: target="_blank"} for rules & details.
+Click here for more [details](https://www.facebook.com/WestlakeWine/){: target="_blank"}.
