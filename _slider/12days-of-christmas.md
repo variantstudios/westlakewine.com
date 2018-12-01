@@ -1,10 +1,9 @@
 ---
-title: Wine Tuesday
-image: /assets/images/winefinder_key-image-1 (2).jpg
+title: 12 Days of Christmas
+image: /assets/images/slider/12days-of-christmas.jpg
 link_path: /wine-spirits-specials/
-link_label: '15% off any wine not already on sale'
-show_slide: true
-weight: 2
+link_label: Check out our facebook page for today's giveaway
+show_slide: false
+weight: 0
 ---
-
 
