@@ -1,5 +1,5 @@
 ---
-title: COPPOLA - merlot
+title: COPPOLA - diamond merlot
 size: 750ML
 image: /assets/images/coppola-merlot.png
 reg_price: $17.99
