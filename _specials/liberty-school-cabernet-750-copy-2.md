@@ -1,5 +1,5 @@
 ---
-title: EMMET'S IRISH CREAM
+title: EMMETS IRISH CREAM
 size: 1.75L
 image: /assets/images/emmetts-irish-cream.jpg
 reg_price: $23.99
