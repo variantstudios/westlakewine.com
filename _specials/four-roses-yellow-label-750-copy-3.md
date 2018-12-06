@@ -1,5 +1,5 @@
 ---
-title: CABIT - pinot grigio
+title: CAVIT - pinot grigio
 size: 1.5L
 image: /assets/images/cavit-pinot-grigio-1-5.jpg
 reg_price: $13.99
