@@ -1,5 +1,5 @@
 ---
-title: CAMPO VIEJO - cava
+title: CAMPO VIEJO - Cava brut reserva
 size: 750mL
 image: /assets/images/campo-viejo-cava.png
 reg_price: $8.99
