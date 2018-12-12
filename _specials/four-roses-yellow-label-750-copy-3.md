@@ -1,10 +1,10 @@
 ---
-title: CAVIT - pinot grigio
-size: 1.5L
-image: /assets/images/cavit-pinot-grigio-1-5.jpg
-reg_price: $13.99
-special_price: $9.49
-expiration_date: 2018-12-11 00:00:00 -0700
+title: KRAKEN - black spiced rum
+size: 750mL
+image: /assets/images/kraken-2-3.jpg
+reg_price: $17.99
+special_price: $13.49
+expiration_date: 2018-12-18 00:00:00 -0700
 show_special: true
 ---
 
