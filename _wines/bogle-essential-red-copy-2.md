@@ -1,5 +1,5 @@
 ---
-title: CHATEAU LES VIEUS MOULINS - bordeaux
+title: CHATEAU LES VIEUX MOULINS - bordeaux
 size: 750ML
 image: /assets/images/chateau-vieux-moulin-2.jpg
 reg_price: $17.99
