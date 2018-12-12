@@ -1,9 +1,9 @@
 ---
-title: CAVIT - pinot grigio
+title: CHATEAU STE MICHELLE - chardonnay
 size: 750ML
-image: /assets/images/cavit-pinot-grigio-1.png
-reg_price: $8.99
-special_price: $6.99
+image: /assets/images/chateau-ste-michelle-chard.png
+reg_price: $11.99
+special_price: $9.99
 expiration_date: 2018-12-11 00:00:00 -0700
 show_wine: true
 ---
