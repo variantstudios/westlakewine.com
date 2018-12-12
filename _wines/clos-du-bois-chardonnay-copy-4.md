@@ -1,5 +1,5 @@
 ---
-title: KENDALL JACKSON - vintner's reserve rielsing
+title: KENDALL JACKSON - vintner's reserve riesling
 size: 750ML
 image: /assets/images/kendall-jackson-vintners-reserve-riesling-2.jpg
 reg_price: $11.99
