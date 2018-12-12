@@ -1,5 +1,5 @@
 ---
-title: COLORADO NATIVE BREWERY - winterfest
+title: COLORADO NATIVE Brewery - winterfest
 size: 6pk
 image: /assets/images/colorado-native-brewery-winter.jpg
 reg_price: $9.99
