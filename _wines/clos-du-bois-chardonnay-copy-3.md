@@ -1,5 +1,5 @@
 ---
-title: JOEL GOTT - zinfandel
+title: RODNEY STRONG - cabernet sauvignon
 size: 750ML
 image: /assets/images/joel-gott-zin.png
 reg_price: $16.99
