@@ -1,6 +1,6 @@
 ---
 title: WEIHNACHTS - GLUHWEIN
-size: LTR
+size: 1.0L
 image: /assets/images/weihnachts-gluhwein-ltr.jpg
 reg_price: $6.99
 special_price: $5.99
