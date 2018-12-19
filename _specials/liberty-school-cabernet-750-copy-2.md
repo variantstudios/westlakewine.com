@@ -1,10 +1,10 @@
 ---
-title: COLORADO NATIVE Brewery - winterfest
-size: 6pk
-image: /assets/images/colorado-native-brewery-winter.jpg
-reg_price: $9.99
-special_price: $8.49
-expiration_date: 2018-12-18 00:00:00 -0700
+title: BUFFALO TRACE
+size: 1.75L
+image: /assets/images/buffalo-2.jpg
+reg_price: $44.99
+special_price: $39.49
+expiration_date: 2018-12-25 00:00:00 -0700
 show_special: true
 ---
 
