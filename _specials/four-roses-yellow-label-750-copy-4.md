@@ -1,10 +1,10 @@
 ---
-title: OBAN 18 yr Single Malt Scotch
+title: ROSA REGALE - sparkling red
 size: 750mL
-image: /assets/images/oban-18-year-scotch-whiskey-75.jpg
-reg_price: $139.99
-special_price: $99.49
-expiration_date: 2018-12-25 00:00:00 -0700
+image: /assets/images/rosa-regale-sparkling-red.png
+reg_price: $16.99
+special_price: $14.49
+expiration_date: 2019-01-01 00:00:00 -0700
 show_special: true
 ---
 
