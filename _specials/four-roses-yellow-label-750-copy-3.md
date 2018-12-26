@@ -1,10 +1,10 @@
 ---
-title: ETUDE - pinot noir
+title: SANTA MARGHERITA - prosecco
 size: 750mL
-image: /assets/images/etude-pinot-noir.png
-reg_price: $39.99
-special_price: $29.49
-expiration_date: 2018-12-25 00:00:00 -0700
+image: /assets/images/santa-margherita-prosecco-1.png
+reg_price: $19.99
+special_price: $16.49
+expiration_date: 2019-01-01 00:00:00 -0700
 show_special: true
 ---
 
