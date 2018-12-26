@@ -1,10 +1,10 @@
 ---
-title: MARK WEST - pinot noir
+title: FIREBALL
 size: 750mL
-image: /assets/images/mark-west-pinot-noir-1.png
-reg_price: $9.99
-special_price: $6.49
-expiration_date: 2018-12-25 00:00:00 -0700
+image: /assets/images/fireball-cinnamon-whiskey-750--2-2.jpg
+reg_price: $12.99
+special_price: $11.49
+expiration_date: 2019-01-01 00:00:00 -0700
 show_special: true
 ---
 
