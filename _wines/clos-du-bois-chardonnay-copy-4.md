@@ -1,5 +1,5 @@
 ---
-title: MARKWEST - pinot noir
+title: MARK WEST - pinot noir
 size: 750mL
 image: /assets/images/mark-west-pinot-noir-2.png
 reg_price: $9.99
