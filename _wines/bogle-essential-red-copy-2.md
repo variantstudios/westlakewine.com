@@ -1,10 +1,10 @@
 ---
-title: KORBEL - brut rose
+title: NEW AGE - white
 size: 750ML
-image: /assets/images/korbel-brut-rose-750-ml-1-1.png
-reg_price: $14.99
-special_price: $11.99
-expiration_date: 2019-01-01 00:00:00 -0700
+image: /assets/images/new-age-white.png
+reg_price: $11.99
+special_price: $9.99
+expiration_date: 2019-01-08 00:00:00 -0700
 show_wine: true
 ---
 
