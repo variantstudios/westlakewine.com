@@ -1,5 +1,5 @@
 ---
-title: 'CA,[P VOEKP - tempranillo & garnacha'
+title: CAMPO VIEJO- tempranillo & garnacha
 size: 750mL
 image: /assets/images/campo-viejo-tempranillo.png
 reg_price: $10.99
