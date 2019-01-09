@@ -8,7 +8,7 @@ subtitle:
 permalink: /wines-of-the-week/
 ---
 
-These wines are specifically selected for our FREE weekly Wine Tasting, every Friday from 4 - 7pm. This week's features – **New Year Resolution****Wine**.**&nbsp;**Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help!&nbsp;
+These wines are specifically selected for our FREE weekly Wine Tasting, every Friday from 4 - 7pm. This week's features – **New Year Resolution&nbsp;****Wine I**.**&nbsp;**Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help!&nbsp;
 
 Sale prices good through Tuesday, January 15, 2019.
 
