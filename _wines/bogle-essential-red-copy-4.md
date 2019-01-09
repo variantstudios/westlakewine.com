@@ -1,10 +1,10 @@
 ---
-title: MATUA - sauvignon blanc
+title: KUNG FU GIRL - riesling
 size: 750ML
-image: /assets/images/matua-2-1.jpg
-reg_price: $10.99
-special_price: $8.99
-expiration_date: 2019-01-08 00:00:00 -0700
+image: /assets/images/kung-fu-reisling.jpg
+reg_price: $9.99
+special_price: $7.99
+expiration_date: 2019-01-15 00:00:00 -0700
 show_wine: true
 ---
 
