@@ -1,10 +1,10 @@
 ---
-title: 'JAM CELLARS - butter chardonnay, cabernet sauvignon'
+title: CROWN ROYAL - maple
 size: 750mL
-image: /assets/images/jam-cellars-butter-chardonnay-1.png
-reg_price: $14.99
-special_price: $11.49
-expiration_date: 2019-01-08 00:00:00 -0700
+image: /assets/images/crown-royal-maple-750.jpg
+reg_price: $24.99
+special_price: $14.99
+expiration_date: 2019-01-15 00:00:00 -0700
 show_special: true
 ---
 
