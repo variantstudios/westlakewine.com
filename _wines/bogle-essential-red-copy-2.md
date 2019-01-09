@@ -1,10 +1,10 @@
 ---
-title: NEW AGE - white
+title: FITVINE - chardonnay
 size: 750ML
-image: /assets/images/new-age-white.png
-reg_price: $11.99
-special_price: $9.99
-expiration_date: 2019-01-08 00:00:00 -0700
+image: /assets/images/fitvine-chardonnay.jpg
+reg_price: $17.99
+special_price: $13.99
+expiration_date: 2019-01-15 00:00:00 -0700
 show_wine: true
 ---
 
