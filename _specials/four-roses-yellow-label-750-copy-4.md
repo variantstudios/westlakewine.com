@@ -1,6 +1,6 @@
 ---
 title: ABSOLUT Vodka
-size: 750mL
+size: 750ML
 image: /assets/images/absolutvodka-750-1.jpg
 reg_price: $19.99
 special_price: $15.49
