@@ -1,6 +1,6 @@
 ---
 title: 'BV COASTAL ESTATES - cabernet sauvignon, chardonnay, merlot'
-size: 750mL
+size: 750ML
 image: /assets/images/bv-coastal-estates-cab-1.png
 reg_price: $8.99
 special_price: $5.99
