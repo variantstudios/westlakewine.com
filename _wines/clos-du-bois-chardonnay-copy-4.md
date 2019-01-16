@@ -1,6 +1,6 @@
 ---
 title: ZEN OF ZIN - zinfandel
-size: 750mL
+size: 750ML
 image: /assets/images/zen-of-zin-zinfandel.png
 reg_price: $9.99
 special_price: $7.99
