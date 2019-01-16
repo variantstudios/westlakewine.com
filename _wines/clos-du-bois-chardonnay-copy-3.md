@@ -1,10 +1,10 @@
 ---
-title: LOVE NOIR - pinot noir
+title: THRIVE - pinot grigio
 size: 750ML
-image: /assets/images/love-noir-pinot-noir.jpg
-reg_price: $11.99
-special_price: $9.99
-expiration_date: 2019-01-15 00:00:00 -0700
+image: /assets/images/thrive-pinot-grigio.png
+reg_price: $12.99
+special_price: $10.99
+expiration_date: 2019-01-22 00:00:00 -0700
 show_wine: true
 ---
 
