@@ -1,10 +1,10 @@
 ---
-title: SKINNY GIRL - red
+title: ZEN OF ZIN - zinfandel
 size: 750mL
-image: /assets/images/skinny-girl-red-1.png
-reg_price: $10.99
-special_price: $8.99
-expiration_date: 2019-01-08 00:00:00 -0700
+image: /assets/images/zen-of-zin-zinfandel.png
+reg_price: $9.99
+special_price: $7.99
+expiration_date: 2019-01-22 00:00:00 -0700
 show_wine: true
 ---
 
