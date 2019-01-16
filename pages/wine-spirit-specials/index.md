@@ -6,8 +6,8 @@ description: >-
   from, both foreign and domestic.
 subtitle:
 permalink: /wine-spirits-specials/
-pdf_path: /assets/images/1-15-19-2ws.pdf
-pdf_image_path: /assets/images/1-15-19-2ws.jpg
+pdf_path: /assets/images/1-22-19.pdf
+pdf_image_path: /assets/images/1-22-19.jpg
 ---
 
 Check out our latest Wine & Spirit Specials on sale today, at Westlake Wine & Spirits.  We have the best eclectic wine selection in Greeley.
