@@ -1,10 +1,10 @@
 ---
-title: CASTLE ROCK - California pinot noir
+title: ABSOLUT Vodka
 size: 750mL
-image: /assets/images/castle-rock-2012-pinot-noir-california-cuvee-2.jpg
-reg_price: $9.99
-special_price: $7.49
-expiration_date: 2019-01-15 00:00:00 -0700
+image: /assets/images/absolutvodka-750-1.jpg
+reg_price: $19.99
+special_price: $15.49
+expiration_date: 2019-01-22 00:00:00 -0700
 show_special: true
 ---
 
