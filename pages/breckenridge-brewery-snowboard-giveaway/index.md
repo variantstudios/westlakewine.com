@@ -1,17 +1,15 @@
 ---
 layout: page
-title: Finlandia Jeremy Jones Snowboard Giveaway
-description: Finlandia Snow Board giveaway.
-subtitle: 'Enter to Win!'
-permalink: /finlandia-snow-board-giveaway/
+title: Breckenridge Brewery Snowboard Giveaway
+description: "Enter for a chance to win a snowboard\_at Westlake Wine & Spirits, courtesy Breckenridge Brewery."
+subtitle: Enter to Win!
+permalink: /breckenridge-brewery-snowboard-giveaway/
 ---
 
+Enter for a chance to win a snowboard at Westlake Wine & Spirits, courtesy Breckenridge Brewery.
 
-Promo Details:
+2024 35th Ave, Greeley, CO
 
-* Promo Runs through March 24th
-* Register to win in-store only
-* Must be 21 to enter
-* No purchase necessary
+Entries available January 17 through February 14, 2018
 
-![Finlandia Snow Board giveaway](/assets/images/slider/pow.jpg)
+\*Must be 21 to enter. No purchase necessary. Winner announced February 15, 2018. Must be able to claim prize at 2024 35th Ave, Greeley, CO,
