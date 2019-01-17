@@ -1,9 +1,9 @@
 ---
-title: 12 Days of Christmas
-image: /assets/images/slider/12days-of-christmas.jpg
-link_path: /12-days-of-christmas/
-link_label: Check out our facebook page for today's giveaway
-show_slide: false
+title: Breckenridge Brewery
+image: /assets/images/slider/breckenridge-brewery--snowboard-giveaway.jpg
+link_path:
+link_label: WE ARE GIVING AWAY A SNOWBOARD!!
+show_slide: true
 weight: 0
 ---
 
