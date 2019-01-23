@@ -1,5 +1,5 @@
 ---
-title: ADE;AODES Cream Liqueur - all types
+title: ADELAIDE'S Cream Liqueur - all types
 size: 750ML
 image: /assets/images/adelaides-1.jpg
 reg_price: $19.99
