@@ -1,10 +1,10 @@
 ---
-title: 'BV COASTAL ESTATES - cabernet sauvignon, chardonnay, merlot'
+title: ADE;AODES Cream Liqueur - all types
 size: 750ML
-image: /assets/images/bv-coastal-estates-cab-1.png
-reg_price: $8.99
-special_price: $5.99
-expiration_date: 2019-01-22 00:00:00 -0700
+image: /assets/images/adelaides-1.jpg
+reg_price: $19.99
+special_price: $16.49
+expiration_date: 2019-01-29 00:00:00 -0700
 show_special: true
 ---
 
