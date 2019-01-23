@@ -1,10 +1,10 @@
 ---
-title: 'AVERY BREWING - tweak, sandy claws'
-size: 12OZ
-image: /assets/images/avery-brewing-tweak-12oz-bomber.png
-reg_price: $12.99
-special_price: $10.49
-expiration_date: 2019-01-22 00:00:00 -0700
+title: MARK WEST - pinot noir
+size: 750ML
+image: /assets/images/mark-west-pinot-noir-3.png
+reg_price: $9.99
+special_price: $6.49
+expiration_date: 2019-01-29 00:00:00 -0700
 show_special: true
 ---
 
