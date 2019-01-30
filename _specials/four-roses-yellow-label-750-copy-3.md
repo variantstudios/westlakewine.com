@@ -1,5 +1,5 @@
 ---
-title: CLENMORNGIE - test pack
+title: CLENMORNGIE - tester pack
 size: 4PK
 image: /assets/images/glenmorangie-the-pioneering-co-tester-pack.jpg
 reg_price: $29.99
