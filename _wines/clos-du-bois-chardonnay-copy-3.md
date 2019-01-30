@@ -1,10 +1,10 @@
 ---
-title: DARK HORSE - merlot
+title: SNOQUALMIE - riesling
 size: 750ML
-image: /assets/images/dark-horse-merlot.png
-reg_price: $7.99
+image: /assets/images/snoqualmie-riesling-1.png
+reg_price: '87.99'
 special_price: $6.99
-expiration_date: 2019-01-29 00:00:00 -0700
+expiration_date: 2019-02-05 00:00:00 -0700
 show_wine: true
 ---
 
