@@ -1,10 +1,10 @@
 ---
-title: DISENO - malbec
-size: 750ML
-image: /assets/images/diseno-malbec-2-1.png
-reg_price: $9.99
-special_price: $7.49
-expiration_date: 2019-01-29 00:00:00 -0700
+title: CLENMORNGIE - test pack
+size: 4PK
+image: /assets/images/glenmorangie-the-pioneering-co-tester-pack.jpg
+reg_price: $29.99
+special_price: $24.49
+expiration_date: 2019-02-05 00:00:00 -0700
 show_special: true
 ---
 
