@@ -1,10 +1,10 @@
 ---
-title: BALVENIE Doublewood - single malt scotch
+title: 'JAMESON Caskmates - ipa, stout'
 size: 750ML
-image: /assets/images/balvenie-scotch-doublewood-1.jpg
-reg_price: $59.99
-special_price: $42.49
-expiration_date: 2019-01-29 00:00:00 -0700
+image: /assets/images/jameson-caskmates-ipa-2.jpg
+reg_price: $29.99
+special_price: $23.49
+expiration_date: 2019-02-05 00:00:00 -0700
 show_special: true
 ---
 
