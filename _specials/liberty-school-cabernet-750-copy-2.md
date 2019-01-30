@@ -1,10 +1,10 @@
 ---
-title: ADELAIDE'S Cream Liqueur - all types
+title: OMMEGANG - three philosophers
 size: 750ML
-image: /assets/images/adelaides-coconut.png
-reg_price: $19.99
-special_price: $16.49
-expiration_date: 2019-01-29 00:00:00 -0700
+image: /assets/images/ommegang-three-philosophers-750.png
+reg_price: $11.99
+special_price: $10.49
+expiration_date: 2019-02-05 00:00:00 -0700
 show_special: true
 ---
 
