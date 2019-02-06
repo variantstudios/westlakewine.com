@@ -1,5 +1,5 @@
 ---
-title: LO-VE - garancha
+title: LO-VE - garnacha
 size: 750ML
 image: /assets/images/lo-ve-garnacha.png
 reg_price: $15.99
