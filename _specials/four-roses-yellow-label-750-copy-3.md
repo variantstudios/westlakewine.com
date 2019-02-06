@@ -1,10 +1,10 @@
 ---
-title: CLENMORNGIE - tester pack
-size: 4PK
-image: /assets/images/glenmorangie-the-pioneering-co-tester-pack.jpg
-reg_price: $29.99
-special_price: $24.49
-expiration_date: 2019-02-05 00:00:00 -0700
+title: 'LOLEA Sangria - red, white'
+size: 750ML
+image: /assets/images/lolea-sangria.jpg
+reg_price: $15.99
+special_price: $13.49
+expiration_date: 2019-02-12 00:00:00 -0700
 show_special: true
 ---
 
