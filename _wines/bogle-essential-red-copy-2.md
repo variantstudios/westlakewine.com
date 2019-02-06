@@ -1,5 +1,5 @@
 ---
-title: ETIKE - heart red blend
+title: ETIKE - heart red
 size: 750ML
 image: /assets/images/etike-heart---red.jpg
 reg_price: $15.99
