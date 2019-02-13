@@ -1,10 +1,10 @@
 ---
-title: 'LOLEA Sangria - red, white'
+title: '99 SCHNAPPS - apples, bananas, black cherries, blackberries'
 size: 750ML
-image: /assets/images/lolea-sangria.jpg
-reg_price: $15.99
-special_price: $13.49
-expiration_date: 2019-02-12 00:00:00 -0700
+image: /assets/images/99-schnapps-banana-liqueur.jpg
+reg_price: $14.99
+special_price: $12.49
+expiration_date: 2019-02-19 00:00:00 -0700
 show_special: true
 ---
 
