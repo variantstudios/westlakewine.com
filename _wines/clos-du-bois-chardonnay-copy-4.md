@@ -1,5 +1,5 @@
 ---
-title: KENWOOD Sonoma - savignon blanc
+title: KENWOOD Sonoma - sauvignon blanc
 size: 750ML
 image: /assets/images/kenwood-sonoma-sauvignon-blanc.png
 reg_price: $12.99
