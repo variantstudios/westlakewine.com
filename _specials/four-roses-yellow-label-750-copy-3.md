@@ -1,6 +1,6 @@
 ---
 title: '99 SCHNAPPS - apples, bananas, black cherries, blackberries'
-size: 750ML
+size:
 image: /assets/images/99-schnapps-banana-liqueur.jpg
 reg_price: $14.99
 special_price: $12.49
