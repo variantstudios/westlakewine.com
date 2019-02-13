@@ -1,5 +1,5 @@
 ---
-title: NEW HOLLAND - dragon's milk orange
+title: NEW HOLLAND Dragon's Milk Reserve - orange chocolate
 size: 12oz
 image: /assets/images/new-holland-dragons-milk-orange.png
 reg_price: $4.99
