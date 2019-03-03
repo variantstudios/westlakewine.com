@@ -1,7 +1,0 @@
-.logo-section {
-text-align: center;
-  @include breakpoint($tablet, $no-query: '.no-mq') {
-    float: none;
-    width: auto;
-  }
-}

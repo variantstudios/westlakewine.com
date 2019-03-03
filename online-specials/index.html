@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <!--[if lte IE 8]><html class="no-js lte-ie8" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--><html class="no-js" lang="en" ><!--<![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en" data-ng-app="specialsApp"><!--<![endif]-->
   <head>
 	<meta charset="utf-8">
 	<!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
-	<link rel="canonical" href="http://www.westlakewine.com/" />
-	<link rel="shortlink" href="http://www.westlakewine.com/" />
+	<link rel="canonical" href="http://www.westlakewine.com/online-specials/" />
+	<link rel="shortlink" href="http://www.westlakewine.com/online-specials/" />
 	<meta name="robots" content="follow, index" />
-	<title>Westlake Wine and Spirits</title>
-	<meta name="description" content="Awarded "Best Liquor Store in Greeley 2015" by the Greeley Tribune and their readers. We pride ourselves on a clean store, great prices, an eclectic inventory, and excellent customer service.">
+	<title>Weekly Featured Products</title>
+	<meta name="description" content="Select featured products every week at Westlake Wine & Spirits. Also check out our weekly specials on beer, wine, and spirits.">
 	<!-- Open Graph -->
-	<meta property="og:url" content="http://www.westlakewine.com/" />
+	<meta property="og:url" content="http://www.westlakewine.com/online-specials/" />
 	<meta property="og:site_name" content="Westlake Wine and Spirits" />
-	<meta property="og:title" content="Westlake Wine and Spirits" />
-	<meta property="og:description" content="Awarded "Best Liquor Store in Greeley 2015" by the Greeley Tribune and their readers. We pride ourselves on a clean store, great prices, an eclectic inventory, and excellent customer service." />
+	<meta property="og:title" content="Weekly Featured Products" />
+	<meta property="og:description" content="Select featured products every week at Westlake Wine & Spirits. Also check out our weekly specials on beer, wine, and spirits." />
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
@@ -32,6 +32,28 @@
 	
 
 	
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.6/moment.min.js"></script>
+	<script>
+	    var specialsApp = angular.module('specialsApp', []);
+	    specialsApp.controller('specialsCtrl', function ($scope, $http){
+	      $http.get('/all-specials.json').success(function(data) {
+	        $scope.specials = data;
+	      });
+	      $scope.greaterThan = function(prop){
+	        var nowDate = new Date();
+	          return function(item){
+	            var now = moment(nowDate).format("YYYY-MM-DD")
+	            var expiration =  moment(item[prop]).format("YYYY-MM-DD");
+	            //console.log("now", now, "expiration", expiration);
+	            if (expiration >= now) {
+	              return true;
+	            }
+	          }
+	        }
+	    });
+	</script>
+	
 
 
 	<!-- Apple Touch, Fav Icon, and Windows Tile -->
@@ -42,7 +64,7 @@
 	<!--[if lt IE 9]> <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script> <![endif]-->
 </head>
 
-  <body  class="">
+  <body data-ng-controller="specialsCtrl" class="">
       
   <script type="text/javascript">var ssaUrl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'pixel.dsp.townsquaremedia.com/iap/ed1232aa55539388';new Image().src = ssaUrl;</script>
   <!-- NEW TRACKING PIXEL -->
@@ -115,7 +137,7 @@
 <ul class="menu hide">
   
     <li class="nav-item">
-      <a href="/online-specials/" class="">Featured Products</a>
+      <a href="/online-specials/" class="active">Featured Products</a>
       
     </li>
   
@@ -145,127 +167,41 @@
     </div>
 </header>
 
-      <div class="content-wrapper front">
-  <main class="wrap" data-cms-content-wrapper="/_layouts/front.html"><div class="my-slider">
-  <ul>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-      <li>
-        <img src="/assets/images/winefinder_key-image-1 (2).jpg" />
-        <div class="caption">
-        <h3>Wine Tuesday</h3>
-        <a href="/wine-spirits-specials/">15% off any wine not already on sale</a>
+      <div class="content-wrapper not-front">
+    <main class="wrap">
+        <header>
+            <h1>Weekly Featured Products</h1>
+            <h3 class="subtitle"></h3>
+        </header>
+        <section class="clearfix" data-cms-content-wrapper="/_layouts/page.html"><p>Check out our latest Specials on sale today at Westlake Wine &amp; Spirits.</p>
+</section>
+
+        <div class="include-content">
+            
+               <div class="online-specials">
+    <div class="special-item"  data-ng-repeat="special in specials | orderBy:'-expiration_date' | filter: greaterThan('expiration_date', now)">
+      <h3 data-ng-bind="special.title" class="title"></h3>
+        <div id="edit-link">
+          <a href="https://app.cloudcannon.com/editor#/site/16760/collections/{{special.relative_path}}">
+            <img src="/assets/images/settings.svg" />
+            <span>Edit</span>
+          </a>
+        </div>
+        <div class="special-thumbnail">
+          <img data-ng-src="{{special.image}}" />
+        </div>
+        <div class="special-details">
+          
+          <h6 data-ng-bind="special.size"></h6>
+          <p class="expires">Expires: <span class="date" data-ng-bind="special.expiration_date | date: 'MM/dd/yy' "></span></p>
+          <p class="price reg-price" data-ng-bind="special.reg_price"></p>
+          <p class="price special-price" data-ng-bind="special.special_price"></p>
+        </div>
       </div>
-      </li>
-      
-    
-    
-    
-    
-    
-    
-      <li>
-        <img src="/assets/images/specials.jpg" />
-        <div class="caption">
-        <h3>Weekly Featured Products</h3>
-        <a href="/online-specials/">View Featured Products</a>
-      </div>
-      </li>
-      
-    
-  </ul>
-</div>
-
-
-<div class="top-right-block"><!--delivery-->
-  <a href="/wines-of-the-week">
-    <h5>Wines of the Week</h5>
-      <!-- <img class="phone" src="" /> -->
-   </a>
- </div>
-
-<div class="front-blocks-wrap">
-  <div class="front-blocks  bottom-left-block"> <!-- wine-spirits --->
-    <h5>Wine &amp; Spirit</h5>
-    <h6>Specials</h6>
-    <div class="btn"><a href="/wine-spirits-specials">Download</a></div>
   </div>
-
-  <div class="front-blocks bottom-center-block">
-    <h5>Beer</h5>
-    <h6>Specials</h6>
-    <div class="btn"><a href="/beer-specials">Download</a></div>
-  </div>
-
-
-  <div class="front-blocks  bottom-right-block"><!--wotw-->
-    <a href="/online-specials">
-        <h5>Featured</h5>
-        <h6>Products</h6>
-      <!-- <img src="" /> -->
-    </a>
-  </div>
-</div>
-</main>
+             
+        </div>
+    </main>
 </div>
 
     <footer class="site-footer">
