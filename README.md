@@ -10,8 +10,6 @@
 
 `$ brew install node010`
 
-
-
 # Setup the site
 
 ## Clone the repo
