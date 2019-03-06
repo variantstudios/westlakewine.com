@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title></title>
+  <link href="http://www.westlakewine.com/atom.xml" rel="self" />
+  <link href="http://www.westlakewine.com/"/>
+  <updated>2019-03-05T22:06:34-07:00</updated>
+  <id>http://www.westlakewine.com</id>
+  <author>
+    <name></name>
+    <email></email>
+  </author>
+  
+</feed>

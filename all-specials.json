@@ -1,0 +1,51 @@
+[
+
+    {    
+    "title": "LEOPOLD BROTHERS - maryland style rye whiskey",
+    "image": "/assets/images/leopold-bros--maryland-style-rye-whiskey.png",
+    "size": "750mL",
+    "expiration_date": "2019-03-05T00:00:00-07:00",
+    "reg_price": "$44.99",
+    "special_price": "$35.49",
+    "show_special": "true",
+    "relative_path": "_specials/four-roses-yellow-label-750-copy-3.md"
+    }
+    ,
+  
+    {    
+    "title": "ODELL'S - friek cellar series, jolly russian imperial stout, lugene chocolate milk stout",
+    "image": "/assets/images/odells-friek-cellar-series.png",
+    "size": "12oz",
+    "expiration_date": "2019-03-05T00:00:00-07:00",
+    "reg_price": "$8.99",
+    "special_price": "$6.49",
+    "show_special": "true",
+    "relative_path": "_specials/four-roses-yellow-label-750-copy-4.md"
+    }
+    ,
+  
+    {    
+    "title": "BROQUEL WINERY - cabernet sauvignon, malbec, pinot noir",
+    "image": "/assets/images/broquel-winery-malbec.png",
+    "size": "750mL",
+    "expiration_date": "2019-03-05T00:00:00-07:00",
+    "reg_price": "$14.99",
+    "special_price": "$11.49",
+    "show_special": "true",
+    "relative_path": "_specials/liberty-school-cabernet-750-copy-2.md"
+    }
+    ,
+  
+    {    
+    "title": "JOSE CUERVO TRADICIONAL - silver",
+    "image": "/assets/images/jose-cuervo-tradicional-silver.png",
+    "size": "750mL",
+    "expiration_date": "2019-03-05T00:00:00-07:00",
+    "reg_price": "$19.99",
+    "special_price": "$14.49",
+    "show_special": "true",
+    "relative_path": "_specials/snap-dragon-cabernet-750-copy-2.md"
+    }
+    
+  
+]
