@@ -1,5 +1,5 @@
 ---
-title: RUFFINO - lumina pinot grigio
+title: RUFFINO Lumina - pinot grigio
 size: 750ML
 image: /assets/images/ruffino-lumina-pinot-grigio.png
 reg_price: $10.99
