@@ -1,10 +1,10 @@
 ---
-title: LEOPOLD BROTHERS - maryland style rye whiskey
+title: BLACK VELVET - canadian whiskey
 size: 750mL
-image: /assets/images/leopold-bros--maryland-style-rye-whiskey.png
-reg_price: $44.99
-special_price: $35.49
-expiration_date: 2019-03-05 00:00:00 -0700
+image: /assets/images/black-velvet-canadian-whiskey.png
+reg_price: $10.99
+special_price: $8.49
+expiration_date: 2019-03-12 00:00:00 -0600
 show_special: true
 ---
 
