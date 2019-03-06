@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /404.html
-
-Sitemap: http://www.westlakewine.com/sitemap.xml
