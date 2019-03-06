@@ -6,5 +6,4 @@ subtitle: Buy Tickets Online
 permalink: /greeley-blues-jam/
 ---
 
-Coming Soon
-ttps://greeleybluesjam.org/tickets/
+[![](/assets/images/greeley-blues-jam-card.jpg)](https://greeleybluesjam.org/tickets/){: target="_blank"}
