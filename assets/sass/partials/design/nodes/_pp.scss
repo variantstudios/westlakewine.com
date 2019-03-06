@@ -1,0 +1,7 @@
+.pp-image {
+  @include breakpoint($tablet, $no-query: ".no-mq") {
+    float: right;
+    width: 50%;
+    padding: 0 1em 1em;
+  }
+}
