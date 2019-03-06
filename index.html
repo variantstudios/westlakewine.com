@@ -1,0 +1,52 @@
+---
+layout: front
+title: Westlake Wine and Spirits
+description: "Awarded \"Best Liquor Store in Greeley 2015\" by the Greeley Tribune and their readers.\_We pride ourselves on a clean store, great prices, an eclectic inventory, and excellent customer service."
+subtitle: "Greeley's Best Wine & Liquor Store"
+top_right_block:
+  title:  "Wines of the Week"
+  url: "/wines-of-the-week"
+bottom_left_block:
+  title: "Wine &amp; Spirit"
+  sub_title: "Specials"
+  url: '/wine-spirits-specials'
+bottom_center_block:
+  title: 'Beer'
+  sub_title: 'Specials'
+  url: '/beer-specials'
+bottom_right_block:
+  title: "Featured"
+  sub_title: "Products"
+  url: '/online-specials'
+---
+{% include slider.html %}
+
+<div class="top-right-block"><!--delivery-->
+  <a href="{{page.top_right_block.url}}">
+    <h5>{{page.top_right_block.title}}</h5>
+      <!-- <img class="phone" src="{{page.top_right_block.image_path}}" /> -->
+   </a>
+ </div>
+
+<div class="front-blocks-wrap">
+  <div class="front-blocks  bottom-left-block"> <!-- wine-spirits --->
+    <h5>{{page.bottom_left_block.title}}</h5>
+    <h6>{{page.bottom_left_block.sub_title}}</h6>
+    <div class="btn"><a href="{{page.bottom_left_block.url}}">Download</a></div>
+  </div>
+
+  <div class="front-blocks bottom-center-block">
+    <h5>{{page.bottom_center_block.title}}</h5>
+    <h6>{{page.bottom_center_block.sub_title}}</h6>
+    <div class="btn"><a href="{{page.bottom_center_block.url}}">Download</a></div>
+  </div>
+
+
+  <div class="front-blocks  bottom-right-block"><!--wotw-->
+    <a href="{{page.bottom_right_block.url}}">
+        <h5>{{page.bottom_right_block.title}}</h5>
+        <h6>{{page.bottom_right_block.sub_title}}</h6>
+      <!-- <img src="{{page.bottom_right_block.image_path}}" /> -->
+    </a>
+  </div>
+</div>

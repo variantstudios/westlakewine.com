@@ -1,0 +1,21 @@
+  <div class="online-specials">
+    <div class="special-item"  data-ng-repeat="special in specials | orderBy:'-expiration_date' | filter: greaterThan('expiration_date', now)">
+      <h3 data-ng-bind="special.title" class="title"></h3>
+        <div id="edit-link">
+          <a href="https://app.cloudcannon.com/editor#/site/{{ site.site_id }}/collections/{% raw %}{{special.relative_path}}{% endraw %}">
+            <img src="/assets/images/settings.svg" />
+            <span>Edit</span>
+          </a>
+        </div>
+        <div class="special-thumbnail">
+          <img data-ng-src="{% raw %}{{special.image}}{% endraw %}" />
+        </div>
+        <div class="special-details">
+          
+          <h6 data-ng-bind="special.size"></h6>
+          <p class="expires">Expires: <span class="date" data-ng-bind="special.expiration_date | date: 'MM/dd/yy' "></span></p>
+          <p class="price reg-price" data-ng-bind="special.reg_price"></p>
+          <p class="price special-price" data-ng-bind="special.special_price"></p>
+        </div>
+      </div>
+  </div>

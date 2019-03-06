@@ -1,0 +1,73 @@
+# Site settings
+title: Westlake Wine and Spirits
+email: team@variantstudios.com
+description:
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://www.westlakewine.com" # the base hostname & protocol for your site
+timezone: America/Denver
+site_id: 16760
+uploads_dir: '/assets/images/'
+version: "3.2.1" # the version of jekyll
+
+# Gems for plugins
+gems:
+  - jekyll-sitemap # Simple jekyll plugin that creates a sitemap.xml file and you can exclude files by adding 'sitemap:false' to the frontmatter of any file(s).
+
+
+# Build settings
+highlighter: pygments
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  toc_levels: 1..6
+
+# Permalinks
+
+# Include Sub Pages
+include: ['_pages']
+
+# Blog Settings
+# paginate: 10
+# paginate_path: "/news/page:num/"
+
+# Collections
+collections:
+  slider:
+    output: false
+  specials:
+    output: true
+  wines:
+    output: true
+defaults:
+  - scope:
+      type: "slider"
+    values:
+      layout: "default"
+  - scope:
+      type: "specials"
+    values:
+      layout: "default"
+  - scope:
+      type: "wines of the week"
+    values:
+      layout: "default"
+
+# Reading Time Feature
+reading_time:     true
+words_per_minute: 200
+
+# Disqus Comments
+disqus_short_name:
+disqus_show_comment_count:
+
+# typekit
+typekit: nhb8pcr
+
+# Social Media
+facebook: "https://www.facebook.com/WestlakeWine"
+twitter:
+
+# Google Analytics
+google_analytics_tracking_id: "UA-72460600-1"
+
+exclude: ["vendor","node_modules","package.json","Gemfile","gulpfile.js","*.scss"]
