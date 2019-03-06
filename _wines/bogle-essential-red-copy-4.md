@@ -1,10 +1,10 @@
 ---
-title: PESSIMIST- red blend
+title: MIRASSOU - pinot noir
 size: 750ML
-image: /assets/images/pessimist-red.png
-reg_price: $23.99
-special_price: $19.99
-expiration_date: 2019-03-05 00:00:00 -0700
+image: /assets/images/mirassou-pinot-noir.png
+reg_price: $9.99
+special_price: $7.99
+expiration_date: 2019-03-12 00:00:00 -0600
 show_wine: true
 ---
 
