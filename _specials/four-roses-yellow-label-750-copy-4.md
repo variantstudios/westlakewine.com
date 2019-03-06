@@ -1,12 +1,10 @@
 ---
-title: >-
-  ODELL'S - friek cellar series, jolly russian imperial stout, lugene chocolate
-  milk stout
-size: 12oz
-image: /assets/images/odells-friek-cellar-series.png
-reg_price: $8.99
-special_price: $6.49
-expiration_date: 2019-03-05 00:00:00 -0700
+title: 'WICKED WEED BREWING- ferme de chien, silencio'
+size: 500mL
+image: /assets/images/wicked-weed-brewing-ferme-de-chien.png
+reg_price: $15.99
+special_price: $13.49
+expiration_date: 2019-03-12 00:00:00 -0600
 show_special: true
 ---
 
