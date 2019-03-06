@@ -1,4 +1,9 @@
+---
+sitemap:
+  exclude: 'yes'
+---
 User-agent: *
-Disallow: /404.html
-
-Sitemap: http://www.westlakewine.com/sitemap.xml
+{% for page in site.pages %}{% if page.noindex %}{% assign isset = true %}Disallow: {{ page.url }}
+{% endif %}{% endfor %}{% if isset != true %}Disallow:
+{% endif %}
+Sitemap: {{ site.url }}/sitemap.xml

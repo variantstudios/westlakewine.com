@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="content-wrapper not-front">
+    <main class="wrap">
+        <header>
+            <h1>{{ page.title }}</h1>
+            <h3 class="subtitle">{{ page.subtitle }}</h3>
+        </header>
+        <section class="clearfix">{{ content }}</section>
+
+        <div class="include-content">
+            {% if page.url == "/coupon/" %}
+            {% include coupon.html %}
+            {% elsif page.url == "/online-specials/" %}
+             {% include online-specials.html %}
+             {% elsif page.url == "/beer-specials/" %}
+              {% include beer-specials.html %}
+              {% elsif page.url == "/wine-spirits-specials/" %}
+               {% include wine-specials.html %}
+               {% elsif page.url == "/wines-of-the-week/" %}
+                {% include wines-of-the-week.html %}
+            {% endif %}
+        </div>
+    </main>
+</div>

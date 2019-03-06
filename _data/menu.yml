@@ -1,0 +1,10 @@
+- text: Featured Products
+  url: /online-specials/
+- text: Beer Specials
+  url: /beer-specials/
+- text: 'Wine & Spirit Specials'
+  url: /wine-spirits-specials/
+- text: Wines of the Week
+  url: /wines-of-the-week/
+- text: Coupon
+  url: /coupon/
