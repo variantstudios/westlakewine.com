@@ -1,10 +1,10 @@
 ---
-title: RUFFINO Lumina - pinot grigio
+title: TRIMBACH - pinot blanc
 size: 750ML
-image: /assets/images/ruffino-lumina-pinot-grigio.png
-reg_price: $10.99
-special_price: $7.99
-expiration_date: 2019-03-12 00:00:00 -0600
+image: /assets/images/trimbach-pinot-blanc.png
+reg_price: $17.99
+special_price: $14.99
+expiration_date: 2019-03-19 00:00:00 -0600
 show_wine: true
 ---
 
