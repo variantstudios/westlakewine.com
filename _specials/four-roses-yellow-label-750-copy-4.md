@@ -1,10 +1,10 @@
 ---
-title: 'WICKED WEED BREWING- ferme de chien, silencio'
-size: 500mL
-image: /assets/images/wicked-weed-brewing-ferme-de-chien.png
-reg_price: $15.99
-special_price: $13.49
-expiration_date: 2019-03-12 00:00:00 -0600
+title: 19 CRIMES WINE - most types
+size: 750mL
+image: /assets/images/19-crimes-wine.png
+reg_price: $10.99
+special_price: $8.49
+expiration_date: 2019-03-19 00:00:00 -0600
 show_special: true
 ---
 
