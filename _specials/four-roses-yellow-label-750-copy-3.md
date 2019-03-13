@@ -1,10 +1,10 @@
 ---
-title: BLACK VELVET - canadian whiskey
+title: 'JAMESON Caskmates - IPA, stout'
 size: 750mL
-image: /assets/images/black-velvet-canadian-whiskey.png
-reg_price: $10.99
-special_price: $8.49
-expiration_date: 2019-03-12 00:00:00 -0600
+image: /assets/images/jameson-caskmates.png
+reg_price: $29.99
+special_price: $23.49
+expiration_date: 2019-03-19 00:00:00 -0600
 show_special: true
 ---
 
