@@ -1,7 +1,7 @@
 ---
 title: BARTLES & JAYMES - wine coolers
 size: 6pk
-image: /assets/images/bartles--jaymes-wine-coolers.png
+image: /assets/images/bartles--jaymes-wine-coolers-1.png
 reg_price: $9.99
 special_price: $8.49
 expiration_date: 2019-03-26 00:00:00 -0600
