@@ -1,10 +1,10 @@
 ---
-title: PROPHECY - rose
+title: INNOCENT BYSTANDER - pink moscato
 size: 750ML
-image: /assets/images/prophecy-rose.png
-reg_price: $10.99
-special_price: $8.99
-expiration_date: 2019-03-26 00:00:00 -0600
+image: /assets/images/innocent-bystander-pink-moscato.png
+reg_price: $14.99
+special_price: $12.99
+expiration_date: 2019-04-02 00:00:00 -0600
 show_wine: true
 ---
 
