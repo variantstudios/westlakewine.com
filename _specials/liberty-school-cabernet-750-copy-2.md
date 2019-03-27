@@ -1,10 +1,10 @@
 ---
-title: BARTLES & JAYMES - wine coolers
+title: JACK DANIEL'S Country Cocktails - all types
 size: 6pk
-image: /assets/images/bartles--jaymes-wine-coolers2.png
-reg_price: $9.99
-special_price: $8.49
-expiration_date: 2019-03-26 00:00:00 -0600
+image: /assets/images/jack-country-cocktails.png
+reg_price: $7.99
+special_price: $6.49
+expiration_date: 2019-04-02 00:00:00 -0600
 show_special: true
 ---
 
