@@ -1,5 +1,5 @@
 ---
-title: FREAK SHOW - zinfandel
+title: FREAKSHOW - zinfandel
 size: 750ML
 image: /assets/images/freakshow-zinfandel.png
 reg_price: $19.99
