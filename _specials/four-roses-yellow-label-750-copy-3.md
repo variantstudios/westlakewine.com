@@ -1,10 +1,10 @@
 ---
 title: 'FOUR VIRTUES - bourbon barrel cabernet sauvignon, zinfandel'
 size: 750mL
-image: /assets/images/dusse-cognac-1.png
-reg_price: $52.99
-special_price: $39.49
-expiration_date: 2019-03-26 00:00:00 -0600
+image: /assets/images/four-virtues-cab.png
+reg_price: $19.99
+special_price: $16.49
+expiration_date: 2019-04-02 00:00:00 -0600
 show_special: true
 ---
 
