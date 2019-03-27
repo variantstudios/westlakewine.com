@@ -1,5 +1,5 @@
 ---
-title: D'USSE - cognac VSOP
+title: 'FOUR VIRTUES - bourbon barrel cabernet sauvignon, zinfandel'
 size: 750mL
 image: /assets/images/dusse-cognac-1.png
 reg_price: $52.99
