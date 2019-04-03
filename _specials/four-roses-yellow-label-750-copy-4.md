@@ -1,6 +1,6 @@
 ---
-title: SMIRNOFF ICE - variety party pack 12pk bottles
-size: 750mL
+title: SMIRNOFF ICE - variety party pack
+size: 12pk bottles
 image: /assets/images/smirnoff-ice-party-pack.png
 reg_price: $17.99
 special_price: $13.99
