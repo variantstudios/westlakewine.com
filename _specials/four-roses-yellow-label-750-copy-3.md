@@ -1,10 +1,10 @@
 ---
-title: 'FOUR VIRTUES - bourbon barrel cabernet sauvignon, zinfandel'
+title: EAGLE RARE - Kentucky bourbon
 size: 750mL
-image: /assets/images/four-virtues-cab.png
-reg_price: $19.99
-special_price: $16.49
-expiration_date: 2019-04-02 00:00:00 -0600
+image: /assets/images/eagle-rare-kentucky-bourbon.png
+reg_price: $34.99
+special_price: $29.49
+expiration_date: 2019-04-09 00:00:00 -0600
 show_special: true
 ---
 
