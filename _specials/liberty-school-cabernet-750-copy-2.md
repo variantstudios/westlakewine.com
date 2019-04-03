@@ -1,5 +1,5 @@
 ---
-title: DELIRIUM RED - belgian ale
+title: DELIRIUM RED Belgian ale
 size: 750mL
 image: /assets/images/delirium-red-belgian-ale.png
 reg_price: $11.99
