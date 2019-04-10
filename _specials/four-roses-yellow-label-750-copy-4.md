@@ -1,10 +1,10 @@
 ---
-title: SMIRNOFF ICE - variety party pack
-size: 12pk bottles
-image: /assets/images/smirnoff-ice-party-pack.png
-reg_price: $17.99
-special_price: $13.99
-expiration_date: 2019-04-09 00:00:00 -0600
+title: AVION TEQUILA - blanco
+size: 375mL
+image: /assets/images/avion-tequila-blanco.png
+reg_price: $29.99
+special_price: $23.49
+expiration_date: 2019-04-16 00:00:00 -0600
 show_special: true
 ---
 
