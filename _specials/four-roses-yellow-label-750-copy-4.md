@@ -1,6 +1,6 @@
 ---
-title: AVION TEQUILA - blanco
-size: 375mL
+title: AVION TEQUILA - silver
+size: 750mL
 image: /assets/images/avion-tequila-blanco.png
 reg_price: $29.99
 special_price: $23.49
