@@ -1,10 +1,10 @@
 ---
-title: EAGLE RARE - Kentucky bourbon
-size: 750mL
-image: /assets/images/eagle-rare-kentucky-bourbon.png
-reg_price: $34.99
-special_price: $29.49
-expiration_date: 2019-04-09 00:00:00 -0600
+title: BLUE MOON - bottles
+size: 24 club pack
+image: /assets/images/blue-moon-bottle.png
+reg_price: $29.99
+special_price: $27.99
+expiration_date: 2019-04-16 00:00:00 -0600
 show_special: true
 ---
 
