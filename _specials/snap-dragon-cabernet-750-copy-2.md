@@ -1,6 +1,6 @@
 ---
 title: BUFFALO TRACE
-size: 1.75Ltr
+size: 1.75L
 image: /assets/images/buffalo-trace-bourbon-2.jpg
 reg_price: $44.99
 special_price: $39.49
