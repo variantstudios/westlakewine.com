@@ -1,6 +1,6 @@
 ---
 title: Le CAPITAINE- vouvray
-size: 750ML
+size: 750mL
 image: /assets/images/le-capitaine-vouvray.png
 reg_price: $14.99
 special_price: $12.99
