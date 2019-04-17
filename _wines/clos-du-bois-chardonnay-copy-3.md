@@ -1,6 +1,6 @@
 ---
 title: MARQUES de CACERES - rioja
-size: 750ML
+size: 750mL
 image: /assets/images/marques-de-caceres-rioja.png
 reg_price: $14.99
 special_price: $12.99
