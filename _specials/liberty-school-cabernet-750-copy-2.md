@@ -1,5 +1,5 @@
 ---
-title: SIMI - Sonoma dry rose
+title: SIMI - Sonoma dry rosé
 size: 750mL
 image: /assets/images/simi-rose.png
 reg_price: $14.99
