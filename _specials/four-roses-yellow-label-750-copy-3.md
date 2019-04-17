@@ -1,10 +1,10 @@
 ---
-title: BLUE MOON - bottles
-size: 24 club pack
-image: /assets/images/blue-moon-bottle.png
-reg_price: $29.99
-special_price: $27.99
-expiration_date: 2019-04-16 00:00:00 -0600
+title: WHISTLEPIG - 10yr rye single barrel
+size: bottled exclusively for Westlake Wine & Spirits
+image: /assets/images/whistlepig-10yr-rye-single-barrel.png
+reg_price: $89.99
+special_price: $79.49
+expiration_date: 2019-04-23 00:00:00 -0600
 show_special: true
 ---
 
