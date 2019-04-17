@@ -1,6 +1,6 @@
 ---
 title: A to Z  - pinot noir
-size: 750ML
+size: 750mL
 image: /assets/images/a-to-z-pinot-noir.png
 reg_price: $17.99
 special_price: $15.99
