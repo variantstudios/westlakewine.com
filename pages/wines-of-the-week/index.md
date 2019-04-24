@@ -8,8 +8,8 @@ subtitle:
 permalink: /wines-of-the-week/
 ---
 
-These wines are specifically selected for our FREE weekly Wine Tasting, every Friday from 4 - 7pm. This week's features – **Easter Wine Pairings****.****&nbsp;**Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help\!&nbsp;
+These wines are specifically selected for our FREE weekly Wine Tasting, every Friday from 4 - 7pm. This week's features – **Wine for the May Day Basket****.****&nbsp;**Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help\!&nbsp;
 
-Sale prices good through Tuesday, April 23, 2019.
+Sale prices good through Tuesday, April 30, 2019.
 
 &nbsp;
