@@ -1,5 +1,5 @@
 ---
-title: CIROC VODKA - watermelon
+title: CIROC VODKA - summer watermelon
 size: 750mL
 image: /assets/images/ciroc-vodka-watermelon.png
 reg_price: $32.99
