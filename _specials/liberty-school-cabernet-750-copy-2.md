@@ -1,10 +1,10 @@
 ---
-title: SIMI - Sonoma dry rosé
+title: CENOTE TEQUILA - blanco
 size: 750mL
-image: /assets/images/simi-rose.png
-reg_price: $14.99
-special_price: $7.49
-expiration_date: 2019-04-23 00:00:00 -0600
+image: /assets/images/cenote-tequila-blanco.png
+reg_price: $34.99
+special_price: $27.49
+expiration_date: 2019-04-30 00:00:00 -0600
 show_special: true
 ---
 
