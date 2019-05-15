@@ -1,10 +1,10 @@
 ---
-title: MUMM - napa brut rose
+title: FLOR DE CANA - grand reserve 7yr
 size: 750mL
-image: /assets/images/mumm-napa-brut-rose.png
-reg_price: $21.99
-special_price: $16.49
-expiration_date: 2019-05-14 00:00:00 -0600
+image: /assets/images/flor-de-cana-grand-reserve-7yr.png
+reg_price: $24.99
+special_price: $20.49
+expiration_date: 2019-05-21 00:00:00 -0600
 show_special: true
 ---
 
