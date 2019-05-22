@@ -1,10 +1,10 @@
 ---
-title: DALMORE - 12yr single malt scotch
+title: SIMI - sauvignon blanc
 size: 750mL
-image: /assets/images/dalmore-12yr-single-malt-scotch-1.png
-reg_price: $64.99
-special_price: $54.49
-expiration_date: 2019-05-21 00:00:00 -0600
+image: /assets/images/simi-sauvingnon-blanc-1.png
+reg_price: $12.99
+special_price: $9.49
+expiration_date: 2019-05-28 00:00:00 -0600
 show_special: true
 ---
 
