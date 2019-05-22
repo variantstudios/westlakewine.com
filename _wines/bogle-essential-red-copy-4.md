@@ -1,10 +1,10 @@
 ---
-title: YES WAY ROSE - rose
+title: OLIVER - blueberry moscato
 size: 750mL
-image: /assets/images/yes-way-rose-1.png
-reg_price: $12.99
-special_price: $10.99
-expiration_date: 2019-05-21 00:00:00 -0600
+image: /assets/images/oliver-winery-blueberry-moscato.png
+reg_price: $9.99
+special_price: $8.99
+expiration_date: 2019-05-28 00:00:00 -0600
 show_wine: true
 ---
 
