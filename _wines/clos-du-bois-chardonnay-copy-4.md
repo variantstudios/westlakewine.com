@@ -1,10 +1,10 @@
 ---
-title: A to Z - pinot noir
+title: SIMI - sonoma dry rose
 size: 750mL
-image: /assets/images/a-to-z-pinot-noir-1.png
-reg_price: $17.99
-special_price: $15.99
-expiration_date: 2019-05-21 00:00:00 -0600
+image: /assets/images/simi-rose-1.png
+reg_price: $14.99
+special_price: $5.99
+expiration_date: 2019-05-28 00:00:00 -0600
 show_wine: true
 ---
 
