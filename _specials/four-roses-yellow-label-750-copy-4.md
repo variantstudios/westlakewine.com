@@ -1,10 +1,10 @@
 ---
-title: ESTANCIA - pinot noir
+title: 'EL JIMADOR TEQUILA - blanco, reposado'
 size: 750mL
-image: /assets/images/estancia-pinot-noir-2.png
-reg_price: $12.99
-special_price: $10.49
-expiration_date: 2019-05-21 00:00:00 -0600
+image: /assets/images/el-jimador-tequila-blanco-1.png
+reg_price: $19.99
+special_price: $13.49
+expiration_date: 2019-05-28 00:00:00 -0600
 show_special: true
 ---
 
