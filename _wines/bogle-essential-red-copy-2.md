@@ -1,10 +1,10 @@
 ---
-title: BAROSSA VALLEY - gsm
+title: CARNIVOR - zinfandel
 size: 750mL
-image: /assets/images/barossa-valley-gsm.png
-reg_price: $10.99
+image: /assets/images/carnivor-zinfandel.png
+reg_price: $11.99
 special_price: $8.99
-expiration_date: 2019-05-28 00:00:00 -0600
+expiration_date: 2019-06-04 00:00:00 -0600
 show_wine: true
 ---
 
