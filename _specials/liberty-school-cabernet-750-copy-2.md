@@ -1,10 +1,10 @@
 ---
-title: 'MALIBU COCKTAILS - mango, pink lemonade, pineapple'
-size: 4pk can
-image: /assets/images/malibu-cocktails-mango-1.png
-reg_price: $9.99
-special_price: $7.49
-expiration_date: 2019-05-28 00:00:00 -0600
+title: 'LINE 39 - cabernet sauvignon, pinot grigio, pinot noir, sauvignon blanc'
+size: 750mL
+image: /assets/images/line-39-cabernet-sauvignon.png
+reg_price: $7.99
+special_price: $6.49
+expiration_date: 2019-06-04 00:00:00 -0600
 show_special: true
 ---
 
