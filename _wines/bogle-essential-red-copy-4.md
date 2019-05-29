@@ -1,5 +1,5 @@
 ---
-title: MENAGE A TROIS - bourbon barren cabernet sauvignon
+title: MENAGE A TROIS - bourbon barrel cabernet sauvignon
 size: 750mL
 image: /assets/images/menage-a-trois-bourbon-cabernet-sauvignon.png
 reg_price: $12.99
