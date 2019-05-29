@@ -1,10 +1,10 @@
 ---
-title: 'EL JIMADOR TEQUILA - blanco, reposado'
-size: 750mL
-image: /assets/images/el-jimador-tequila-blanco-1.png
-reg_price: $19.99
-special_price: $13.49
-expiration_date: 2019-05-28 00:00:00 -0600
+title: 'SALVADOR''S premixed margarita - lime, strawberry'
+size: 1.75L
+image: /assets/images/salvadors-strawberry-premixed-margarita.png
+reg_price: $9.99
+special_price: $7.49
+expiration_date: 2019-06-04 00:00:00 -0600
 show_special: true
 ---
 
