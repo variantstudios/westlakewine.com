@@ -1,10 +1,10 @@
 ---
-title: BAREFOOT BUBBLY - peach
+title: CRISTALINO - brut
 size: 750mL
-image: /assets/images/barefoot-bubbly-peach.png
-reg_price: $11.99
-special_price: $9.99
-expiration_date: 2019-06-11 00:00:00 -0600
+image: /assets/images/cristalino-brut-1.png
+reg_price: $8.99
+special_price: $7.99
+expiration_date: 2019-06-18 00:00:00 -0600
 show_wine: true
 ---
 
