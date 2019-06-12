@@ -1,10 +1,10 @@
 ---
-title: SMIRNOFF VODKA - Colorado edition
+title: GRAHAM'S - 10yr tawny porto
 size: 750mL
-image: /assets/images/screenshot-20190605-134022-gallery-2.jpg
-reg_price: $14.99
-special_price: $11.49
-expiration_date: 2019-06-11 00:00:00 -0600
+image: /assets/images/grahams-10yr-tawny-porto.png
+reg_price: $32.99
+special_price: $26.49
+expiration_date: 2019-06-18 00:00:00 -0600
 show_special: true
 ---
 
