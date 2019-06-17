@@ -1,8 +1,8 @@
 ---
 title: MAKE IT PERSONAL
-image: /assets/images/slider/make-it-personal.jpg
+image: /assets/images/screenshot-20190617-081808-pic-collage-2.jpg
 link_path:
-link_label: 'Johnny Walker Engraving event Friday, June 15th 4 to 7pm'
+link_label: Engraving Event
 show_slide: false
 weight: -1
 ---
