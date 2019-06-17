@@ -2,8 +2,8 @@
 title: MAKE IT PERSONAL
 image: /assets/images/screenshot-20190617-081808-pic-collage-2.jpg
 link_path:
-link_label: Engraving Event
-show_slide: false
+link_label: Engraving Event THIS WEEK!
+show_slide: true
 weight: -1
 ---
 
