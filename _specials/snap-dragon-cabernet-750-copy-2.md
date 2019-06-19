@@ -1,10 +1,10 @@
 ---
-title: FERRARI CARANO - chardonnay
-size: 750mL
-image: /assets/images/ferrari-carano-chardonnay.png
-reg_price: $24.99
-special_price: $19.49
-expiration_date: 2019-06-18 00:00:00 -0600
+title: SEAGRAMS VODKA
+size: 1.75L
+image: /assets/images/seagrams-vodka.png
+reg_price: $15.99
+special_price: $13.49
+expiration_date: 2019-06-25 00:00:00 -0600
 show_special: true
 ---
 
