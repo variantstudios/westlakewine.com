@@ -8,8 +8,8 @@ subtitle:
 permalink: /wines-of-the-week/
 ---
 
-These wines are specifically selected for our FREE weekly Wine Tasting, every Friday from 4 - 7pm. This week's features – **Father's Day Wine****.****&nbsp;**Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help\!&nbsp;
+These wines are specifically selected for our FREE weekly Wine Tasting, every Friday from 4 - 7pm. This week's features – **Wine to Stampede to****.****&nbsp;**Stop by Westlake Wine & Spirits today, and shop our great wine selection and variety. &nbsp;Our knowledgeable staff will be glad to help\!&nbsp;
 
-Sale prices good through Tuesday, June 18, 2019.
+Sale prices good through Tuesday, June 25, 2019.
 
 &nbsp;
