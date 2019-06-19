@@ -1,10 +1,10 @@
 ---
-title: GRAHAM'S - 10yr tawny porto
-size: 750mL
-image: /assets/images/grahams-10yr-tawny-porto.png
-reg_price: $32.99
-special_price: $26.49
-expiration_date: 2019-06-18 00:00:00 -0600
+title: MYX FUSIONS - most types
+size: 4pk
+image: /assets/images/myx-fusions-moscato.png
+reg_price: $9.99
+special_price: $8.49
+expiration_date: 2019-06-25 00:00:00 -0600
 show_special: true
 ---
 
