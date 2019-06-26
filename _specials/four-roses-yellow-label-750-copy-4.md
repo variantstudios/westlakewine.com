@@ -1,10 +1,10 @@
 ---
-title: BERINGER - white zinfandel
-size: 1.5L
-image: /assets/images/beringer-white-zinfandel-1-5l.png
-reg_price: $11.99
-special_price: $7.99
-expiration_date: 2019-06-25 00:00:00 -0600
+title: 'JOSE CUERVO sparkling margaritas cocktail - lime, rose, strawberry'
+size: 4pk
+image: /assets/images/jose-cuervo-sparkling-margaritas-lime.png
+reg_price: $7.99
+special_price: $6.49
+expiration_date: 2019-07-02 00:00:00 -0600
 show_special: true
 ---
 
