@@ -1,5 +1,5 @@
 ---
-title: 'JOSE CUERVO sparkling margaritas cocktail - lime, rose, strawberry'
+title: 'JOSE CUERVO sparkling margarita cocktails - lime, rose, strawberry'
 size: 4pk
 image: /assets/images/jose-cuervo-sparkling-margaritas-lime-1.png
 reg_price: $7.99
