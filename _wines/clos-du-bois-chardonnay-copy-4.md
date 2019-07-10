@@ -1,10 +1,10 @@
 ---
-title: YELLOW TAIL - sparkling white
+title: TOAD HOLLOW - risque
 size: 750mL
-image: /assets/images/yellow-tail-sparkling-white.png
-reg_price: $9.99
-special_price: $8.49
-expiration_date: 2019-07-09 00:00:00 -0600
+image: /assets/images/toad-hollow-risque.png
+reg_price: $14.99
+special_price: $12.99
+expiration_date: 2019-07-16 00:00:00 -0600
 show_wine: true
 ---
 
