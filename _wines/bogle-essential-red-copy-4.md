@@ -1,10 +1,10 @@
 ---
-title: CUPCAKE - chardonnay
+title: HONORO VERA - rose
 size: 750mL
-image: /assets/images/cupcake-chardonnay.png
-reg_price: $9.99
-special_price: $6.99
-expiration_date: 2019-07-09 00:00:00 -0600
+image: /assets/images/honoro-vera-rose.png
+reg_price: $10.99
+special_price: $7.99
+expiration_date: 2019-07-16 00:00:00 -0600
 show_wine: true
 ---
 
