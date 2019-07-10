@@ -1,10 +1,10 @@
 ---
-title: LAYER CAKE - rose
+title: OLIVER VINEYARDS - apple pie wine
 size: 750mL
-image: /assets/images/layer-cake-rose-2.png
-reg_price: $12.99
+image: /assets/images/olivery-winery-apple-pie-1.jpg
+reg_price: $9.99
 special_price: $4.99
-expiration_date: 2019-07-09 00:00:00 -0600
+expiration_date: 2019-07-16 00:00:00 -0600
 show_special: true
 ---
 
