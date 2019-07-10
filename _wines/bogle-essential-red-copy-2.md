@@ -1,10 +1,10 @@
 ---
-title: BAREFOOT - pinot noir
+title: BUTTERNUT - chardonnay
 size: 750mL
-image: /assets/images/barefoot-pinot-noir-1.png
-reg_price: $7.99
-special_price: $5.99
-expiration_date: 2019-07-09 00:00:00 -0600
+image: /assets/images/butternut-chardonnay.png
+reg_price: $14.99
+special_price: $12.99
+expiration_date: 2019-07-16 00:00:00 -0600
 show_wine: true
 ---
 
