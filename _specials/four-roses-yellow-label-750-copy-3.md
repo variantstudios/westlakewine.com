@@ -1,10 +1,10 @@
 ---
-title: UV VODKA
-size: 1.75L
+title: 'TOWER 56 - almondretto, coffee, vodka'
+size: 750mL
 image: /assets/images/uv-vodka-1-75l.png
-reg_price: $12.99
-special_price: $10.49
-expiration_date: 2019-07-16 00:00:00 -0600
+reg_price: $21.99
+special_price: $18.99
+expiration_date: 2019-07-23 00:00:00 -0600
 show_special: true
 ---
 
