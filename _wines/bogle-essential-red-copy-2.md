@@ -1,10 +1,10 @@
 ---
-title: BUTTERNUT - chardonnay
+title: APALTAGUA - rose
 size: 750mL
-image: /assets/images/butternut-chardonnay.png
-reg_price: $14.99
-special_price: $12.99
-expiration_date: 2019-07-16 00:00:00 -0600
+image: /assets/images/apaltagua-rose.png
+reg_price: $11.99
+special_price: $9.99
+expiration_date: 2019-07-23 00:00:00 -0600
 show_wine: true
 ---
 
