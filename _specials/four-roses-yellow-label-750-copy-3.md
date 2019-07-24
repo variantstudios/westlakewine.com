@@ -1,10 +1,10 @@
 ---
-title: 'TOWER 56 - almondretto, coffee, vodka'
-size: 750mL
-image: /assets/images/tower-56-1.png
-reg_price: $21.99
-special_price: $18.99
-expiration_date: 2019-07-23 00:00:00 -0600
+title: MIGHTY SWELL - spritzer variety pack
+size: 12pk
+image: /assets/images/mighty-swell-spritzer-variety-pack.png
+reg_price: $16.99
+special_price: $14.49
+expiration_date: 2019-07-30 00:00:00 -0600
 show_special: true
 ---
 
