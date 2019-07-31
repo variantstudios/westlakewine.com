@@ -1,10 +1,10 @@
 ---
-title: SUTTER HOME - white zinfandel
-size: 1.5L
-image: /assets/images/sutter-home-white-zinfandel-1-5l.png
-reg_price: $11.99
-special_price: $6.49
-expiration_date: 2019-07-30 00:00:00 -0600
+title: JACK DANIEL'S - legacy edition
+size: 750mL
+image: /assets/images/jack-daniels-legacy-edition.png
+reg_price: $27.99
+special_price: $21.49
+expiration_date: 2019-08-06 00:00:00 -0600
 show_special: true
 ---
 
