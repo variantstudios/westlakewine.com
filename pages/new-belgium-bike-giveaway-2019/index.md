@@ -12,3 +12,5 @@ image_path: /assets/images/slider/2019-NB-Bike-giveaway-1.jpg
 **Enter at Westlake Wine & Spirits**<br>2024 35th Ave, Greeley, CO<br>Begins August 2, 2019<br>Draw Date August 30, 2019
 
 \*Must be 21+ to enter. No purchase necessary
+
+![](/assets/images/2019-bike.jpg){: width="800" height="533"}
