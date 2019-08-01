@@ -13,4 +13,4 @@ image_path: /assets/images/slider/2019-NB-Bike-giveaway-1.jpg
 
 \*Must be 21+ to enter. No purchase necessary
 
-![](/assets/images/2019-bike.jpg){: width="800" height="533"}
+&nbsp;
