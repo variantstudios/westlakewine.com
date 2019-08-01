@@ -5,7 +5,7 @@ description: >-
   Westlake Wine & Spirits, along with New Belgium, are giving away one bike to
   one lucky winner!
 subtitle:
-permalink: /new-belgium-bike-giveaway-2018/
+permalink: /new-belgium-bike-giveaway-2019/
 image_path: /assets/images/slider/2019-NB-Bike-giveaway-1.jpg
 ---
 
